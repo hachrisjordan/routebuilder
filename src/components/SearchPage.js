@@ -228,31 +228,6 @@ export function SearchPage() {
   // - No backtracking to previously visited countries (except direct connections)
   // - Maximum 2 layovers in US/Canada unless both origin and destination are in US/Canada
   const findPossibleRoutes = (origin, destination, visited = new Set(), visitedCountries = new Set(), path = [], directDistance = null) => {
-    // Check if route violates single zone rule
-    const violatesSingleZoneRule = (originAirport, destAirport, connectingAirport) => {
-      const originZone = airports.find(a => a.IATA === originAirport)?.Zone;
-      const destZone = airports.find(a => a.IATA === destAirport)?.Zone;
-      const connectZone = airports.find(a => a.IATA === connectingAirport)?.Zone;
-
-      // If origin and destination are in same zone
-      if (originZone === destZone) {
-        // Check if connection is through a different zone
-        if (connectZone !== originZone) {
-          return true; // Rule violated
-        }
-      }
-      return false; // Rule not violated
-    };
-
-    // Modify the route finding logic
-    if (path.length >= 2) { // When evaluating a connection
-      const originAirport = path[0];
-      const connectingAirport = path[path.length - 1];
-      if (violatesSingleZoneRule(originAirport, destination, connectingAirport)) {
-        return routes; // Skip this route as it violates the single zone rule
-      }
-    }
-
     // Create filtered allRoutes based on avoided airlines
     const allRoutes = [
       ...(avoidAirlines.includes('UA') ? [] : UA_miles),
@@ -324,10 +299,20 @@ export function SearchPage() {
     
     if (!currentAirport) return [];
 
-    // Get all possible next segments
+    // Move zone check to the filter stage
     const possibleSegments = allRoutes.filter(route => {
       if (route["Departure IATA"] !== currentPoint) return false;
       
+      // Get zones
+      const originZone = airports.find(a => a.IATA === origin)?.Zone;
+      const destZone = airports.find(a => a.IATA === destination)?.Zone;
+      const arrivalZone = airports.find(a => a.IATA === route["Arrival IATA"])?.Zone;
+
+      // If origin and destination are in same zone, prevent connections through different zones
+      if (originZone === destZone && arrivalZone !== originZone) {
+        return false;
+      }
+
       // Add co-terminal validation
       if (!isValidCoTerminalRoute(route, path)) {
         return false;
