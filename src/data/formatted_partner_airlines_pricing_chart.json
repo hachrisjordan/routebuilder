@@ -458,5 +458,85 @@
         "Premium Economy": 60000,
         "Business": 100000,
         "First": 0
+    },
+    {
+        "From Region":"Pacific",
+        "To Region":"Atlantic",
+        "Min Distance":0,
+        "Max Distance":2500,
+        "Economy":12500,
+        "Premium Economy":0,
+        "Business":30000,
+        "First":50000
+    },
+    {
+        "From Region":"Pacific",
+        "To Region":"Atlantic",
+        "Min Distance":2501,
+        "Max Distance":5000,
+        "Economy":25000,
+        "Premium Economy":0,
+        "Business":45000,
+        "First":60000
+    },
+    {
+        "From Region":"Pacific",
+        "To Region":"Atlantic",
+        "Min Distance":5001,
+        "Max Distance":7000,
+        "Economy":37500,
+        "Premium Economy":0,
+        "Business":60000,
+        "First":80000
+    },
+    {
+        "From Region":"Pacific",
+        "To Region":"Atlantic",
+        "Min Distance":7001,
+        "Max Distance":30000,
+        "Economy":55000,
+        "Premium Economy":0,
+        "Business":90000,
+        "First":130000
+    },
+    {
+        "From Region":"Atlantic",
+        "To Region":"Pacific",
+        "Min Distance":0,
+        "Max Distance":2500,
+        "Economy":12500,
+        "Premium Economy":0,
+        "Business":30000,
+        "First":50000
+    },
+    {
+        "From Region":"Atlantic",
+        "To Region":"Pacific",
+        "Min Distance":2501,
+        "Max Distance":5000,
+        "Economy":25000,
+        "Premium Economy":0,
+        "Business":45000,
+        "First":60000
+    },
+    {
+        "From Region":"Atlantic",
+        "To Region":"Pacific",
+        "Min Distance":5001,
+        "Max Distance":7000,
+        "Economy":37500,
+        "Premium Economy":0,
+        "Business":60000,
+        "First":80000
+    },
+    {
+        "From Region":"Atlantic",
+        "To Region":"Pacific",
+        "Min Distance":7001,
+        "Max Distance":30000,
+        "Economy":55000,
+        "Premium Economy":0,
+        "Business":90000,
+        "First":130000
     }
 ]

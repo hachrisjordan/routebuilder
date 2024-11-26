@@ -1648,6 +1648,102 @@ export const airports = [
         "Zone":"North America"
     },
     {
+        "Country":"Guatemala",
+        "Latitude":14.58327,
+        "Longitude":-90.527397,
+        "Name":"Guatemala City La Aurora International Airport",
+        "IATA":"GUA",
+        "Zone":"North America"
+    },
+    {
+        "Country":"Guatemala",
+        "Latitude":14.58327,
+        "Longitude":-90.527397,
+        "Name":"Guatemala City La Aurora International Airport",
+        "IATA":"GUA",
+        "Zone":"North America"
+    },
+    {
+        "Country":"Guatemala",
+        "Latitude":14.58327,
+        "Longitude":-90.527397,
+        "Name":"Guatemala City La Aurora International Airport",
+        "IATA":"GUA",
+        "Zone":"North America"
+    },
+    {
+        "Country":"Guatemala",
+        "Latitude":14.58327,
+        "Longitude":-90.527397,
+        "Name":"Guatemala City La Aurora International Airport",
+        "IATA":"GUA",
+        "Zone":"North America"
+    },
+    {
+        "Country":"Guatemala",
+        "Latitude":14.58327,
+        "Longitude":-90.527397,
+        "Name":"Guatemala City La Aurora International Airport",
+        "IATA":"GUA",
+        "Zone":"North America"
+    },
+    {
+        "Country":"Guatemala",
+        "Latitude":14.58327,
+        "Longitude":-90.527397,
+        "Name":"Guatemala City La Aurora International Airport",
+        "IATA":"GUA",
+        "Zone":"North America"
+    },
+    {
+        "Country":"Guatemala",
+        "Latitude":14.58327,
+        "Longitude":-90.527397,
+        "Name":"Guatemala City La Aurora International Airport",
+        "IATA":"GUA",
+        "Zone":"North America"
+    },
+    {
+        "Country":"Guatemala",
+        "Latitude":14.58327,
+        "Longitude":-90.527397,
+        "Name":"Guatemala City La Aurora International Airport",
+        "IATA":"GUA",
+        "Zone":"North America"
+    },
+    {
+        "Country":"Guatemala",
+        "Latitude":14.58327,
+        "Longitude":-90.527397,
+        "Name":"Guatemala City La Aurora International Airport",
+        "IATA":"GUA",
+        "Zone":"North America"
+    },
+    {
+        "Country":"Guatemala",
+        "Latitude":14.58327,
+        "Longitude":-90.527397,
+        "Name":"Guatemala City La Aurora International Airport",
+        "IATA":"GUA",
+        "Zone":"North America"
+    },
+    {
+        "Country":"Guatemala",
+        "Latitude":14.58327,
+        "Longitude":-90.527397,
+        "Name":"Guatemala City La Aurora International Airport",
+        "IATA":"GUA",
+        "Zone":"North America"
+    },
+    {
+        "Country":"Guatemala",
+        "Latitude":14.58327,
+        "Longitude":-90.527397,
+        "Name":"Guatemala City La Aurora International Airport",
+        "IATA":"GUA",
+        "Zone":"North America"
+    },
+    {
         "Country":"Switzerland",
         "Latitude":46.23806,
         "Longitude":6.10895,
@@ -1829,6 +1925,102 @@ export const airports = [
         "Longitude":-69.6689,
         "Name":"Santo Domingo Las Americas International Airport",
         "IATA":"SDQ",
+        "Zone":"North America"
+    },
+    {
+        "Country":"Saint Kitts And Nevis",
+        "Latitude":17.31119,
+        "Longitude":-62.718601,
+        "Name":"Basseterre Robert L. Bradshaw International Airport",
+        "IATA":"SKB",
+        "Zone":"North America"
+    },
+    {
+        "Country":"Saint Kitts And Nevis",
+        "Latitude":17.31119,
+        "Longitude":-62.718601,
+        "Name":"Basseterre Robert L. Bradshaw International Airport",
+        "IATA":"SKB",
+        "Zone":"North America"
+    },
+    {
+        "Country":"Saint Kitts And Nevis",
+        "Latitude":17.31119,
+        "Longitude":-62.718601,
+        "Name":"Basseterre Robert L. Bradshaw International Airport",
+        "IATA":"SKB",
+        "Zone":"North America"
+    },
+    {
+        "Country":"Saint Kitts And Nevis",
+        "Latitude":17.31119,
+        "Longitude":-62.718601,
+        "Name":"Basseterre Robert L. Bradshaw International Airport",
+        "IATA":"SKB",
+        "Zone":"North America"
+    },
+    {
+        "Country":"Saint Kitts And Nevis",
+        "Latitude":17.31119,
+        "Longitude":-62.718601,
+        "Name":"Basseterre Robert L. Bradshaw International Airport",
+        "IATA":"SKB",
+        "Zone":"North America"
+    },
+    {
+        "Country":"Saint Kitts And Nevis",
+        "Latitude":17.31119,
+        "Longitude":-62.718601,
+        "Name":"Basseterre Robert L. Bradshaw International Airport",
+        "IATA":"SKB",
+        "Zone":"North America"
+    },
+    {
+        "Country":"Saint Kitts And Nevis",
+        "Latitude":17.31119,
+        "Longitude":-62.718601,
+        "Name":"Basseterre Robert L. Bradshaw International Airport",
+        "IATA":"SKB",
+        "Zone":"North America"
+    },
+    {
+        "Country":"Saint Kitts And Nevis",
+        "Latitude":17.31119,
+        "Longitude":-62.718601,
+        "Name":"Basseterre Robert L. Bradshaw International Airport",
+        "IATA":"SKB",
+        "Zone":"North America"
+    },
+    {
+        "Country":"Saint Kitts And Nevis",
+        "Latitude":17.31119,
+        "Longitude":-62.718601,
+        "Name":"Basseterre Robert L. Bradshaw International Airport",
+        "IATA":"SKB",
+        "Zone":"North America"
+    },
+    {
+        "Country":"Saint Kitts And Nevis",
+        "Latitude":17.31119,
+        "Longitude":-62.718601,
+        "Name":"Basseterre Robert L. Bradshaw International Airport",
+        "IATA":"SKB",
+        "Zone":"North America"
+    },
+    {
+        "Country":"Saint Kitts And Nevis",
+        "Latitude":17.31119,
+        "Longitude":-62.718601,
+        "Name":"Basseterre Robert L. Bradshaw International Airport",
+        "IATA":"SKB",
+        "Zone":"North America"
+    },
+    {
+        "Country":"Saint Kitts And Nevis",
+        "Latitude":17.31119,
+        "Longitude":-62.718601,
+        "Name":"Basseterre Robert L. Bradshaw International Airport",
+        "IATA":"SKB",
         "Zone":"North America"
     },
     {
@@ -2621,7 +2813,7 @@ export const airports = [
         "Longitude":77.103081,
         "Name":"Delhi Indira Gandhi International Airport",
         "IATA":"DEL",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"United States",
@@ -2813,7 +3005,7 @@ export const airports = [
         "Longitude":72.634651,
         "Name":"Ahmedabad International Airport",
         "IATA":"AMD",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"United Arab Emirates",
@@ -2861,7 +3053,7 @@ export const airports = [
         "Longitude":77.705559,
         "Name":"Bengaluru Kempegowda International Airport",
         "IATA":"BLR",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -2869,7 +3061,7 @@ export const airports = [
         "Longitude":72.867912,
         "Name":"Mumbai Chhatrapati Shivaji International Airport",
         "IATA":"BOM",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"Indonesia",
@@ -2925,7 +3117,7 @@ export const airports = [
         "Longitude":88.446716,
         "Name":"Kolkata Subhas Chandra Bose International Airport",
         "IATA":"CCU",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"Indonesia",
@@ -2973,7 +3165,7 @@ export const airports = [
         "Longitude":76.401924,
         "Name":"Cochin International Airport",
         "IATA":"COK",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"Denmark",
@@ -3053,7 +3245,7 @@ export const airports = [
         "Longitude":78.431946,
         "Name":"Hyderabad Rajiv Gandhi International Airport",
         "IATA":"HYD",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"United Kingdom",
@@ -3165,7 +3357,7 @@ export const airports = [
         "Longitude":80.180511,
         "Name":"Chennai International Airport",
         "IATA":"MAA",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"Maldives",
@@ -4941,7 +5133,7 @@ export const airports = [
         "Longitude":84.951172,
         "Name":"Gaya Airport",
         "IATA":"GAY",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"Thailand",
@@ -6237,7 +6429,7 @@ export const airports = [
         "Longitude":73.832108,
         "Name":"Goa Dabolim Airport",
         "IATA":"GOI",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6245,7 +6437,7 @@ export const airports = [
         "Longitude":74.797256,
         "Name":"Amritsar International Airport",
         "IATA":"ATQ",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6253,7 +6445,7 @@ export const airports = [
         "Longitude":85.81778,
         "Name":"Bhubaneswar Biju Patnaik International Airport",
         "IATA":"BBI",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6261,7 +6453,7 @@ export const airports = [
         "Longitude":73.22628,
         "Name":"Vadodara Airport",
         "IATA":"BDQ",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6269,7 +6461,7 @@ export const airports = [
         "Longitude":69.670143,
         "Name":"Bhuj Airport",
         "IATA":"BHJ",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6277,7 +6469,7 @@ export const airports = [
         "Longitude":77.337372,
         "Name":"Bhopal Raja Bhoj Airport",
         "IATA":"BHO",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6285,7 +6477,7 @@ export const airports = [
         "Longitude":78.180252,
         "Name":"Dehradun Jolly Grant Airport",
         "IATA":"DED",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6293,7 +6485,7 @@ export const airports = [
         "Longitude":91.58593,
         "Name":"Guwahati International Airport",
         "IATA":"GAU",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6301,7 +6493,7 @@ export const airports = [
         "Longitude":76.788544,
         "Name":"Chandigarh Airport",
         "IATA":"IXC",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6309,7 +6501,7 @@ export const airports = [
         "Longitude":92.729736,
         "Name":"Port Blair Veer Savarkar International Airport",
         "IATA":"IXZ",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6317,7 +6509,7 @@ export const airports = [
         "Longitude":73.919693,
         "Name":"Pune Airport",
         "IATA":"PNQ",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6325,7 +6517,7 @@ export const airports = [
         "Longitude":76.920113,
         "Name":"Trivandrum International Airport",
         "IATA":"TRV",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6333,7 +6525,7 @@ export const airports = [
         "Longitude":73.896103,
         "Name":"Udaipur Maharana Pratap Airport",
         "IATA":"UDR",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6341,7 +6533,7 @@ export const airports = [
         "Longitude":77.043381,
         "Name":"Coimbatore International Airport",
         "IATA":"CJB",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"Qatar",
@@ -6357,7 +6549,7 @@ export const airports = [
         "Longitude":73.860626,
         "Name":"Goa Manohar International Airport",
         "IATA":"GOX",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6365,7 +6557,7 @@ export const airports = [
         "Longitude":71.037094,
         "Name":"Rajkot Hirasar Airport",
         "IATA":"HSR",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6373,7 +6565,7 @@ export const airports = [
         "Longitude":75.801079,
         "Name":"Indore Devi Ahilyabai Holkar Airport",
         "IATA":"IDR",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6381,7 +6573,7 @@ export const airports = [
         "Longitude":74.887611,
         "Name":"Mangalore International Airport",
         "IATA":"IXE",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6389,7 +6581,7 @@ export const airports = [
         "Longitude":75.812157,
         "Name":"Jaipur Airport",
         "IATA":"JAI",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6397,7 +6589,7 @@ export const airports = [
         "Longitude":73.048859,
         "Name":"Jodhpur Airport",
         "IATA":"JDH",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"Saudi Arabia",
@@ -6413,7 +6605,7 @@ export const airports = [
         "Longitude":70.01255,
         "Name":"Jamnagar Airport",
         "IATA":"JGA",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6421,7 +6613,7 @@ export const airports = [
         "Longitude":80.889328,
         "Name":"Lucknow Chaudhary Charan Singh Airport",
         "IATA":"LKO",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6429,7 +6621,7 @@ export const airports = [
         "Longitude":79.04718,
         "Name":"Nagpur Dr. Babasaheb Ambedkar International Airport",
         "IATA":"NAG",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6437,7 +6629,7 @@ export const airports = [
         "Longitude":85.08799,
         "Name":"Patna Jay Prakash Narayan International Airport",
         "IATA":"PAT",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6445,7 +6637,7 @@ export const airports = [
         "Longitude":80.796837,
         "Name":"Vijayawada Airport",
         "IATA":"VGA",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6453,7 +6645,7 @@ export const airports = [
         "Longitude":82.862297,
         "Name":"Varanasi International Airport",
         "IATA":"VNS",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6461,7 +6653,7 @@ export const airports = [
         "Longitude":83.22448,
         "Name":"Visakhapatnam Airport",
         "IATA":"VTZ",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6469,7 +6661,7 @@ export const airports = [
         "Longitude":93.89669,
         "Name":"Imphal Airport",
         "IATA":"IMF",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6477,7 +6669,7 @@ export const airports = [
         "Longitude":91.240448,
         "Name":"Agartala Airport",
         "IATA":"IXA",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6485,7 +6677,7 @@ export const airports = [
         "Longitude":92.978737,
         "Name":"Silchar Airport",
         "IATA":"IXS",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6493,7 +6685,7 @@ export const airports = [
         "Longitude":88.32856,
         "Name":"Siliguri Bagdogra Airport",
         "IATA":"IXB",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6501,7 +6693,7 @@ export const airports = [
         "Longitude":74.837379,
         "Name":"Jammu Airport",
         "IATA":"IXJ",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6509,7 +6701,7 @@ export const airports = [
         "Longitude":77.546509,
         "Name":"Leh Kushok Bakula Rimpochee Airport",
         "IATA":"IXL",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6517,7 +6709,7 @@ export const airports = [
         "Longitude":85.321671,
         "Name":"Ranchi Birsa Munda Airport",
         "IATA":"IXR",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6525,7 +6717,7 @@ export const airports = [
         "Longitude":75.398109,
         "Name":"Aurangabad Airport",
         "IATA":"IXU",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6533,7 +6725,7 @@ export const airports = [
         "Longitude":81.738747,
         "Name":"Raipur Swami Vivekananda Airport",
         "IATA":"RPR",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6541,7 +6733,7 @@ export const airports = [
         "Longitude":74.774246,
         "Name":"Srinagar Airport",
         "IATA":"SXR",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6549,7 +6741,7 @@ export const airports = [
         "Longitude":95.016922,
         "Name":"Dibrugarh Airport",
         "IATA":"DIB",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6557,7 +6749,7 @@ export const airports = [
         "Longitude":93.772865,
         "Name":"Dimapur Airport",
         "IATA":"DMU",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6565,7 +6757,7 @@ export const airports = [
         "Longitude":79.543251,
         "Name":"Tirupati Airport",
         "IATA":"TIR",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"India",
@@ -6573,7 +6765,7 @@ export const airports = [
         "Longitude":78.093369,
         "Name":"Madurai Airport",
         "IATA":"IXM",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"Poland",
@@ -7357,7 +7549,7 @@ export const airports = [
         "Longitude":75.950905,
         "Name":"Kozhikode Calicut International Airport",
         "IATA":"CCJ",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"Tanzania",
