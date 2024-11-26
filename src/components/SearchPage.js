@@ -228,7 +228,30 @@ export function SearchPage() {
   // - No backtracking to previously visited countries (except direct connections)
   // - Maximum 2 layovers in US/Canada unless both origin and destination are in US/Canada
   const findPossibleRoutes = (origin, destination, visited = new Set(), visitedCountries = new Set(), path = [], directDistance = null) => {
-    const allRoutes = [...UA_miles, ...SQ_miles, ...LH_miles, ...LX_miles, ...TG_miles, ...BR_miles, ...NH_miles, ...OS_miles, ...OZ_miles, ...NZ_miles, ...SA_miles, ...AI_miles, ...LO_miles, ...SN_miles, ...A3_miles, ...TP_miles, ...MS_miles, ...WY_miles, ...GF_miles, ...AC_miles];
+    // Create filtered allRoutes based on avoided airlines
+    const allRoutes = [
+      ...(avoidAirlines.includes('UA') ? [] : UA_miles),
+      ...(avoidAirlines.includes('SQ') ? [] : SQ_miles),
+      ...(avoidAirlines.includes('LH') ? [] : LH_miles),
+      ...(avoidAirlines.includes('LX') ? [] : LX_miles),
+      ...(avoidAirlines.includes('TG') ? [] : TG_miles),
+      ...(avoidAirlines.includes('BR') ? [] : BR_miles),
+      ...(avoidAirlines.includes('NH') ? [] : NH_miles),
+      ...(avoidAirlines.includes('OS') ? [] : OS_miles),
+      ...(avoidAirlines.includes('OZ') ? [] : OZ_miles),
+      ...(avoidAirlines.includes('NZ') ? [] : NZ_miles),
+      ...(avoidAirlines.includes('SA') ? [] : SA_miles),
+      ...(avoidAirlines.includes('AI') ? [] : AI_miles),
+      ...(avoidAirlines.includes('LO') ? [] : LO_miles),
+      ...(avoidAirlines.includes('SN') ? [] : SN_miles),
+      ...(avoidAirlines.includes('A3') ? [] : A3_miles),
+      ...(avoidAirlines.includes('TP') ? [] : TP_miles),
+      ...(avoidAirlines.includes('MS') ? [] : MS_miles),
+      ...(avoidAirlines.includes('WY') ? [] : WY_miles),
+      ...(avoidAirlines.includes('GF') ? [] : GF_miles),
+      ...(avoidAirlines.includes('AC') ? [] : AC_miles)
+    ];
+
     const routes = [];
 
     // Get origin and destination airport details for US/Canada check
