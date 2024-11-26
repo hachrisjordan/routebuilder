@@ -1,10 +1,8 @@
 .results-container {
   margin-top: 20px;
   width: 100%;
-  height: calc(100vh - 140px);
   display: flex;
   flex-direction: column;
-  overflow: auto;
   position: relative;
   z-index: 1;
 }
