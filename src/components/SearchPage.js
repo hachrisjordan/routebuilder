@@ -177,7 +177,7 @@ export function SearchPage() {
     }
 
     // Don't allow paths longer than 6 segments (5 stops)
-    if (path.length >= 4) {
+    if (path.length >= 6) {
       return [];
     }
 
