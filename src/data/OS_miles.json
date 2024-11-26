@@ -1,0 +1,852 @@
+[
+    {
+        "Departure IATA":"AGP",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":1328
+    },
+    {
+        "Departure IATA":"AMM",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":1522
+    },
+    {
+        "Departure IATA":"AMS",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":598
+    },
+    {
+        "Departure IATA":"ARN",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":800
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":795
+    },
+    {
+        "Departure IATA":"BCN",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":853
+    },
+    {
+        "Departure IATA":"BEG",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":289
+    },
+    {
+        "Departure IATA":"BER",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":324
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":1547
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":5256
+    },
+    {
+        "Departure IATA":"BLQ",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":353
+    },
+    {
+        "Departure IATA":"BOS",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":4053
+    },
+    {
+        "Departure IATA":"BRE",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":483
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":576
+    },
+    {
+        "Departure IATA":"BSL",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":422
+    },
+    {
+        "Departure IATA":"BUD",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":133
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":1469
+    },
+    {
+        "Departure IATA":"CDG",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":645
+    },
+    {
+        "Departure IATA":"CGN",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":465
+    },
+    {
+        "Departure IATA":"CPH",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":545
+    },
+    {
+        "Departure IATA":"DUS",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":491
+    },
+    {
+        "Departure IATA":"EBL",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":1614
+    },
+    {
+        "Departure IATA":"EVN",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":1479
+    },
+    {
+        "Departure IATA":"EWR",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":4253
+    },
+    {
+        "Departure IATA":"FCO",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":484
+    },
+    {
+        "Departure IATA":"FLR",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":393
+    },
+    {
+        "Departure IATA":"FRA",
+        "Arrival IATA":"LNZ",
+        "Flight Distance (miles)":284
+    },
+    {
+        "Departure IATA":"FRA",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":387
+    },
+    {
+        "Departure IATA":"FUE",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":2115
+    },
+    {
+        "Departure IATA":"GRZ",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":94
+    },
+    {
+        "Departure IATA":"GVA",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":509
+    },
+    {
+        "Departure IATA":"HAJ",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":428
+    },
+    {
+        "Departure IATA":"HAM",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":478
+    },
+    {
+        "Departure IATA":"HRG",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":1717
+    },
+    {
+        "Departure IATA":"IAD",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":4464
+    },
+    {
+        "Departure IATA":"IAS",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":519
+    },
+    {
+        "Departure IATA":"INN",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":251
+    },
+    {
+        "Departure IATA":"JFK",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":4240
+    },
+    {
+        "Departure IATA":"KLU",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":146
+    },
+    {
+        "Departure IATA":"KRK",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":199
+    },
+    {
+        "Departure IATA":"KSC",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":218
+    },
+    {
+        "Departure IATA":"LCA",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":1266
+    },
+    {
+        "Departure IATA":"LEJ",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":300
+    },
+    {
+        "Departure IATA":"LHR",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":795
+    },
+    {
+        "Departure IATA":"LNZ",
+        "Arrival IATA":"FRA",
+        "Flight Distance (miles)":284
+    },
+    {
+        "Departure IATA":"LPA",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":2204
+    },
+    {
+        "Departure IATA":"LYS",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":567
+    },
+    {
+        "Departure IATA":"MAN",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":899
+    },
+    {
+        "Departure IATA":"MLE",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":4511
+    },
+    {
+        "Departure IATA":"MRS",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":636
+    },
+    {
+        "Departure IATA":"MRU",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":5360
+    },
+    {
+        "Departure IATA":"MUC",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":221
+    },
+    {
+        "Departure IATA":"MXP",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":409
+    },
+    {
+        "Departure IATA":"NAP",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":511
+    },
+    {
+        "Departure IATA":"NCE",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":545
+    },
+    {
+        "Departure IATA":"ORD",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":4714
+    },
+    {
+        "Departure IATA":"OSL",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":864
+    },
+    {
+        "Departure IATA":"OTP",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":517
+    },
+    {
+        "Departure IATA":"PMI",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":907
+    },
+    {
+        "Departure IATA":"PRG",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":173
+    },
+    {
+        "Departure IATA":"PRN",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":440
+    },
+    {
+        "Departure IATA":"PVG",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":5292
+    },
+    {
+        "Departure IATA":"RAK",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":1721
+    },
+    {
+        "Departure IATA":"RMO",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":584
+    },
+    {
+        "Departure IATA":"RVN",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":1320
+    },
+    {
+        "Departure IATA":"SBZ",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":390
+    },
+    {
+        "Departure IATA":"SJJ",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":308
+    },
+    {
+        "Departure IATA":"SKG",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":612
+    },
+    {
+        "Departure IATA":"SKP",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":491
+    },
+    {
+        "Departure IATA":"SOF",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":500
+    },
+    {
+        "Departure IATA":"STR",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":340
+    },
+    {
+        "Departure IATA":"SVQ",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":1352
+    },
+    {
+        "Departure IATA":"SWO",
+        "Arrival IATA":"SWO",
+        "Flight Distance (miles)":0
+    },
+    {
+        "Departure IATA":"TBS",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":1453
+    },
+    {
+        "Departure IATA":"TFS",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":2247
+    },
+    {
+        "Departure IATA":"TGD",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":418
+    },
+    {
+        "Departure IATA":"TIA",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":488
+    },
+    {
+        "Departure IATA":"TLL",
+        "Arrival IATA":"TLL",
+        "Flight Distance (miles)":0
+    },
+    {
+        "Departure IATA":"TLL",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":850
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":1547
+    },
+    {
+        "Departure IATA":"VAR",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":640
+    },
+    {
+        "Departure IATA":"VCE",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":269
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"AGP",
+        "Flight Distance (miles)":1328
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"AMM",
+        "Flight Distance (miles)":1522
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"AMS",
+        "Flight Distance (miles)":598
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"ARN",
+        "Flight Distance (miles)":800
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":795
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"BCN",
+        "Flight Distance (miles)":853
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"BEG",
+        "Flight Distance (miles)":289
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"BER",
+        "Flight Distance (miles)":324
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":5256
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"BLQ",
+        "Flight Distance (miles)":353
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"BOS",
+        "Flight Distance (miles)":4053
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"BRE",
+        "Flight Distance (miles)":483
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":576
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"BSL",
+        "Flight Distance (miles)":422
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"BUD",
+        "Flight Distance (miles)":133
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1469
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"CDG",
+        "Flight Distance (miles)":645
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"CGN",
+        "Flight Distance (miles)":465
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"CPH",
+        "Flight Distance (miles)":545
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"DUS",
+        "Flight Distance (miles)":491
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"EBL",
+        "Flight Distance (miles)":1614
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"EVN",
+        "Flight Distance (miles)":1479
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"EWR",
+        "Flight Distance (miles)":4253
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"FCO",
+        "Flight Distance (miles)":484
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"FLR",
+        "Flight Distance (miles)":393
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"FRA",
+        "Flight Distance (miles)":387
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"FUE",
+        "Flight Distance (miles)":2115
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"GRZ",
+        "Flight Distance (miles)":94
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"GVA",
+        "Flight Distance (miles)":509
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"HAJ",
+        "Flight Distance (miles)":428
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"HAM",
+        "Flight Distance (miles)":478
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"HRG",
+        "Flight Distance (miles)":1717
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"IAD",
+        "Flight Distance (miles)":4464
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"IAS",
+        "Flight Distance (miles)":519
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"INN",
+        "Flight Distance (miles)":251
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"JFK",
+        "Flight Distance (miles)":4240
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"KLU",
+        "Flight Distance (miles)":146
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"KRK",
+        "Flight Distance (miles)":199
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"KSC",
+        "Flight Distance (miles)":218
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"LCA",
+        "Flight Distance (miles)":1266
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"LEJ",
+        "Flight Distance (miles)":300
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"LHR",
+        "Flight Distance (miles)":795
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"LPA",
+        "Flight Distance (miles)":2204
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"LYS",
+        "Flight Distance (miles)":567
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"MAN",
+        "Flight Distance (miles)":899
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"MLE",
+        "Flight Distance (miles)":4511
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"MRS",
+        "Flight Distance (miles)":636
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"MRU",
+        "Flight Distance (miles)":5360
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"MUC",
+        "Flight Distance (miles)":221
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"MXP",
+        "Flight Distance (miles)":409
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"NAP",
+        "Flight Distance (miles)":511
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"NCE",
+        "Flight Distance (miles)":545
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"ORD",
+        "Flight Distance (miles)":4714
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"OSL",
+        "Flight Distance (miles)":864
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"OTP",
+        "Flight Distance (miles)":517
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"PMI",
+        "Flight Distance (miles)":907
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"PRG",
+        "Flight Distance (miles)":173
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"PRN",
+        "Flight Distance (miles)":440
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"PVG",
+        "Flight Distance (miles)":5292
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"RAK",
+        "Flight Distance (miles)":1721
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"RMO",
+        "Flight Distance (miles)":584
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"RVN",
+        "Flight Distance (miles)":1320
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"SBZ",
+        "Flight Distance (miles)":390
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"SJJ",
+        "Flight Distance (miles)":308
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"SKG",
+        "Flight Distance (miles)":612
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"SKP",
+        "Flight Distance (miles)":491
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"SOF",
+        "Flight Distance (miles)":500
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"STR",
+        "Flight Distance (miles)":340
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"SVQ",
+        "Flight Distance (miles)":1352
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"TBS",
+        "Flight Distance (miles)":1453
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"TFS",
+        "Flight Distance (miles)":2247
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"TGD",
+        "Flight Distance (miles)":418
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"TIA",
+        "Flight Distance (miles)":488
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"TLL",
+        "Flight Distance (miles)":850
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"VAR",
+        "Flight Distance (miles)":640
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"VCE",
+        "Flight Distance (miles)":269
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"VLC",
+        "Flight Distance (miles)":1036
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"VNO",
+        "Flight Distance (miles)":587
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"WAW",
+        "Flight Distance (miles)":342
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"YUL",
+        "Flight Distance (miles)":4027
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"ZAG",
+        "Flight Distance (miles)":165
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":376
+    },
+    {
+        "Departure IATA":"VLC",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":1036
+    },
+    {
+        "Departure IATA":"VNO",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":587
+    },
+    {
+        "Departure IATA":"WAW",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":342
+    },
+    {
+        "Departure IATA":"YUL",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":4027
+    },
+    {
+        "Departure IATA":"ZAG",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":165
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":376
+    }
+]

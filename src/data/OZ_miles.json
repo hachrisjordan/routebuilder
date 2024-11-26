@@ -1,0 +1,687 @@
+[
+    {
+        "Departure IATA":"ALA",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":2599
+    },
+    {
+        "Departure IATA":"BCN",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":5976
+    },
+    {
+        "Departure IATA":"BKI",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":2267
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":2277
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":5406
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":5250
+    },
+    {
+        "Departure IATA":"CAN",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":1245
+    },
+    {
+        "Departure IATA":"CDG",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":5561
+    },
+    {
+        "Departure IATA":"CEB",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":1876
+    },
+    {
+        "Departure IATA":"CGK",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":3259
+    },
+    {
+        "Departure IATA":"CGQ",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":452
+    },
+    {
+        "Departure IATA":"CJJ",
+        "Arrival IATA":"CJU",
+        "Flight Distance (miles)":228
+    },
+    {
+        "Departure IATA":"CJU",
+        "Arrival IATA":"CJJ",
+        "Flight Distance (miles)":228
+    },
+    {
+        "Departure IATA":"CJU",
+        "Arrival IATA":"GMP",
+        "Flight Distance (miles)":280
+    },
+    {
+        "Departure IATA":"CJU",
+        "Arrival IATA":"KWJ",
+        "Flight Distance (miles)":113
+    },
+    {
+        "Departure IATA":"CJU",
+        "Arrival IATA":"RSU",
+        "Flight Distance (miles)":112
+    },
+    {
+        "Departure IATA":"CJU",
+        "Arrival IATA":"TAE",
+        "Flight Distance (miles)":205
+    },
+    {
+        "Departure IATA":"CNX",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":2101
+    },
+    {
+        "Departure IATA":"CRK",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":1576
+    },
+    {
+        "Departure IATA":"CSX",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":999
+    },
+    {
+        "Departure IATA":"CTS",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":885
+    },
+    {
+        "Departure IATA":"CXR",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":2053
+    },
+    {
+        "Departure IATA":"DAD",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":1849
+    },
+    {
+        "Departure IATA":"DLC",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":286
+    },
+    {
+        "Departure IATA":"FCO",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":5584
+    },
+    {
+        "Departure IATA":"FRA",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":5322
+    },
+    {
+        "Departure IATA":"FUK",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":350
+    },
+    {
+        "Departure IATA":"GMP",
+        "Arrival IATA":"CJU",
+        "Flight Distance (miles)":280
+    },
+    {
+        "Departure IATA":"GMP",
+        "Arrival IATA":"HND",
+        "Flight Distance (miles)":735
+    },
+    {
+        "Departure IATA":"GMP",
+        "Arrival IATA":"KIX",
+        "Flight Distance (miles)":520
+    },
+    {
+        "Departure IATA":"GMP",
+        "Arrival IATA":"KWJ",
+        "Flight Distance (miles)":168
+    },
+    {
+        "Departure IATA":"GMP",
+        "Arrival IATA":"PEK",
+        "Flight Distance (miles)":577
+    },
+    {
+        "Departure IATA":"GMP",
+        "Arrival IATA":"RSU",
+        "Flight Distance (miles)":193
+    },
+    {
+        "Departure IATA":"GMP",
+        "Arrival IATA":"SHA",
+        "Flight Distance (miles)":538
+    },
+    {
+        "Departure IATA":"HAN",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":1667
+    },
+    {
+        "Departure IATA":"HGH",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":607
+    },
+    {
+        "Departure IATA":"HKG",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":1284
+    },
+    {
+        "Departure IATA":"HND",
+        "Arrival IATA":"GMP",
+        "Flight Distance (miles)":735
+    },
+    {
+        "Departure IATA":"HND",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":753
+    },
+    {
+        "Departure IATA":"HNL",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":4576
+    },
+    {
+        "Departure IATA":"HRB",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":563
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"ALA",
+        "Flight Distance (miles)":2599
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"BCN",
+        "Flight Distance (miles)":5976
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"BKI",
+        "Flight Distance (miles)":2267
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":2277
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":5250
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"CAN",
+        "Flight Distance (miles)":1245
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"CDG",
+        "Flight Distance (miles)":5561
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"CEB",
+        "Flight Distance (miles)":1876
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"CGK",
+        "Flight Distance (miles)":3259
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"CGQ",
+        "Flight Distance (miles)":452
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"CNX",
+        "Flight Distance (miles)":2101
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"CRK",
+        "Flight Distance (miles)":1576
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"CSX",
+        "Flight Distance (miles)":999
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"CTS",
+        "Flight Distance (miles)":885
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"CXR",
+        "Flight Distance (miles)":2053
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"DAD",
+        "Flight Distance (miles)":1849
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"DLC",
+        "Flight Distance (miles)":286
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"FCO",
+        "Flight Distance (miles)":5584
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"FRA",
+        "Flight Distance (miles)":5322
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"FUK",
+        "Flight Distance (miles)":350
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"HAN",
+        "Flight Distance (miles)":1667
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"HGH",
+        "Flight Distance (miles)":607
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"HKG",
+        "Flight Distance (miles)":1284
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"HND",
+        "Flight Distance (miles)":753
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"HNL",
+        "Flight Distance (miles)":4576
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"HRB",
+        "Flight Distance (miles)":563
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"IST",
+        "Flight Distance (miles)":4936
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"JFK",
+        "Flight Distance (miles)":6906
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"KIX",
+        "Flight Distance (miles)":535
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"KMI",
+        "Flight Distance (miles)":479
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"KMJ",
+        "Flight Distance (miles)":405
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"LAX",
+        "Flight Distance (miles)":5994
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"LHR",
+        "Flight Distance (miles)":5520
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"MNL",
+        "Flight Distance (miles)":1616
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"NGO",
+        "Flight Distance (miles)":606
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"NKG",
+        "Flight Distance (miles)":585
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"NRT",
+        "Flight Distance (miles)":783
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"OKA",
+        "Flight Distance (miles)":780
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"PEK",
+        "Flight Distance (miles)":562
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"PNH",
+        "Flight Distance (miles)":2232
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"PVG",
+        "Flight Distance (miles)":510
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"SDJ",
+        "Flight Distance (miles)":792
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"SEA",
+        "Flight Distance (miles)":5216
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"SFO",
+        "Flight Distance (miles)":5658
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"SGN",
+        "Flight Distance (miles)":2209
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":2867
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"SYD",
+        "Flight Distance (miles)":5164
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":1269
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"TAS",
+        "Flight Distance (miles)":3017
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":907
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"TSN",
+        "Flight Distance (miles)":508
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"UBN",
+        "Flight Distance (miles)":1218
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":5138
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"XIY",
+        "Flight Distance (miles)":1012
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"YNJ",
+        "Flight Distance (miles)":406
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"YNT",
+        "Flight Distance (miles)":300
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"YNZ",
+        "Flight Distance (miles)":449
+    },
+    {
+        "Departure IATA":"IST",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":4936
+    },
+    {
+        "Departure IATA":"JFK",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":6906
+    },
+    {
+        "Departure IATA":"KIX",
+        "Arrival IATA":"GMP",
+        "Flight Distance (miles)":520
+    },
+    {
+        "Departure IATA":"KIX",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":535
+    },
+    {
+        "Departure IATA":"KMI",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":479
+    },
+    {
+        "Departure IATA":"KMJ",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":405
+    },
+    {
+        "Departure IATA":"KWJ",
+        "Arrival IATA":"CJU",
+        "Flight Distance (miles)":113
+    },
+    {
+        "Departure IATA":"KWJ",
+        "Arrival IATA":"GMP",
+        "Flight Distance (miles)":168
+    },
+    {
+        "Departure IATA":"LAX",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":5994
+    },
+    {
+        "Departure IATA":"LHR",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":5520
+    },
+    {
+        "Departure IATA":"MNL",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":1616
+    },
+    {
+        "Departure IATA":"MXP",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":5529
+    },
+    {
+        "Departure IATA":"NGO",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":606
+    },
+    {
+        "Departure IATA":"NKG",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":585
+    },
+    {
+        "Departure IATA":"NRT",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":783
+    },
+    {
+        "Departure IATA":"OKA",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":780
+    },
+    {
+        "Departure IATA":"PEK",
+        "Arrival IATA":"GMP",
+        "Flight Distance (miles)":577
+    },
+    {
+        "Departure IATA":"PEK",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":562
+    },
+    {
+        "Departure IATA":"PNH",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":2232
+    },
+    {
+        "Departure IATA":"PVG",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":510
+    },
+    {
+        "Departure IATA":"RSU",
+        "Arrival IATA":"CJU",
+        "Flight Distance (miles)":112
+    },
+    {
+        "Departure IATA":"RSU",
+        "Arrival IATA":"GMP",
+        "Flight Distance (miles)":193
+    },
+    {
+        "Departure IATA":"SDJ",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":792
+    },
+    {
+        "Departure IATA":"SEA",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":5216
+    },
+    {
+        "Departure IATA":"SFO",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":5658
+    },
+    {
+        "Departure IATA":"SGN",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":2209
+    },
+    {
+        "Departure IATA":"SHA",
+        "Arrival IATA":"GMP",
+        "Flight Distance (miles)":538
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":2867
+    },
+    {
+        "Departure IATA":"SYD",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":5164
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":1269
+    },
+    {
+        "Departure IATA":"TAE",
+        "Arrival IATA":"CJU",
+        "Flight Distance (miles)":205
+    },
+    {
+        "Departure IATA":"TAS",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":3017
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":907
+    },
+    {
+        "Departure IATA":"TSN",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":508
+    },
+    {
+        "Departure IATA":"UBN",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":1218
+    },
+    {
+        "Departure IATA":"XIY",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":1012
+    },
+    {
+        "Departure IATA":"YNJ",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":406
+    },
+    {
+        "Departure IATA":"YNT",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":300
+    },
+    {
+        "Departure IATA":"YNZ",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":449
+    }
+]

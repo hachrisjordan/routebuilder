@@ -1,0 +1,817 @@
+[
+    {
+        "Departure IATA":"ADL",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":3351
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":5225
+    },
+    {
+        "Departure IATA":"AMD",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":2581
+    },
+    {
+        "Departure IATA":"AMS",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":6535
+    },
+    {
+        "Departure IATA":"BCN",
+        "Arrival IATA":"MXP",
+        "Flight Distance (miles)":448
+    },
+    {
+        "Departure IATA":"BCN",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":6777
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":876
+    },
+    {
+        "Departure IATA":"BLR",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":1976
+    },
+    {
+        "Departure IATA":"BNE",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":3816
+    },
+    {
+        "Departure IATA":"BOM",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":2436
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":6561
+    },
+    {
+        "Departure IATA":"BWN",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":794
+    },
+    {
+        "Departure IATA":"CAN",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":1639
+    },
+    {
+        "Departure IATA":"CCU",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":1799
+    },
+    {
+        "Departure IATA":"CDG",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":6667
+    },
+    {
+        "Departure IATA":"CEB",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":1505
+    },
+    {
+        "Departure IATA":"CGK",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":546
+    },
+    {
+        "Departure IATA":"CHC",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":5220
+    },
+    {
+        "Departure IATA":"CKG",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":1959
+    },
+    {
+        "Departure IATA":"CMB",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":1710
+    },
+    {
+        "Departure IATA":"CNS",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":3111
+    },
+    {
+        "Departure IATA":"COK",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":1991
+    },
+    {
+        "Departure IATA":"CPH",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":6195
+    },
+    {
+        "Departure IATA":"CPT",
+        "Arrival IATA":"JNB",
+        "Flight Distance (miles)":790
+    },
+    {
+        "Departure IATA":"DAC",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":1795
+    },
+    {
+        "Departure IATA":"DAD",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":1050
+    },
+    {
+        "Departure IATA":"DEL",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":2580
+    },
+    {
+        "Departure IATA":"DPS",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":1037
+    },
+    {
+        "Departure IATA":"DRW",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":2075
+    },
+    {
+        "Departure IATA":"DXB",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":3633
+    },
+    {
+        "Departure IATA":"EWR",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":9535
+    },
+    {
+        "Departure IATA":"FCO",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":6249
+    },
+    {
+        "Departure IATA":"FRA",
+        "Arrival IATA":"JFK",
+        "Flight Distance (miles)":3856
+    },
+    {
+        "Departure IATA":"FRA",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":6390
+    },
+    {
+        "Departure IATA":"FUK",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":2803
+    },
+    {
+        "Departure IATA":"HAN",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":1371
+    },
+    {
+        "Departure IATA":"HKG",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":1588
+    },
+    {
+        "Departure IATA":"HKT",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":607
+    },
+    {
+        "Departure IATA":"HND",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":3288
+    },
+    {
+        "Departure IATA":"HYD",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":2053
+    },
+    {
+        "Departure IATA":"IAH",
+        "Arrival IATA":"MAN",
+        "Flight Distance (miles)":4714
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":2867
+    },
+    {
+        "Departure IATA":"IST",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":5395
+    },
+    {
+        "Departure IATA":"JFK",
+        "Arrival IATA":"FRA",
+        "Flight Distance (miles)":3856
+    },
+    {
+        "Departure IATA":"JFK",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":9537
+    },
+    {
+        "Departure IATA":"JNB",
+        "Arrival IATA":"CPT",
+        "Flight Distance (miles)":790
+    },
+    {
+        "Departure IATA":"JNB",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":5381
+    },
+    {
+        "Departure IATA":"KIX",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":3040
+    },
+    {
+        "Departure IATA":"KNO",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":387
+    },
+    {
+        "Departure IATA":"KTM",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":2192
+    },
+    {
+        "Departure IATA":"KUL",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":185
+    },
+    {
+        "Departure IATA":"LAX",
+        "Arrival IATA":"NRT",
+        "Flight Distance (miles)":5451
+    },
+    {
+        "Departure IATA":"LAX",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":8770
+    },
+    {
+        "Departure IATA":"LGW",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":6759
+    },
+    {
+        "Departure IATA":"LHR",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":6766
+    },
+    {
+        "Departure IATA":"MAA",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":1817
+    },
+    {
+        "Departure IATA":"MAN",
+        "Arrival IATA":"IAH",
+        "Flight Distance (miles)":4714
+    },
+    {
+        "Departure IATA":"MAN",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":6810
+    },
+    {
+        "Departure IATA":"MEL",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":3743
+    },
+    {
+        "Departure IATA":"MLE",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":2114
+    },
+    {
+        "Departure IATA":"MNL",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":1474
+    },
+    {
+        "Departure IATA":"MUC",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":6252
+    },
+    {
+        "Departure IATA":"MXP",
+        "Arrival IATA":"BCN",
+        "Flight Distance (miles)":448
+    },
+    {
+        "Departure IATA":"MXP",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":6409
+    },
+    {
+        "Departure IATA":"NGO",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":3127
+    },
+    {
+        "Departure IATA":"NRT",
+        "Arrival IATA":"LAX",
+        "Flight Distance (miles)":5451
+    },
+    {
+        "Departure IATA":"NRT",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":3324
+    },
+    {
+        "Departure IATA":"PEK",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":2781
+    },
+    {
+        "Departure IATA":"PEN",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":373
+    },
+    {
+        "Departure IATA":"PER",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":2420
+    },
+    {
+        "Departure IATA":"PKX",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":2740
+    },
+    {
+        "Departure IATA":"PNH",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":703
+    },
+    {
+        "Departure IATA":"PUS",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":2827
+    },
+    {
+        "Departure IATA":"PVG",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":2357
+    },
+    {
+        "Departure IATA":"RGN",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":1196
+    },
+    {
+        "Departure IATA":"SAI",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":826
+    },
+    {
+        "Departure IATA":"SEA",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":8071
+    },
+    {
+        "Departure IATA":"SFO",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":8446
+    },
+    {
+        "Departure IATA":"SGN",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":676
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"ADL",
+        "Flight Distance (miles)":3351
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":5225
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"AMD",
+        "Flight Distance (miles)":2581
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"AMS",
+        "Flight Distance (miles)":6535
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"BCN",
+        "Flight Distance (miles)":6777
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":876
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"BLR",
+        "Flight Distance (miles)":1976
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"BNE",
+        "Flight Distance (miles)":3816
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"BOM",
+        "Flight Distance (miles)":2436
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":6561
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"BWN",
+        "Flight Distance (miles)":794
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"CAN",
+        "Flight Distance (miles)":1639
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"CCU",
+        "Flight Distance (miles)":1799
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"CDG",
+        "Flight Distance (miles)":6667
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"CEB",
+        "Flight Distance (miles)":1505
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"CGK",
+        "Flight Distance (miles)":546
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"CHC",
+        "Flight Distance (miles)":5220
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"CKG",
+        "Flight Distance (miles)":1959
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"CMB",
+        "Flight Distance (miles)":1710
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"CNS",
+        "Flight Distance (miles)":3111
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"COK",
+        "Flight Distance (miles)":1991
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"CPH",
+        "Flight Distance (miles)":6195
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"CTS",
+        "Flight Distance (miles)":3681
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"DAC",
+        "Flight Distance (miles)":1795
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"DAD",
+        "Flight Distance (miles)":1050
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"DEL",
+        "Flight Distance (miles)":2580
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"DPS",
+        "Flight Distance (miles)":1037
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"DRW",
+        "Flight Distance (miles)":2075
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"DXB",
+        "Flight Distance (miles)":3633
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"EWR",
+        "Flight Distance (miles)":9535
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"FCO",
+        "Flight Distance (miles)":6249
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"FRA",
+        "Flight Distance (miles)":6390
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"FUK",
+        "Flight Distance (miles)":2803
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"HAN",
+        "Flight Distance (miles)":1371
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"HKG",
+        "Flight Distance (miles)":1588
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"HKT",
+        "Flight Distance (miles)":607
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"HND",
+        "Flight Distance (miles)":3288
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"HYD",
+        "Flight Distance (miles)":2053
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":2867
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"IST",
+        "Flight Distance (miles)":5395
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"JFK",
+        "Flight Distance (miles)":9537
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"JNB",
+        "Flight Distance (miles)":5381
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"KIX",
+        "Flight Distance (miles)":3040
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"KNO",
+        "Flight Distance (miles)":387
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"KTM",
+        "Flight Distance (miles)":2192
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"KUL",
+        "Flight Distance (miles)":185
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"LAX",
+        "Flight Distance (miles)":8770
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"LGW",
+        "Flight Distance (miles)":6759
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"LHR",
+        "Flight Distance (miles)":6766
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"MAA",
+        "Flight Distance (miles)":1817
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"MAN",
+        "Flight Distance (miles)":6810
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"MEL",
+        "Flight Distance (miles)":3743
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"MLE",
+        "Flight Distance (miles)":2114
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"MNL",
+        "Flight Distance (miles)":1474
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"MUC",
+        "Flight Distance (miles)":6252
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"MXP",
+        "Flight Distance (miles)":6409
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"NGO",
+        "Flight Distance (miles)":3127
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"NRT",
+        "Flight Distance (miles)":3324
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"PEK",
+        "Flight Distance (miles)":2781
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"PEN",
+        "Flight Distance (miles)":373
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"PER",
+        "Flight Distance (miles)":2420
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"PKX",
+        "Flight Distance (miles)":2740
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"PNH",
+        "Flight Distance (miles)":703
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"PUS",
+        "Flight Distance (miles)":2827
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"PVG",
+        "Flight Distance (miles)":2357
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"RGN",
+        "Flight Distance (miles)":1196
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"SAI",
+        "Flight Distance (miles)":826
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"SEA",
+        "Flight Distance (miles)":8071
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"SFO",
+        "Flight Distance (miles)":8446
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"SGN",
+        "Flight Distance (miles)":676
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"SUB",
+        "Flight Distance (miles)":853
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"SYD",
+        "Flight Distance (miles)":3907
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":1605
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"TFU",
+        "Flight Distance (miles)":1992
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":1997
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"XMN",
+        "Flight Distance (miles)":1854
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":6406
+    },
+    {
+        "Departure IATA":"SUB",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":853
+    },
+    {
+        "Departure IATA":"SYD",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":3907
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":1605
+    },
+    {
+        "Departure IATA":"TFU",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":1992
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":1997
+    },
+    {
+        "Departure IATA":"XMN",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":1854
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":6406
+    }
+]

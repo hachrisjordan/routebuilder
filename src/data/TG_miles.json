@@ -1,0 +1,682 @@
+[
+    {
+        "Departure IATA":"AMD",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":1951
+    },
+    {
+        "Departure IATA":"ARN",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":5158
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"AMD",
+        "Flight Distance (miles)":1951
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"ARN",
+        "Flight Distance (miles)":5158
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"BLR",
+        "Flight Distance (miles)":1550
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"BOM",
+        "Flight Distance (miles)":1885
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":5762
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"CAN",
+        "Flight Distance (miles)":1059
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"CCU",
+        "Flight Distance (miles)":1016
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"CDG",
+        "Flight Distance (miles)":5877
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"CEI",
+        "Flight Distance (miles)":435
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"CGK",
+        "Flight Distance (miles)":1420
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"CMB",
+        "Flight Distance (miles)":1487
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"CNX",
+        "Flight Distance (miles)":369
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"COK",
+        "Flight Distance (miles)":1665
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"CPH",
+        "Flight Distance (miles)":5372
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"CTS",
+        "Flight Distance (miles)":3152
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"DAC",
+        "Flight Distance (miles)":973
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"DEL",
+        "Flight Distance (miles)":1832
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"DPS",
+        "Flight Distance (miles)":1832
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"FRA",
+        "Flight Distance (miles)":5599
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"FUK",
+        "Flight Distance (miles)":2314
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"GAY",
+        "Flight Distance (miles)":1280
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"HAN",
+        "Flight Distance (miles)":617
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"HDY",
+        "Flight Distance (miles)":464
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"HKG",
+        "Flight Distance (miles)":1049
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"HKT",
+        "Flight Distance (miles)":417
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"HND",
+        "Flight Distance (miles)":2852
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"HYD",
+        "Flight Distance (miles)":1507
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":2277
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"ISB",
+        "Flight Distance (miles)":2224
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"IST",
+        "Flight Distance (miles)":4674
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"KBV",
+        "Flight Distance (miles)":402
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"KHH",
+        "Flight Distance (miles)":1425
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"KHI",
+        "Flight Distance (miles)":2318
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"KIX",
+        "Flight Distance (miles)":2585
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"KKC",
+        "Flight Distance (miles)":235
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"KMG",
+        "Flight Distance (miles)":798
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"KTM",
+        "Flight Distance (miles)":1384
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"KUL",
+        "Flight Distance (miles)":754
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"LHE",
+        "Flight Distance (miles)":2073
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"LHR",
+        "Flight Distance (miles)":5958
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"MAA",
+        "Flight Distance (miles)":1385
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"MEL",
+        "Flight Distance (miles)":4545
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"MNL",
+        "Flight Distance (miles)":1361
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"MUC",
+        "Flight Distance (miles)":5474
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"MXP",
+        "Flight Distance (miles)":5648
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"NGO",
+        "Flight Distance (miles)":2679
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"NRT",
+        "Flight Distance (miles)":2889
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"OSL",
+        "Flight Distance (miles)":5392
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"PEK",
+        "Flight Distance (miles)":2057
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"PEN",
+        "Flight Distance (miles)":577
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"PER",
+        "Flight Distance (miles)":3295
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"PNH",
+        "Flight Distance (miles)":313
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"PVG",
+        "Flight Distance (miles)":1798
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"QPG",
+        "Flight Distance (miles)":874
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"RGN",
+        "Flight Distance (miles)":379
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"SAI",
+        "Flight Distance (miles)":235
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"SGN",
+        "Flight Distance (miles)":445
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":876
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"SYD",
+        "Flight Distance (miles)":4662
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"TFU",
+        "Flight Distance (miles)":1169
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":1547
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"UBP",
+        "Flight Distance (miles)":297
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"UTH",
+        "Flight Distance (miles)":289
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"VTE",
+        "Flight Distance (miles)":320
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":5632
+    },
+    {
+        "Departure IATA":"BLR",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":1550
+    },
+    {
+        "Departure IATA":"BOM",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":1885
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":5762
+    },
+    {
+        "Departure IATA":"CAN",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":1059
+    },
+    {
+        "Departure IATA":"CCU",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":1016
+    },
+    {
+        "Departure IATA":"CDG",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":5877
+    },
+    {
+        "Departure IATA":"CEI",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":435
+    },
+    {
+        "Departure IATA":"CGK",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":1420
+    },
+    {
+        "Departure IATA":"CMB",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":1487
+    },
+    {
+        "Departure IATA":"CNX",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":369
+    },
+    {
+        "Departure IATA":"COK",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":1665
+    },
+    {
+        "Departure IATA":"CPH",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":5372
+    },
+    {
+        "Departure IATA":"CTS",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":3152
+    },
+    {
+        "Departure IATA":"DAC",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":973
+    },
+    {
+        "Departure IATA":"DEL",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":1832
+    },
+    {
+        "Departure IATA":"DMK",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":18
+    },
+    {
+        "Departure IATA":"DPS",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":1832
+    },
+    {
+        "Departure IATA":"FRA",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":5599
+    },
+    {
+        "Departure IATA":"FUK",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":2314
+    },
+    {
+        "Departure IATA":"GAY",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":1280
+    },
+    {
+        "Departure IATA":"HAN",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":617
+    },
+    {
+        "Departure IATA":"HDY",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":464
+    },
+    {
+        "Departure IATA":"HKG",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":1049
+    },
+    {
+        "Departure IATA":"HKT",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":417
+    },
+    {
+        "Departure IATA":"HND",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":2852
+    },
+    {
+        "Departure IATA":"HYD",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":1507
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":2277
+    },
+    {
+        "Departure IATA":"ISB",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":2224
+    },
+    {
+        "Departure IATA":"IST",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":4674
+    },
+    {
+        "Departure IATA":"KBV",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":402
+    },
+    {
+        "Departure IATA":"KHH",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":1425
+    },
+    {
+        "Departure IATA":"KHI",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":2318
+    },
+    {
+        "Departure IATA":"KIX",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":2585
+    },
+    {
+        "Departure IATA":"KKC",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":235
+    },
+    {
+        "Departure IATA":"KMG",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":798
+    },
+    {
+        "Departure IATA":"KTM",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":1384
+    },
+    {
+        "Departure IATA":"KUL",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":754
+    },
+    {
+        "Departure IATA":"LHE",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":2073
+    },
+    {
+        "Departure IATA":"LHR",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":5958
+    },
+    {
+        "Departure IATA":"LTM",
+        "Arrival IATA":"OGL",
+        "Flight Distance (miles)":263
+    },
+    {
+        "Departure IATA":"MAA",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":1385
+    },
+    {
+        "Departure IATA":"MEL",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":4545
+    },
+    {
+        "Departure IATA":"MNL",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":1361
+    },
+    {
+        "Departure IATA":"MUC",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":5474
+    },
+    {
+        "Departure IATA":"MXP",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":5648
+    },
+    {
+        "Departure IATA":"NGO",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":2679
+    },
+    {
+        "Departure IATA":"NRT",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":2889
+    },
+    {
+        "Departure IATA":"OGL",
+        "Arrival IATA":"LTM",
+        "Flight Distance (miles)":263
+    },
+    {
+        "Departure IATA":"OGL",
+        "Arrival IATA":"ORG",
+        "Flight Distance (miles)":212
+    },
+    {
+        "Departure IATA":"OGL",
+        "Arrival IATA":"PBM",
+        "Flight Distance (miles)":221
+    },
+    {
+        "Departure IATA":"ORG",
+        "Arrival IATA":"OGL",
+        "Flight Distance (miles)":212
+    },
+    {
+        "Departure IATA":"OSL",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":5392
+    },
+    {
+        "Departure IATA":"PBM",
+        "Arrival IATA":"OGL",
+        "Flight Distance (miles)":221
+    },
+    {
+        "Departure IATA":"PEK",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":2057
+    },
+    {
+        "Departure IATA":"PEN",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":577
+    },
+    {
+        "Departure IATA":"PER",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":3295
+    },
+    {
+        "Departure IATA":"PNH",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":313
+    },
+    {
+        "Departure IATA":"PVG",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":1798
+    },
+    {
+        "Departure IATA":"RGN",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":379
+    },
+    {
+        "Departure IATA":"SAI",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":235
+    },
+    {
+        "Departure IATA":"SGN",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":445
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":876
+    },
+    {
+        "Departure IATA":"SYD",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":4662
+    },
+    {
+        "Departure IATA":"TFU",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":1169
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":1547
+    },
+    {
+        "Departure IATA":"UBP",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":297
+    },
+    {
+        "Departure IATA":"UTH",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":289
+    },
+    {
+        "Departure IATA":"VTE",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":320
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":5632
+    }
+]

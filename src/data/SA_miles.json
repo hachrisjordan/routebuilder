@@ -1,0 +1,162 @@
+[
+    {
+        "Departure IATA":"ABJ",
+        "Arrival IATA":"ACC",
+        "Flight Distance (miles)":260
+    },
+    {
+        "Departure IATA":"ACC",
+        "Arrival IATA":"ABJ",
+        "Flight Distance (miles)":260
+    },
+    {
+        "Departure IATA":"ACC",
+        "Arrival IATA":"JNB",
+        "Flight Distance (miles)":2897
+    },
+    {
+        "Departure IATA":"CPT",
+        "Arrival IATA":"GRU",
+        "Flight Distance (miles)":3953
+    },
+    {
+        "Departure IATA":"CPT",
+        "Arrival IATA":"JNB",
+        "Flight Distance (miles)":790
+    },
+    {
+        "Departure IATA":"DUR",
+        "Arrival IATA":"JNB",
+        "Flight Distance (miles)":297
+    },
+    {
+        "Departure IATA":"FBM",
+        "Arrival IATA":"JNB",
+        "Flight Distance (miles)":1002
+    },
+    {
+        "Departure IATA":"FIH",
+        "Arrival IATA":"JNB",
+        "Flight Distance (miles)":1719
+    },
+    {
+        "Departure IATA":"GRU",
+        "Arrival IATA":"CPT",
+        "Flight Distance (miles)":3953
+    },
+    {
+        "Departure IATA":"GRU",
+        "Arrival IATA":"JNB",
+        "Flight Distance (miles)":4630
+    },
+    {
+        "Departure IATA":"HRE",
+        "Arrival IATA":"JNB",
+        "Flight Distance (miles)":593
+    },
+    {
+        "Departure IATA":"JNB",
+        "Arrival IATA":"ACC",
+        "Flight Distance (miles)":2897
+    },
+    {
+        "Departure IATA":"JNB",
+        "Arrival IATA":"CPT",
+        "Flight Distance (miles)":790
+    },
+    {
+        "Departure IATA":"JNB",
+        "Arrival IATA":"DUR",
+        "Flight Distance (miles)":297
+    },
+    {
+        "Departure IATA":"JNB",
+        "Arrival IATA":"FBM",
+        "Flight Distance (miles)":1002
+    },
+    {
+        "Departure IATA":"JNB",
+        "Arrival IATA":"FIH",
+        "Flight Distance (miles)":1719
+    },
+    {
+        "Departure IATA":"JNB",
+        "Arrival IATA":"GRU",
+        "Flight Distance (miles)":4630
+    },
+    {
+        "Departure IATA":"JNB",
+        "Arrival IATA":"HRE",
+        "Flight Distance (miles)":593
+    },
+    {
+        "Departure IATA":"JNB",
+        "Arrival IATA":"LOS",
+        "Flight Distance (miles)":2803
+    },
+    {
+        "Departure IATA":"JNB",
+        "Arrival IATA":"LUN",
+        "Flight Distance (miles)":744
+    },
+    {
+        "Departure IATA":"JNB",
+        "Arrival IATA":"MRU",
+        "Flight Distance (miles)":1908
+    },
+    {
+        "Departure IATA":"JNB",
+        "Arrival IATA":"PER",
+        "Flight Distance (miles)":5173
+    },
+    {
+        "Departure IATA":"JNB",
+        "Arrival IATA":"PLZ",
+        "Flight Distance (miles)":563
+    },
+    {
+        "Departure IATA":"JNB",
+        "Arrival IATA":"VFA",
+        "Flight Distance (miles)":574
+    },
+    {
+        "Departure IATA":"JNB",
+        "Arrival IATA":"WDH",
+        "Flight Distance (miles)":724
+    },
+    {
+        "Departure IATA":"LOS",
+        "Arrival IATA":"JNB",
+        "Flight Distance (miles)":2803
+    },
+    {
+        "Departure IATA":"LUN",
+        "Arrival IATA":"JNB",
+        "Flight Distance (miles)":744
+    },
+    {
+        "Departure IATA":"MRU",
+        "Arrival IATA":"JNB",
+        "Flight Distance (miles)":1908
+    },
+    {
+        "Departure IATA":"PER",
+        "Arrival IATA":"JNB",
+        "Flight Distance (miles)":5173
+    },
+    {
+        "Departure IATA":"PLZ",
+        "Arrival IATA":"JNB",
+        "Flight Distance (miles)":563
+    },
+    {
+        "Departure IATA":"VFA",
+        "Arrival IATA":"JNB",
+        "Flight Distance (miles)":574
+    },
+    {
+        "Departure IATA":"WDH",
+        "Arrival IATA":"JNB",
+        "Flight Distance (miles)":724
+    }
+]

@@ -1,0 +1,1127 @@
+[
+    {
+        "Departure IATA":"AAC",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":157
+    },
+    {
+        "Departure IATA":"ABJ",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":2867
+    },
+    {
+        "Departure IATA":"ABS",
+        "Arrival IATA":"ASW",
+        "Flight Distance (miles)":134
+    },
+    {
+        "Departure IATA":"ABV",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":2132
+    },
+    {
+        "Departure IATA":"ACC",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":2659
+    },
+    {
+        "Departure IATA":"ADD",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1531
+    },
+    {
+        "Departure IATA":"ALG",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1684
+    },
+    {
+        "Departure IATA":"AMM",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":294
+    },
+    {
+        "Departure IATA":"AMS",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":2044
+    },
+    {
+        "Departure IATA":"ASM",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1126
+    },
+    {
+        "Departure IATA":"ASW",
+        "Arrival IATA":"ABS",
+        "Flight Distance (miles)":134
+    },
+    {
+        "Departure IATA":"ASW",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":433
+    },
+    {
+        "Departure IATA":"ASW",
+        "Arrival IATA":"JED",
+        "Flight Distance (miles)":434
+    },
+    {
+        "Departure IATA":"ASW",
+        "Arrival IATA":"MED",
+        "Flight Distance (miles)":436
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":688
+    },
+    {
+        "Departure IATA":"AUH",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1480
+    },
+    {
+        "Departure IATA":"BAH",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1201
+    },
+    {
+        "Departure IATA":"BCN",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1808
+    },
+    {
+        "Departure IATA":"BCN",
+        "Arrival IATA":"LXR",
+        "Flight Distance (miles)":2054
+    },
+    {
+        "Departure IATA":"BEN",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":674
+    },
+    {
+        "Departure IATA":"BER",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1785
+    },
+    {
+        "Departure IATA":"BEY",
+        "Arrival IATA":"DOH",
+        "Flight Distance (miles)":1133
+    },
+    {
+        "Departure IATA":"BGW",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":786
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":4529
+    },
+    {
+        "Departure IATA":"BOM",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":2701
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1995
+    },
+    {
+        "Departure IATA":"BUD",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1359
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"ABJ",
+        "Flight Distance (miles)":2867
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"ABV",
+        "Flight Distance (miles)":2132
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"ACC",
+        "Flight Distance (miles)":2659
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"ADD",
+        "Flight Distance (miles)":1531
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"ALG",
+        "Flight Distance (miles)":1684
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"AMM",
+        "Flight Distance (miles)":294
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"AMS",
+        "Flight Distance (miles)":2044
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"ASM",
+        "Flight Distance (miles)":1126
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"ASW",
+        "Flight Distance (miles)":433
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":688
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"AUH",
+        "Flight Distance (miles)":1480
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"BAH",
+        "Flight Distance (miles)":1201
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"BCN",
+        "Flight Distance (miles)":1808
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"BEN",
+        "Flight Distance (miles)":674
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"BER",
+        "Flight Distance (miles)":1785
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"BEY",
+        "Flight Distance (miles)":350
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"BGW",
+        "Flight Distance (miles)":786
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"BOM",
+        "Flight Distance (miles)":2701
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":1995
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"BUD",
+        "Flight Distance (miles)":1359
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"CAN",
+        "Flight Distance (miles)":4974
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"CDG",
+        "Flight Distance (miles)":1996
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"CGK",
+        "Flight Distance (miles)":5561
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"CGN",
+        "Flight Distance (miles)":1901
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"CMN",
+        "Flight Distance (miles)":2294
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"CPH",
+        "Flight Distance (miles)":1987
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"DAC",
+        "Flight Distance (miles)":3625
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"DAR",
+        "Flight Distance (miles)":2596
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"DEL",
+        "Flight Distance (miles)":2741
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"DLA",
+        "Flight Distance (miles)":2288
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"DME",
+        "Flight Distance (miles)":1775
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"DMM",
+        "Flight Distance (miles)":1147
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"DOH",
+        "Flight Distance (miles)":1280
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"DUB",
+        "Flight Distance (miles)":2477
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"DUS",
+        "Flight Distance (miles)":1932
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"DWC",
+        "Flight Distance (miles)":1500
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"DXB",
+        "Flight Distance (miles)":1503
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"EBB",
+        "Flight Distance (miles)":2070
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"EBL",
+        "Flight Distance (miles)":839
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"ELQ",
+        "Flight Distance (miles)":798
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"EWR",
+        "Flight Distance (miles)":5630
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"FCO",
+        "Flight Distance (miles)":1337
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"FIH",
+        "Flight Distance (miles)":2598
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"FJR",
+        "Flight Distance (miles)":1563
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"FRA",
+        "Flight Distance (miles)":1817
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"GVA",
+        "Flight Distance (miles)":1756
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"HBE",
+        "Flight Distance (miles)":116
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"HGH",
+        "Flight Distance (miles)":5165
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"HKG",
+        "Flight Distance (miles)":5042
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"HRG",
+        "Flight Distance (miles)":249
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"IAD",
+        "Flight Distance (miles)":5842
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"IST",
+        "Flight Distance (miles)":783
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"JED",
+        "Flight Distance (miles)":755
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"JFK",
+        "Flight Distance (miles)":5614
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"JIB",
+        "Flight Distance (miles)":1484
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"JNB",
+        "Flight Distance (miles)":3874
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"JUB",
+        "Flight Distance (miles)":1737
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"KAN",
+        "Flight Distance (miles)":1923
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"KGL",
+        "Flight Distance (miles)":2208
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"KHI",
+        "Flight Distance (miles)":2215
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"KWI",
+        "Flight Distance (miles)":997
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"LCA",
+        "Flight Distance (miles)":352
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"LGG",
+        "Flight Distance (miles)":1950
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"LHR",
+        "Flight Distance (miles)":2197
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"LIS",
+        "Flight Distance (miles)":2370
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"LOS",
+        "Flight Distance (miles)":2440
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"LXR",
+        "Flight Distance (miles)":317
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"MAD",
+        "Flight Distance (miles)":2085
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"MAN",
+        "Flight Distance (miles)":2328
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":1715
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"MED",
+        "Flight Distance (miles)":638
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"MJI",
+        "Flight Distance (miles)":1085
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"MRA",
+        "Flight Distance (miles)":979
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"MUC",
+        "Flight Distance (miles)":1630
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"MXP",
+        "Flight Distance (miles)":1627
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"NBO",
+        "Flight Distance (miles)":2193
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"NDJ",
+        "Flight Distance (miles)":1623
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"NRT",
+        "Flight Distance (miles)":5973
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"OST",
+        "Flight Distance (miles)":2065
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"PEK",
+        "Flight Distance (miles)":4691
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"PRG",
+        "Flight Distance (miles)":1642
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"PVG",
+        "Flight Distance (miles)":5210
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"PZU",
+        "Flight Distance (miles)":821
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"RMF",
+        "Flight Distance (miles)":370
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"RUH",
+        "Flight Distance (miles)":1003
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"SHJ",
+        "Flight Distance (miles)":1511
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"SSH",
+        "Flight Distance (miles)":234
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"TIF",
+        "Flight Distance (miles)":823
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"TUN",
+        "Flight Distance (miles)":1304
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"TUU",
+        "Flight Distance (miles)":337
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":1469
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"YYZ",
+        "Flight Distance (miles)":5746
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":1706
+    },
+    {
+        "Departure IATA":"CAN",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":4974
+    },
+    {
+        "Departure IATA":"CDG",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1996
+    },
+    {
+        "Departure IATA":"CGK",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":5561
+    },
+    {
+        "Departure IATA":"CGN",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1901
+    },
+    {
+        "Departure IATA":"CMN",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":2294
+    },
+    {
+        "Departure IATA":"CPH",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1987
+    },
+    {
+        "Departure IATA":"DAC",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":3625
+    },
+    {
+        "Departure IATA":"DAR",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":2596
+    },
+    {
+        "Departure IATA":"DEL",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":2741
+    },
+    {
+        "Departure IATA":"DLA",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":2288
+    },
+    {
+        "Departure IATA":"DME",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1775
+    },
+    {
+        "Departure IATA":"DME",
+        "Arrival IATA":"HRG",
+        "Flight Distance (miles)":1959
+    },
+    {
+        "Departure IATA":"DME",
+        "Arrival IATA":"SSH",
+        "Flight Distance (miles)":1901
+    },
+    {
+        "Departure IATA":"DMM",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1147
+    },
+    {
+        "Departure IATA":"DMM",
+        "Arrival IATA":"HBE",
+        "Flight Distance (miles)":1256
+    },
+    {
+        "Departure IATA":"DOH",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1280
+    },
+    {
+        "Departure IATA":"DUB",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":2477
+    },
+    {
+        "Departure IATA":"DUS",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1932
+    },
+    {
+        "Departure IATA":"DWC",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1500
+    },
+    {
+        "Departure IATA":"DXB",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1503
+    },
+    {
+        "Departure IATA":"EBB",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":2070
+    },
+    {
+        "Departure IATA":"EBL",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":839
+    },
+    {
+        "Departure IATA":"ELQ",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":798
+    },
+    {
+        "Departure IATA":"EWR",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":5630
+    },
+    {
+        "Departure IATA":"FCO",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1337
+    },
+    {
+        "Departure IATA":"FIH",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":2598
+    },
+    {
+        "Departure IATA":"FJR",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1563
+    },
+    {
+        "Departure IATA":"FRA",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1817
+    },
+    {
+        "Departure IATA":"GVA",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1756
+    },
+    {
+        "Departure IATA":"HBE",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":116
+    },
+    {
+        "Departure IATA":"HBE",
+        "Arrival IATA":"DMM",
+        "Flight Distance (miles)":1256
+    },
+    {
+        "Departure IATA":"HBE",
+        "Arrival IATA":"JED",
+        "Flight Distance (miles)":865
+    },
+    {
+        "Departure IATA":"HBE",
+        "Arrival IATA":"MED",
+        "Flight Distance (miles)":753
+    },
+    {
+        "Departure IATA":"HBE",
+        "Arrival IATA":"RUH",
+        "Flight Distance (miles)":1116
+    },
+    {
+        "Departure IATA":"HGH",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":5165
+    },
+    {
+        "Departure IATA":"HHN",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1857
+    },
+    {
+        "Departure IATA":"HKG",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":1049
+    },
+    {
+        "Departure IATA":"HRG",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":249
+    },
+    {
+        "Departure IATA":"HRG",
+        "Arrival IATA":"DME",
+        "Flight Distance (miles)":1959
+    },
+    {
+        "Departure IATA":"IAD",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":5842
+    },
+    {
+        "Departure IATA":"IST",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":783
+    },
+    {
+        "Departure IATA":"JED",
+        "Arrival IATA":"ASW",
+        "Flight Distance (miles)":434
+    },
+    {
+        "Departure IATA":"JED",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":755
+    },
+    {
+        "Departure IATA":"JED",
+        "Arrival IATA":"HBE",
+        "Flight Distance (miles)":865
+    },
+    {
+        "Departure IATA":"JED",
+        "Arrival IATA":"LXR",
+        "Flight Distance (miles)":492
+    },
+    {
+        "Departure IATA":"JFK",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":5614
+    },
+    {
+        "Departure IATA":"JIB",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1484
+    },
+    {
+        "Departure IATA":"JIB",
+        "Arrival IATA":"MGQ",
+        "Flight Distance (miles)":671
+    },
+    {
+        "Departure IATA":"JNB",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":3874
+    },
+    {
+        "Departure IATA":"JUB",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1737
+    },
+    {
+        "Departure IATA":"KAN",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1923
+    },
+    {
+        "Departure IATA":"KGL",
+        "Arrival IATA":"EBB",
+        "Flight Distance (miles)":211
+    },
+    {
+        "Departure IATA":"KHI",
+        "Arrival IATA":"AAC",
+        "Flight Distance (miles)":2074
+    },
+    {
+        "Departure IATA":"KWI",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":997
+    },
+    {
+        "Departure IATA":"LCA",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":352
+    },
+    {
+        "Departure IATA":"LGG",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1950
+    },
+    {
+        "Departure IATA":"LGW",
+        "Arrival IATA":"LHR",
+        "Flight Distance (miles)":25
+    },
+    {
+        "Departure IATA":"LHR",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":2197
+    },
+    {
+        "Departure IATA":"LHR",
+        "Arrival IATA":"LXR",
+        "Flight Distance (miles)":2490
+    },
+    {
+        "Departure IATA":"LIS",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":2370
+    },
+    {
+        "Departure IATA":"LOS",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":2440
+    },
+    {
+        "Departure IATA":"LXR",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":317
+    },
+    {
+        "Departure IATA":"LXR",
+        "Arrival IATA":"JED",
+        "Flight Distance (miles)":492
+    },
+    {
+        "Departure IATA":"LXR",
+        "Arrival IATA":"LHR",
+        "Flight Distance (miles)":2490
+    },
+    {
+        "Departure IATA":"MAD",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":2085
+    },
+    {
+        "Departure IATA":"MAD",
+        "Arrival IATA":"IST",
+        "Flight Distance (miles)":1683
+    },
+    {
+        "Departure IATA":"MAD",
+        "Arrival IATA":"LXR",
+        "Flight Distance (miles)":2317
+    },
+    {
+        "Departure IATA":"MAN",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":2328
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1715
+    },
+    {
+        "Departure IATA":"MED",
+        "Arrival IATA":"ASW",
+        "Flight Distance (miles)":436
+    },
+    {
+        "Departure IATA":"MED",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":638
+    },
+    {
+        "Departure IATA":"MED",
+        "Arrival IATA":"HBE",
+        "Flight Distance (miles)":753
+    },
+    {
+        "Departure IATA":"MGQ",
+        "Arrival IATA":"JIB",
+        "Flight Distance (miles)":671
+    },
+    {
+        "Departure IATA":"MJI",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1085
+    },
+    {
+        "Departure IATA":"MJI",
+        "Arrival IATA":"OST",
+        "Flight Distance (miles)":1369
+    },
+    {
+        "Departure IATA":"MLA",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1058
+    },
+    {
+        "Departure IATA":"MRA",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":979
+    },
+    {
+        "Departure IATA":"MRA",
+        "Arrival IATA":"HHN",
+        "Flight Distance (miles)":1280
+    },
+    {
+        "Departure IATA":"MUC",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1630
+    },
+    {
+        "Departure IATA":"MXP",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1627
+    },
+    {
+        "Departure IATA":"MXP",
+        "Arrival IATA":"MLA",
+        "Flight Distance (miles)":738
+    },
+    {
+        "Departure IATA":"NBO",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":2193
+    },
+    {
+        "Departure IATA":"NDJ",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1623
+    },
+    {
+        "Departure IATA":"NDJ",
+        "Arrival IATA":"NBO",
+        "Flight Distance (miles)":1765
+    },
+    {
+        "Departure IATA":"NRT",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":5973
+    },
+    {
+        "Departure IATA":"OST",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":2065
+    },
+    {
+        "Departure IATA":"OST",
+        "Arrival IATA":"MJI",
+        "Flight Distance (miles)":1369
+    },
+    {
+        "Departure IATA":"PEK",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":4691
+    },
+    {
+        "Departure IATA":"PMR",
+        "Arrival IATA":"PMR",
+        "Flight Distance (miles)":0
+    },
+    {
+        "Departure IATA":"PRG",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1642
+    },
+    {
+        "Departure IATA":"PVG",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":5210
+    },
+    {
+        "Departure IATA":"PZU",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":821
+    },
+    {
+        "Departure IATA":"RMF",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":370
+    },
+    {
+        "Departure IATA":"RUH",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1003
+    },
+    {
+        "Departure IATA":"RUH",
+        "Arrival IATA":"HBE",
+        "Flight Distance (miles)":1116
+    },
+    {
+        "Departure IATA":"SHJ",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1511
+    },
+    {
+        "Departure IATA":"SSH",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":234
+    },
+    {
+        "Departure IATA":"SSH",
+        "Arrival IATA":"DME",
+        "Flight Distance (miles)":1901
+    },
+    {
+        "Departure IATA":"SSH",
+        "Arrival IATA":"HRG",
+        "Flight Distance (miles)":66
+    },
+    {
+        "Departure IATA":"TIF",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":823
+    },
+    {
+        "Departure IATA":"TUN",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1304
+    },
+    {
+        "Departure IATA":"TUU",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":337
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1469
+    },
+    {
+        "Departure IATA":"YYZ",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":5746
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1706
+    }
+]

@@ -1,0 +1,752 @@
+[
+    {
+        "Departure IATA":"ADL",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":2025
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"ADL",
+        "Flight Distance (miles)":2025
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"APW",
+        "Flight Distance (miles)":1792
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"BHE",
+        "Flight Distance (miles)":315
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"BNE",
+        "Flight Distance (miles)":1427
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"CHC",
+        "Flight Distance (miles)":463
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"DPS",
+        "Flight Distance (miles)":4190
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"DUD",
+        "Flight Distance (miles)":660
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"GIS",
+        "Flight Distance (miles)":208
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"HBA",
+        "Flight Distance (miles)":1496
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"HKG",
+        "Flight Distance (miles)":5688
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"HNL",
+        "Flight Distance (miles)":4389
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"IAH",
+        "Flight Distance (miles)":7415
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":5984
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"IUE",
+        "Flight Distance (miles)":1543
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"IVC",
+        "Flight Distance (miles)":730
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"JFK",
+        "Flight Distance (miles)":8828
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"KKE",
+        "Flight Distance (miles)":130
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"LAX",
+        "Flight Distance (miles)":6504
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"MEL",
+        "Flight Distance (miles)":1643
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"NAN",
+        "Flight Distance (miles)":1336
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"NPE",
+        "Flight Distance (miles)":204
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"NPL",
+        "Flight Distance (miles)":142
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"NRT",
+        "Flight Distance (miles)":5472
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"NSN",
+        "Flight Distance (miles)":307
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"OOL",
+        "Flight Distance (miles)":1379
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"PER",
+        "Flight Distance (miles)":3323
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"PMR",
+        "Flight Distance (miles)":233
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"PPT",
+        "Flight Distance (miles)":2544
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"PVG",
+        "Flight Distance (miles)":5807
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"RAR",
+        "Flight Distance (miles)":1873
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"ROT",
+        "Flight Distance (miles)":113
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"SFO",
+        "Flight Distance (miles)":6517
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":5225
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"SYD",
+        "Flight Distance (miles)":1345
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"TBU",
+        "Flight Distance (miles)":1244
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":5512
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"TRG",
+        "Flight Distance (miles)":90
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"TUO",
+        "Flight Distance (miles)":139
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"WLG",
+        "Flight Distance (miles)":298
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"WRE",
+        "Flight Distance (miles)":89
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"YVR",
+        "Flight Distance (miles)":7044
+    },
+    {
+        "Departure IATA":"AKL",
+        "Arrival IATA":"ZQN",
+        "Flight Distance (miles)":636
+    },
+    {
+        "Departure IATA":"APW",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":1792
+    },
+    {
+        "Departure IATA":"BHE",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":315
+    },
+    {
+        "Departure IATA":"BHE",
+        "Arrival IATA":"WLG",
+        "Flight Distance (miles)":50
+    },
+    {
+        "Departure IATA":"BNE",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":1427
+    },
+    {
+        "Departure IATA":"BNE",
+        "Arrival IATA":"CHC",
+        "Flight Distance (miles)":1551
+    },
+    {
+        "Departure IATA":"BNE",
+        "Arrival IATA":"WLG",
+        "Flight Distance (miles)":1560
+    },
+    {
+        "Departure IATA":"CHC",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":463
+    },
+    {
+        "Departure IATA":"CHC",
+        "Arrival IATA":"BNE",
+        "Flight Distance (miles)":1551
+    },
+    {
+        "Departure IATA":"CHC",
+        "Arrival IATA":"DUD",
+        "Flight Distance (miles)":204
+    },
+    {
+        "Departure IATA":"CHC",
+        "Arrival IATA":"HKK",
+        "Flight Distance (miles)":95
+    },
+    {
+        "Departure IATA":"CHC",
+        "Arrival IATA":"HLZ",
+        "Flight Distance (miles)":415
+    },
+    {
+        "Departure IATA":"CHC",
+        "Arrival IATA":"IVC",
+        "Flight Distance (miles)":289
+    },
+    {
+        "Departure IATA":"CHC",
+        "Arrival IATA":"MEL",
+        "Flight Distance (miles)":1504
+    },
+    {
+        "Departure IATA":"CHC",
+        "Arrival IATA":"NPE",
+        "Flight Distance (miles)":357
+    },
+    {
+        "Departure IATA":"CHC",
+        "Arrival IATA":"NPL",
+        "Flight Distance (miles)":321
+    },
+    {
+        "Departure IATA":"CHC",
+        "Arrival IATA":"NSN",
+        "Flight Distance (miles)":155
+    },
+    {
+        "Departure IATA":"CHC",
+        "Arrival IATA":"OOL",
+        "Flight Distance (miles)":1495
+    },
+    {
+        "Departure IATA":"CHC",
+        "Arrival IATA":"PMR",
+        "Flight Distance (miles)":270
+    },
+    {
+        "Departure IATA":"CHC",
+        "Arrival IATA":"ROT",
+        "Flight Distance (miles)":421
+    },
+    {
+        "Departure IATA":"CHC",
+        "Arrival IATA":"SYD",
+        "Flight Distance (miles)":1323
+    },
+    {
+        "Departure IATA":"CHC",
+        "Arrival IATA":"TRG",
+        "Flight Distance (miles)":445
+    },
+    {
+        "Departure IATA":"CHC",
+        "Arrival IATA":"WLG",
+        "Flight Distance (miles)":189
+    },
+    {
+        "Departure IATA":"CHC",
+        "Arrival IATA":"ZQN",
+        "Flight Distance (miles)":215
+    },
+    {
+        "Departure IATA":"DPS",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":4190
+    },
+    {
+        "Departure IATA":"DUD",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":660
+    },
+    {
+        "Departure IATA":"DUD",
+        "Arrival IATA":"CHC",
+        "Flight Distance (miles)":204
+    },
+    {
+        "Departure IATA":"DUD",
+        "Arrival IATA":"WLG",
+        "Flight Distance (miles)":393
+    },
+    {
+        "Departure IATA":"GIS",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":208
+    },
+    {
+        "Departure IATA":"GIS",
+        "Arrival IATA":"WLG",
+        "Flight Distance (miles)":249
+    },
+    {
+        "Departure IATA":"HBA",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":1496
+    },
+    {
+        "Departure IATA":"HKG",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":5688
+    },
+    {
+        "Departure IATA":"HKK",
+        "Arrival IATA":"CHC",
+        "Flight Distance (miles)":95
+    },
+    {
+        "Departure IATA":"HLZ",
+        "Arrival IATA":"CHC",
+        "Flight Distance (miles)":415
+    },
+    {
+        "Departure IATA":"HLZ",
+        "Arrival IATA":"WLG",
+        "Flight Distance (miles)":240
+    },
+    {
+        "Departure IATA":"HNL",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":4389
+    },
+    {
+        "Departure IATA":"IAH",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":7415
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":5984
+    },
+    {
+        "Departure IATA":"IUE",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":1543
+    },
+    {
+        "Departure IATA":"IVC",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":730
+    },
+    {
+        "Departure IATA":"IVC",
+        "Arrival IATA":"CHC",
+        "Flight Distance (miles)":289
+    },
+    {
+        "Departure IATA":"IVC",
+        "Arrival IATA":"WLG",
+        "Flight Distance (miles)":478
+    },
+    {
+        "Departure IATA":"JFK",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":8828
+    },
+    {
+        "Departure IATA":"KKE",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":130
+    },
+    {
+        "Departure IATA":"LAX",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":6504
+    },
+    {
+        "Departure IATA":"MEL",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":1643
+    },
+    {
+        "Departure IATA":"MEL",
+        "Arrival IATA":"CHC",
+        "Flight Distance (miles)":1504
+    },
+    {
+        "Departure IATA":"MEL",
+        "Arrival IATA":"WLG",
+        "Flight Distance (miles)":1613
+    },
+    {
+        "Departure IATA":"MEL",
+        "Arrival IATA":"ZQN",
+        "Flight Distance (miles)":1337
+    },
+    {
+        "Departure IATA":"NAN",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":1336
+    },
+    {
+        "Departure IATA":"NPE",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":204
+    },
+    {
+        "Departure IATA":"NPE",
+        "Arrival IATA":"CHC",
+        "Flight Distance (miles)":357
+    },
+    {
+        "Departure IATA":"NPE",
+        "Arrival IATA":"WLG",
+        "Flight Distance (miles)":168
+    },
+    {
+        "Departure IATA":"NPL",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":142
+    },
+    {
+        "Departure IATA":"NPL",
+        "Arrival IATA":"CHC",
+        "Flight Distance (miles)":321
+    },
+    {
+        "Departure IATA":"NPL",
+        "Arrival IATA":"WLG",
+        "Flight Distance (miles)":163
+    },
+    {
+        "Departure IATA":"NRT",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":5472
+    },
+    {
+        "Departure IATA":"NSN",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":307
+    },
+    {
+        "Departure IATA":"NSN",
+        "Arrival IATA":"CHC",
+        "Flight Distance (miles)":155
+    },
+    {
+        "Departure IATA":"NSN",
+        "Arrival IATA":"WLG",
+        "Flight Distance (miles)":82
+    },
+    {
+        "Departure IATA":"OOL",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":1379
+    },
+    {
+        "Departure IATA":"OOL",
+        "Arrival IATA":"CHC",
+        "Flight Distance (miles)":1495
+    },
+    {
+        "Departure IATA":"PER",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":3323
+    },
+    {
+        "Departure IATA":"PMR",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":233
+    },
+    {
+        "Departure IATA":"PMR",
+        "Arrival IATA":"CHC",
+        "Flight Distance (miles)":270
+    },
+    {
+        "Departure IATA":"PPT",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":2544
+    },
+    {
+        "Departure IATA":"PVG",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":5807
+    },
+    {
+        "Departure IATA":"RAR",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":1873
+    },
+    {
+        "Departure IATA":"ROT",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":113
+    },
+    {
+        "Departure IATA":"ROT",
+        "Arrival IATA":"CHC",
+        "Flight Distance (miles)":421
+    },
+    {
+        "Departure IATA":"ROT",
+        "Arrival IATA":"WLG",
+        "Flight Distance (miles)":236
+    },
+    {
+        "Departure IATA":"SFO",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":6517
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":5225
+    },
+    {
+        "Departure IATA":"SYD",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":1345
+    },
+    {
+        "Departure IATA":"SYD",
+        "Arrival IATA":"CHC",
+        "Flight Distance (miles)":1323
+    },
+    {
+        "Departure IATA":"SYD",
+        "Arrival IATA":"WLG",
+        "Flight Distance (miles)":1387
+    },
+    {
+        "Departure IATA":"SYD",
+        "Arrival IATA":"ZQN",
+        "Flight Distance (miles)":1206
+    },
+    {
+        "Departure IATA":"TBU",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":1244
+    },
+    {
+        "Departure IATA":"TIU",
+        "Arrival IATA":"WLG",
+        "Flight Distance (miles)":274
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":5512
+    },
+    {
+        "Departure IATA":"TRG",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":90
+    },
+    {
+        "Departure IATA":"TRG",
+        "Arrival IATA":"CHC",
+        "Flight Distance (miles)":445
+    },
+    {
+        "Departure IATA":"TRG",
+        "Arrival IATA":"WLG",
+        "Flight Distance (miles)":263
+    },
+    {
+        "Departure IATA":"TUO",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":139
+    },
+    {
+        "Departure IATA":"WLG",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":298
+    },
+    {
+        "Departure IATA":"WLG",
+        "Arrival IATA":"BHE",
+        "Flight Distance (miles)":50
+    },
+    {
+        "Departure IATA":"WLG",
+        "Arrival IATA":"BNE",
+        "Flight Distance (miles)":1560
+    },
+    {
+        "Departure IATA":"WLG",
+        "Arrival IATA":"CHC",
+        "Flight Distance (miles)":189
+    },
+    {
+        "Departure IATA":"WLG",
+        "Arrival IATA":"DUD",
+        "Flight Distance (miles)":393
+    },
+    {
+        "Departure IATA":"WLG",
+        "Arrival IATA":"GIS",
+        "Flight Distance (miles)":249
+    },
+    {
+        "Departure IATA":"WLG",
+        "Arrival IATA":"HLZ",
+        "Flight Distance (miles)":240
+    },
+    {
+        "Departure IATA":"WLG",
+        "Arrival IATA":"IVC",
+        "Flight Distance (miles)":478
+    },
+    {
+        "Departure IATA":"WLG",
+        "Arrival IATA":"MEL",
+        "Flight Distance (miles)":1613
+    },
+    {
+        "Departure IATA":"WLG",
+        "Arrival IATA":"NPE",
+        "Flight Distance (miles)":168
+    },
+    {
+        "Departure IATA":"WLG",
+        "Arrival IATA":"NPL",
+        "Flight Distance (miles)":163
+    },
+    {
+        "Departure IATA":"WLG",
+        "Arrival IATA":"NSN",
+        "Flight Distance (miles)":82
+    },
+    {
+        "Departure IATA":"WLG",
+        "Arrival IATA":"ROT",
+        "Flight Distance (miles)":236
+    },
+    {
+        "Departure IATA":"WLG",
+        "Arrival IATA":"SYD",
+        "Flight Distance (miles)":1387
+    },
+    {
+        "Departure IATA":"WLG",
+        "Arrival IATA":"TIU",
+        "Flight Distance (miles)":274
+    },
+    {
+        "Departure IATA":"WLG",
+        "Arrival IATA":"TRG",
+        "Flight Distance (miles)":263
+    },
+    {
+        "Departure IATA":"WLG",
+        "Arrival IATA":"ZQN",
+        "Flight Distance (miles)":398
+    },
+    {
+        "Departure IATA":"WRE",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":89
+    },
+    {
+        "Departure IATA":"YVR",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":7044
+    },
+    {
+        "Departure IATA":"ZQN",
+        "Arrival IATA":"AKL",
+        "Flight Distance (miles)":636
+    },
+    {
+        "Departure IATA":"ZQN",
+        "Arrival IATA":"CHC",
+        "Flight Distance (miles)":215
+    },
+    {
+        "Departure IATA":"ZQN",
+        "Arrival IATA":"MEL",
+        "Flight Distance (miles)":1337
+    },
+    {
+        "Departure IATA":"ZQN",
+        "Arrival IATA":"SYD",
+        "Flight Distance (miles)":1206
+    },
+    {
+        "Departure IATA":"ZQN",
+        "Arrival IATA":"WLG",
+        "Flight Distance (miles)":398
+    }
+]

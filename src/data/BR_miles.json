@@ -1,0 +1,602 @@
+[
+    {
+        "Departure IATA":"AMS",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":5727
+    },
+    {
+        "Departure IATA":"AOJ",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":1556
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"AMS",
+        "Flight Distance (miles)":5727
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"LHR",
+        "Flight Distance (miles)":5958
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":1547
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":5256
+    },
+    {
+        "Departure IATA":"BNE",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":4187
+    },
+    {
+        "Departure IATA":"CAN",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":514
+    },
+    {
+        "Departure IATA":"CDG",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":6092
+    },
+    {
+        "Departure IATA":"CEB",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":1032
+    },
+    {
+        "Departure IATA":"CGK",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":2359
+    },
+    {
+        "Departure IATA":"CKG",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":951
+    },
+    {
+        "Departure IATA":"CNX",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":1492
+    },
+    {
+        "Departure IATA":"CRK",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":682
+    },
+    {
+        "Departure IATA":"CTS",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":1685
+    },
+    {
+        "Departure IATA":"DAD",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":1047
+    },
+    {
+        "Departure IATA":"DPS",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":2361
+    },
+    {
+        "Departure IATA":"FUK",
+        "Arrival IATA":"KHH",
+        "Flight Distance (miles)":976
+    },
+    {
+        "Departure IATA":"FUK",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":807
+    },
+    {
+        "Departure IATA":"GMP",
+        "Arrival IATA":"TSA",
+        "Flight Distance (miles)":914
+    },
+    {
+        "Departure IATA":"HAN",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":1016
+    },
+    {
+        "Departure IATA":"HGH",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":358
+    },
+    {
+        "Departure IATA":"HKG",
+        "Arrival IATA":"KHH",
+        "Flight Distance (miles)":412
+    },
+    {
+        "Departure IATA":"HKG",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":501
+    },
+    {
+        "Departure IATA":"HND",
+        "Arrival IATA":"TSA",
+        "Flight Distance (miles)":1303
+    },
+    {
+        "Departure IATA":"IAH",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":7939
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"KHH",
+        "Flight Distance (miles)":1088
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":907
+    },
+    {
+        "Departure IATA":"JFK",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":7808
+    },
+    {
+        "Departure IATA":"KHH",
+        "Arrival IATA":"FUK",
+        "Flight Distance (miles)":976
+    },
+    {
+        "Departure IATA":"KHH",
+        "Arrival IATA":"HKG",
+        "Flight Distance (miles)":412
+    },
+    {
+        "Departure IATA":"KHH",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":1088
+    },
+    {
+        "Departure IATA":"KHH",
+        "Arrival IATA":"KIX",
+        "Flight Distance (miles)":1217
+    },
+    {
+        "Departure IATA":"KHH",
+        "Arrival IATA":"MFM",
+        "Flight Distance (miles)":434
+    },
+    {
+        "Departure IATA":"KHH",
+        "Arrival IATA":"NRT",
+        "Flight Distance (miles)":1509
+    },
+    {
+        "Departure IATA":"KHH",
+        "Arrival IATA":"PVG",
+        "Flight Distance (miles)":597
+    },
+    {
+        "Departure IATA":"KIX",
+        "Arrival IATA":"KHH",
+        "Flight Distance (miles)":1217
+    },
+    {
+        "Departure IATA":"KIX",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":1058
+    },
+    {
+        "Departure IATA":"KMQ",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":1190
+    },
+    {
+        "Departure IATA":"KUL",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":2012
+    },
+    {
+        "Departure IATA":"LAX",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":6799
+    },
+    {
+        "Departure IATA":"LHR",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":5958
+    },
+    {
+        "Departure IATA":"MFM",
+        "Arrival IATA":"KHH",
+        "Flight Distance (miles)":434
+    },
+    {
+        "Departure IATA":"MFM",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":525
+    },
+    {
+        "Departure IATA":"MNL",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":727
+    },
+    {
+        "Departure IATA":"MUC",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":5768
+    },
+    {
+        "Departure IATA":"MXP",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":5990
+    },
+    {
+        "Departure IATA":"MYJ",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":916
+    },
+    {
+        "Departure IATA":"NRT",
+        "Arrival IATA":"KHH",
+        "Flight Distance (miles)":1509
+    },
+    {
+        "Departure IATA":"NRT",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":1356
+    },
+    {
+        "Departure IATA":"OKA",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":407
+    },
+    {
+        "Departure IATA":"ORD",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":7457
+    },
+    {
+        "Departure IATA":"PEK",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":1068
+    },
+    {
+        "Departure IATA":"PEN",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":1945
+    },
+    {
+        "Departure IATA":"PNH",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":1420
+    },
+    {
+        "Departure IATA":"PVG",
+        "Arrival IATA":"KHH",
+        "Flight Distance (miles)":597
+    },
+    {
+        "Departure IATA":"PVG",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":419
+    },
+    {
+        "Departure IATA":"SDJ",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":1463
+    },
+    {
+        "Departure IATA":"SEA",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":6074
+    },
+    {
+        "Departure IATA":"SFO",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":6469
+    },
+    {
+        "Departure IATA":"SGN",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":1370
+    },
+    {
+        "Departure IATA":"SHA",
+        "Arrival IATA":"TSA",
+        "Flight Distance (miles)":422
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":1997
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":499
+    },
+    {
+        "Departure IATA":"TFU",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":1089
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"AOJ",
+        "Flight Distance (miles)":1556
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":1547
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"BNE",
+        "Flight Distance (miles)":4187
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"CAN",
+        "Flight Distance (miles)":514
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"CDG",
+        "Flight Distance (miles)":6092
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"CEB",
+        "Flight Distance (miles)":1032
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"CGK",
+        "Flight Distance (miles)":2359
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"CKG",
+        "Flight Distance (miles)":951
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"CNX",
+        "Flight Distance (miles)":1492
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"CRK",
+        "Flight Distance (miles)":682
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"CTS",
+        "Flight Distance (miles)":1685
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"DAD",
+        "Flight Distance (miles)":1047
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"DPS",
+        "Flight Distance (miles)":2361
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"FUK",
+        "Flight Distance (miles)":807
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"HAN",
+        "Flight Distance (miles)":1016
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"HGH",
+        "Flight Distance (miles)":358
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"HKG",
+        "Flight Distance (miles)":501
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"IAH",
+        "Flight Distance (miles)":7939
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":907
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"JFK",
+        "Flight Distance (miles)":7808
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"KIX",
+        "Flight Distance (miles)":1058
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"KMQ",
+        "Flight Distance (miles)":1190
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"KUL",
+        "Flight Distance (miles)":2012
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"LAX",
+        "Flight Distance (miles)":6799
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"MFM",
+        "Flight Distance (miles)":525
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"MNL",
+        "Flight Distance (miles)":727
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"MUC",
+        "Flight Distance (miles)":5768
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"MXP",
+        "Flight Distance (miles)":5990
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"MYJ",
+        "Flight Distance (miles)":916
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"NRT",
+        "Flight Distance (miles)":1356
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"OKA",
+        "Flight Distance (miles)":407
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"ORD",
+        "Flight Distance (miles)":7457
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"PEK",
+        "Flight Distance (miles)":1068
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"PEN",
+        "Flight Distance (miles)":1945
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"PNH",
+        "Flight Distance (miles)":1420
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"PVG",
+        "Flight Distance (miles)":419
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"SDJ",
+        "Flight Distance (miles)":1463
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"SEA",
+        "Flight Distance (miles)":6074
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"SFO",
+        "Flight Distance (miles)":6469
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"SGN",
+        "Flight Distance (miles)":1370
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":1997
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":499
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"TFU",
+        "Flight Distance (miles)":1089
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":5583
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"XMN",
+        "Flight Distance (miles)":198
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"YVR",
+        "Flight Distance (miles)":5971
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"YYZ",
+        "Flight Distance (miles)":7519
+    },
+    {
+        "Departure IATA":"TSA",
+        "Arrival IATA":"GMP",
+        "Flight Distance (miles)":914
+    },
+    {
+        "Departure IATA":"TSA",
+        "Arrival IATA":"HND",
+        "Flight Distance (miles)":1303
+    },
+    {
+        "Departure IATA":"TSA",
+        "Arrival IATA":"SHA",
+        "Flight Distance (miles)":422
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":5256
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":5583
+    },
+    {
+        "Departure IATA":"XMN",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":198
+    },
+    {
+        "Departure IATA":"YVR",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":5971
+    },
+    {
+        "Departure IATA":"YYZ",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":7519
+    }
+]

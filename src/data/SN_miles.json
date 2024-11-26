@@ -1,0 +1,747 @@
+[
+    {
+        "Departure IATA":"ABJ",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":3181
+    },
+    {
+        "Departure IATA":"ABJ",
+        "Arrival IATA":"COO",
+        "Flight Distance (miles)":441
+    },
+    {
+        "Departure IATA":"ABJ",
+        "Arrival IATA":"OUA",
+        "Flight Distance (miles)":515
+    },
+    {
+        "Departure IATA":"ACC",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":3132
+    },
+    {
+        "Departure IATA":"ACC",
+        "Arrival IATA":"COO",
+        "Flight Distance (miles)":183
+    },
+    {
+        "Departure IATA":"ACC",
+        "Arrival IATA":"LFW",
+        "Flight Distance (miles)":105
+    },
+    {
+        "Departure IATA":"ACE",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":1783
+    },
+    {
+        "Departure IATA":"AGP",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":1078
+    },
+    {
+        "Departure IATA":"ALC",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":906
+    },
+    {
+        "Departure IATA":"ARN",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":803
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":1307
+    },
+    {
+        "Departure IATA":"BCN",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":673
+    },
+    {
+        "Departure IATA":"BER",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":401
+    },
+    {
+        "Departure IATA":"BHX",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":288
+    },
+    {
+        "Departure IATA":"BIO",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":630
+    },
+    {
+        "Departure IATA":"BJL",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":2848
+    },
+    {
+        "Departure IATA":"BJL",
+        "Arrival IATA":"CKY",
+        "Flight Distance (miles)":331
+    },
+    {
+        "Departure IATA":"BJL",
+        "Arrival IATA":"DSS",
+        "Flight Distance (miles)":96
+    },
+    {
+        "Departure IATA":"BJM",
+        "Arrival IATA":"EBB",
+        "Flight Distance (miles)":317
+    },
+    {
+        "Departure IATA":"BLQ",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":542
+    },
+    {
+        "Departure IATA":"BNE",
+        "Arrival IATA":"QBW",
+        "Flight Distance (miles)":2213
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"ABJ",
+        "Flight Distance (miles)":3181
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"ACC",
+        "Flight Distance (miles)":3132
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"ACE",
+        "Flight Distance (miles)":1783
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"AGP",
+        "Flight Distance (miles)":1078
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"ALC",
+        "Flight Distance (miles)":906
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"ARN",
+        "Flight Distance (miles)":803
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":1307
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"BCN",
+        "Flight Distance (miles)":673
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"BER",
+        "Flight Distance (miles)":401
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"BHX",
+        "Flight Distance (miles)":288
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"BIO",
+        "Flight Distance (miles)":630
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"BJL",
+        "Flight Distance (miles)":2848
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"BJM",
+        "Flight Distance (miles)":4013
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"BLQ",
+        "Flight Distance (miles)":542
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"BUD",
+        "Flight Distance (miles)":709
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"CDG",
+        "Flight Distance (miles)":156
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"COO",
+        "Flight Distance (miles)":3071
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"CPH",
+        "Flight Distance (miles)":469
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"DLA",
+        "Flight Distance (miles)":3244
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"DSS",
+        "Flight Distance (miles)":2772
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"EDI",
+        "Flight Distance (miles)":476
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"EVN",
+        "Flight Distance (miles)":2045
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"FAO",
+        "Flight Distance (miles)":1139
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"FCO",
+        "Flight Distance (miles)":729
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"FIH",
+        "Flight Distance (miles)":3862
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"FNA",
+        "Flight Distance (miles)":3084
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"FRA",
+        "Flight Distance (miles)":189
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"FUE",
+        "Flight Distance (miles)":1820
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"GOT",
+        "Flight Distance (miles)":564
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"GVA",
+        "Flight Distance (miles)":331
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"HAM",
+        "Flight Distance (miles)":300
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"HRG",
+        "Flight Distance (miles)":2244
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"JFK",
+        "Flight Distance (miles)":3667
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"KGL",
+        "Flight Distance (miles)":3943
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"KRK",
+        "Flight Distance (miles)":676
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"LAD",
+        "Flight Distance (miles)":4147
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"LHR",
+        "Flight Distance (miles)":219
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"LIN",
+        "Flight Distance (miles)":437
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"LIS",
+        "Flight Distance (miles)":1068
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"LJU",
+        "Flight Distance (miles)":559
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"LPA",
+        "Flight Distance (miles)":1895
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"LYS",
+        "Flight Distance (miles)":359
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"MAD",
+        "Flight Distance (miles)":817
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"MAN",
+        "Flight Distance (miles)":334
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"MRS",
+        "Flight Distance (miles)":517
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"MUC",
+        "Flight Distance (miles)":372
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"MXP",
+        "Flight Distance (miles)":413
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"NBO",
+        "Flight Distance (miles)":4071
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"NCE",
+        "Flight Distance (miles)":516
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"OPO",
+        "Flight Distance (miles)":917
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"OSL",
+        "Flight Distance (miles)":692
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"PRG",
+        "Flight Distance (miles)":434
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"ROB",
+        "Flight Distance (miles)":3194
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"TFS",
+        "Flight Distance (miles)":1923
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"TLS",
+        "Flight Distance (miles)":523
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"VCE",
+        "Flight Distance (miles)":520
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":576
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"VLC",
+        "Flight Distance (miles)":824
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"VNO",
+        "Flight Distance (miles)":906
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"WAW",
+        "Flight Distance (miles)":714
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":300
+    },
+    {
+        "Departure IATA":"BUD",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":709
+    },
+    {
+        "Departure IATA":"CDG",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":156
+    },
+    {
+        "Departure IATA":"CIA",
+        "Arrival IATA":"LIN",
+        "Flight Distance (miles)":302
+    },
+    {
+        "Departure IATA":"CKY",
+        "Arrival IATA":"BJL",
+        "Flight Distance (miles)":331
+    },
+    {
+        "Departure IATA":"CKY",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":3028
+    },
+    {
+        "Departure IATA":"CKY",
+        "Arrival IATA":"DSS",
+        "Flight Distance (miles)":421
+    },
+    {
+        "Departure IATA":"COO",
+        "Arrival IATA":"ACC",
+        "Flight Distance (miles)":183
+    },
+    {
+        "Departure IATA":"COO",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":3071
+    },
+    {
+        "Departure IATA":"CPH",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":469
+    },
+    {
+        "Departure IATA":"DLA",
+        "Arrival IATA":"NSI",
+        "Flight Distance (miles)":128
+    },
+    {
+        "Departure IATA":"DSS",
+        "Arrival IATA":"BJL",
+        "Flight Distance (miles)":96
+    },
+    {
+        "Departure IATA":"DSS",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":2772
+    },
+    {
+        "Departure IATA":"DSS",
+        "Arrival IATA":"CKY",
+        "Flight Distance (miles)":421
+    },
+    {
+        "Departure IATA":"EBB",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":3867
+    },
+    {
+        "Departure IATA":"EDI",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":476
+    },
+    {
+        "Departure IATA":"EVN",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":2045
+    },
+    {
+        "Departure IATA":"FAO",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":1139
+    },
+    {
+        "Departure IATA":"FCO",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":729
+    },
+    {
+        "Departure IATA":"FIH",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":3862
+    },
+    {
+        "Departure IATA":"FNA",
+        "Arrival IATA":"CKY",
+        "Flight Distance (miles)":72
+    },
+    {
+        "Departure IATA":"FNA",
+        "Arrival IATA":"ROB",
+        "Flight Distance (miles)":254
+    },
+    {
+        "Departure IATA":"FRA",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":189
+    },
+    {
+        "Departure IATA":"FUE",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":1820
+    },
+    {
+        "Departure IATA":"GOT",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":564
+    },
+    {
+        "Departure IATA":"GVA",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":331
+    },
+    {
+        "Departure IATA":"HAM",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":300
+    },
+    {
+        "Departure IATA":"HRG",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":2244
+    },
+    {
+        "Departure IATA":"JFK",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":3667
+    },
+    {
+        "Departure IATA":"KGL",
+        "Arrival IATA":"EBB",
+        "Flight Distance (miles)":211
+    },
+    {
+        "Departure IATA":"KGL",
+        "Arrival IATA":"NBO",
+        "Flight Distance (miles)":471
+    },
+    {
+        "Departure IATA":"KRK",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":676
+    },
+    {
+        "Departure IATA":"KYB",
+        "Arrival IATA":"BNE",
+        "Flight Distance (miles)":2342
+    },
+    {
+        "Departure IATA":"KYB",
+        "Arrival IATA":"PER",
+        "Flight Distance (miles)":673
+    },
+    {
+        "Departure IATA":"LAD",
+        "Arrival IATA":"FIH",
+        "Flight Distance (miles)":343
+    },
+    {
+        "Departure IATA":"LFW",
+        "Arrival IATA":"ACC",
+        "Flight Distance (miles)":105
+    },
+    {
+        "Departure IATA":"LHR",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":219
+    },
+    {
+        "Departure IATA":"LIN",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":437
+    },
+    {
+        "Departure IATA":"LIN",
+        "Arrival IATA":"CIA",
+        "Flight Distance (miles)":302
+    },
+    {
+        "Departure IATA":"LIS",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":1068
+    },
+    {
+        "Departure IATA":"LJU",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":559
+    },
+    {
+        "Departure IATA":"LPA",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":1895
+    },
+    {
+        "Departure IATA":"LYS",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":359
+    },
+    {
+        "Departure IATA":"MAD",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":817
+    },
+    {
+        "Departure IATA":"MAN",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":334
+    },
+    {
+        "Departure IATA":"MRS",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":517
+    },
+    {
+        "Departure IATA":"MUC",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":372
+    },
+    {
+        "Departure IATA":"MXP",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":413
+    },
+    {
+        "Departure IATA":"NBO",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":4071
+    },
+    {
+        "Departure IATA":"NCE",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":516
+    },
+    {
+        "Departure IATA":"NSI",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":3275
+    },
+    {
+        "Departure IATA":"OPO",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":917
+    },
+    {
+        "Departure IATA":"OSL",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":692
+    },
+    {
+        "Departure IATA":"OUA",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":2678
+    },
+    {
+        "Departure IATA":"PER",
+        "Arrival IATA":"KYB",
+        "Flight Distance (miles)":673
+    },
+    {
+        "Departure IATA":"PRG",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":434
+    },
+    {
+        "Departure IATA":"QBW",
+        "Arrival IATA":"KYB",
+        "Flight Distance (miles)":178
+    },
+    {
+        "Departure IATA":"ROB",
+        "Arrival IATA":"ABJ",
+        "Flight Distance (miles)":448
+    },
+    {
+        "Departure IATA":"ROB",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":3194
+    },
+    {
+        "Departure IATA":"SHA",
+        "Arrival IATA":"CGK",
+        "Flight Distance (miles)":2744
+    },
+    {
+        "Departure IATA":"TFS",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":1923
+    },
+    {
+        "Departure IATA":"TLS",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":523
+    },
+    {
+        "Departure IATA":"VCE",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":520
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":576
+    },
+    {
+        "Departure IATA":"VLC",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":824
+    },
+    {
+        "Departure IATA":"VNO",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":906
+    },
+    {
+        "Departure IATA":"WAW",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":714
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":300
+    }
+]

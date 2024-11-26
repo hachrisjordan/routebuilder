@@ -1,0 +1,2037 @@
+[
+    {
+        "Departure IATA":"ADS",
+        "Arrival IATA":"APA",
+        "Flight Distance (miles)":638
+    },
+    {
+        "Departure IATA":"ADS",
+        "Arrival IATA":"OAK",
+        "Flight Distance (miles)":1466
+    },
+    {
+        "Departure IATA":"AGP",
+        "Arrival IATA":"GVA",
+        "Flight Distance (miles)":858
+    },
+    {
+        "Departure IATA":"AGP",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":999
+    },
+    {
+        "Departure IATA":"ALC",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":783
+    },
+    {
+        "Departure IATA":"AMS",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":375
+    },
+    {
+        "Departure IATA":"APA",
+        "Arrival IATA":"OAK",
+        "Flight Distance (miles)":947
+    },
+    {
+        "Departure IATA":"APA",
+        "Arrival IATA":"UST",
+        "Flight Distance (miles)":1486
+    },
+    {
+        "Departure IATA":"APC",
+        "Arrival IATA":"VGT",
+        "Flight Distance (miles)":415
+    },
+    {
+        "Departure IATA":"APF",
+        "Arrival IATA":"AVL",
+        "Flight Distance (miles)":641
+    },
+    {
+        "Departure IATA":"APF",
+        "Arrival IATA":"BUF",
+        "Flight Distance (miles)":1170
+    },
+    {
+        "Departure IATA":"APF",
+        "Arrival IATA":"BWI",
+        "Flight Distance (miles)":945
+    },
+    {
+        "Departure IATA":"APF",
+        "Arrival IATA":"FLL",
+        "Flight Distance (miles)":101
+    },
+    {
+        "Departure IATA":"APF",
+        "Arrival IATA":"JVL",
+        "Flight Distance (miles)":1207
+    },
+    {
+        "Departure IATA":"APF",
+        "Arrival IATA":"LWB",
+        "Flight Distance (miles)":811
+    },
+    {
+        "Departure IATA":"APF",
+        "Arrival IATA":"MDD",
+        "Flight Distance (miles)":1292
+    },
+    {
+        "Departure IATA":"APF",
+        "Arrival IATA":"MSP",
+        "Flight Distance (miles)":1440
+    },
+    {
+        "Departure IATA":"ARN",
+        "Arrival IATA":"GVA",
+        "Flight Distance (miles)":1047
+    },
+    {
+        "Departure IATA":"ARN",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":925
+    },
+    {
+        "Departure IATA":"ASE",
+        "Arrival IATA":"MRY",
+        "Flight Distance (miles)":837
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"GVA",
+        "Flight Distance (miles)":1077
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":1020
+    },
+    {
+        "Departure IATA":"AUO",
+        "Arrival IATA":"HSV",
+        "Flight Distance (miles)":159
+    },
+    {
+        "Departure IATA":"AUO",
+        "Arrival IATA":"TPA",
+        "Flight Distance (miles)":364
+    },
+    {
+        "Departure IATA":"AUS",
+        "Arrival IATA":"DWH",
+        "Flight Distance (miles)":127
+    },
+    {
+        "Departure IATA":"AUS",
+        "Arrival IATA":"HPN",
+        "Flight Distance (miles)":1536
+    },
+    {
+        "Departure IATA":"AUS",
+        "Arrival IATA":"HTV",
+        "Flight Distance (miles)":130
+    },
+    {
+        "Departure IATA":"AUS",
+        "Arrival IATA":"LAX",
+        "Flight Distance (miles)":1241
+    },
+    {
+        "Departure IATA":"AUS",
+        "Arrival IATA":"MRF",
+        "Flight Distance (miles)":380
+    },
+    {
+        "Departure IATA":"AUS",
+        "Arrival IATA":"PIE",
+        "Flight Distance (miles)":919
+    },
+    {
+        "Departure IATA":"AUS",
+        "Arrival IATA":"PIT",
+        "Flight Distance (miles)":1210
+    },
+    {
+        "Departure IATA":"AUS",
+        "Arrival IATA":"QQT",
+        "Flight Distance (miles)":215
+    },
+    {
+        "Departure IATA":"AUS",
+        "Arrival IATA":"SEA",
+        "Flight Distance (miles)":1770
+    },
+    {
+        "Departure IATA":"AUS",
+        "Arrival IATA":"SJD",
+        "Flight Distance (miles)":888
+    },
+    {
+        "Departure IATA":"AZA",
+        "Arrival IATA":"LAS",
+        "Flight Distance (miles)":277
+    },
+    {
+        "Departure IATA":"BCN",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":533
+    },
+    {
+        "Departure IATA":"BCT",
+        "Arrival IATA":"TYS",
+        "Flight Distance (miles)":689
+    },
+    {
+        "Departure IATA":"BDS",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":662
+    },
+    {
+        "Departure IATA":"BED",
+        "Arrival IATA":"GRB",
+        "Flight Distance (miles)":856
+    },
+    {
+        "Departure IATA":"BEG",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":593
+    },
+    {
+        "Departure IATA":"BER",
+        "Arrival IATA":"GVA",
+        "Flight Distance (miles)":539
+    },
+    {
+        "Departure IATA":"BER",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":404
+    },
+    {
+        "Departure IATA":"BFI",
+        "Arrival IATA":"CCR",
+        "Flight Distance (miles)":659
+    },
+    {
+        "Departure IATA":"BHX",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":573
+    },
+    {
+        "Departure IATA":"BIS",
+        "Arrival IATA":"APA",
+        "Flight Distance (miles)":538
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":5632
+    },
+    {
+        "Departure IATA":"BLM",
+        "Arrival IATA":"EGE",
+        "Flight Distance (miles)":1733
+    },
+    {
+        "Departure IATA":"BLQ",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":241
+    },
+    {
+        "Departure IATA":"BMG",
+        "Arrival IATA":"UGN",
+        "Flight Distance (miles)":236
+    },
+    {
+        "Departure IATA":"BNA",
+        "Arrival IATA":"TPL",
+        "Flight Distance (miles)":707
+    },
+    {
+        "Departure IATA":"BOD",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":480
+    },
+    {
+        "Departure IATA":"BOM",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":4068
+    },
+    {
+        "Departure IATA":"BOR",
+        "Arrival IATA":"VTE",
+        "Flight Distance (miles)":5565
+    },
+    {
+        "Departure IATA":"BOS",
+        "Arrival IATA":"PBI",
+        "Flight Distance (miles)":1197
+    },
+    {
+        "Departure IATA":"BOS",
+        "Arrival IATA":"TEB",
+        "Flight Distance (miles)":190
+    },
+    {
+        "Departure IATA":"BOS",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":3745
+    },
+    {
+        "Departure IATA":"BRE",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":386
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"GVA",
+        "Flight Distance (miles)":331
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":300
+    },
+    {
+        "Departure IATA":"BTR",
+        "Arrival IATA":"DAL",
+        "Flight Distance (miles)":372
+    },
+    {
+        "Departure IATA":"BUD",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":501
+    },
+    {
+        "Departure IATA":"BUF",
+        "Arrival IATA":"YCM",
+        "Flight Distance (miles)":28
+    },
+    {
+        "Departure IATA":"BUR",
+        "Arrival IATA":"AUS",
+        "Flight Distance (miles)":1241
+    },
+    {
+        "Departure IATA":"BWI",
+        "Arrival IATA":"YYZ",
+        "Flight Distance (miles)":347
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":1706
+    },
+    {
+        "Departure IATA":"CDG",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":296
+    },
+    {
+        "Departure IATA":"CEU",
+        "Arrival IATA":"APF",
+        "Flight Distance (miles)":591
+    },
+    {
+        "Departure IATA":"CEU",
+        "Arrival IATA":"AUO",
+        "Flight Distance (miles)":204
+    },
+    {
+        "Departure IATA":"CGF",
+        "Arrival IATA":"OMA",
+        "Flight Distance (miles)":748
+    },
+    {
+        "Departure IATA":"CGF",
+        "Arrival IATA":"QQN",
+        "Flight Distance (miles)":472
+    },
+    {
+        "Departure IATA":"CHO",
+        "Arrival IATA":"DAL",
+        "Flight Distance (miles)":1097
+    },
+    {
+        "Departure IATA":"CLJ",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":714
+    },
+    {
+        "Departure IATA":"CLT",
+        "Arrival IATA":"MRF",
+        "Flight Distance (miles)":1380
+    },
+    {
+        "Departure IATA":"CPH",
+        "Arrival IATA":"GVA",
+        "Flight Distance (miles)":708
+    },
+    {
+        "Departure IATA":"CPH",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":590
+    },
+    {
+        "Departure IATA":"CPS",
+        "Arrival IATA":"DSI",
+        "Flight Distance (miles)":601
+    },
+    {
+        "Departure IATA":"CUN",
+        "Arrival IATA":"AUS",
+        "Flight Distance (miles)":922
+    },
+    {
+        "Departure IATA":"DAL",
+        "Arrival IATA":"AGS",
+        "Flight Distance (miles)":863
+    },
+    {
+        "Departure IATA":"DAL",
+        "Arrival IATA":"CLE",
+        "Flight Distance (miles)":1015
+    },
+    {
+        "Departure IATA":"DAL",
+        "Arrival IATA":"FTW",
+        "Flight Distance (miles)":30
+    },
+    {
+        "Departure IATA":"DAL",
+        "Arrival IATA":"GRB",
+        "Flight Distance (miles)":930
+    },
+    {
+        "Departure IATA":"DAL",
+        "Arrival IATA":"LWB",
+        "Flight Distance (miles)":990
+    },
+    {
+        "Departure IATA":"DAL",
+        "Arrival IATA":"MFE",
+        "Flight Distance (miles)":467
+    },
+    {
+        "Departure IATA":"DAL",
+        "Arrival IATA":"PHX",
+        "Flight Distance (miles)":879
+    },
+    {
+        "Departure IATA":"DAL",
+        "Arrival IATA":"SJD",
+        "Flight Distance (miles)":1030
+    },
+    {
+        "Departure IATA":"DEL",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":3827
+    },
+    {
+        "Departure IATA":"DEN",
+        "Arrival IATA":"JAC",
+        "Flight Distance (miles)":406
+    },
+    {
+        "Departure IATA":"DRS",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":346
+    },
+    {
+        "Departure IATA":"DSI",
+        "Arrival IATA":"PDK",
+        "Flight Distance (miles)":271
+    },
+    {
+        "Departure IATA":"DUB",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":771
+    },
+    {
+        "Departure IATA":"DUS",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":276
+    },
+    {
+        "Departure IATA":"DWH",
+        "Arrival IATA":"ISM",
+        "Flight Distance (miles)":861
+    },
+    {
+        "Departure IATA":"DWH",
+        "Arrival IATA":"QTG",
+        "Flight Distance (miles)":134
+    },
+    {
+        "Departure IATA":"DXB",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":2966
+    },
+    {
+        "Departure IATA":"EDC",
+        "Arrival IATA":"LGB",
+        "Flight Distance (miles)":1228
+    },
+    {
+        "Departure IATA":"EGE",
+        "Arrival IATA":"DAL",
+        "Flight Distance (miles)":731
+    },
+    {
+        "Departure IATA":"ESN",
+        "Arrival IATA":"TEB",
+        "Flight Distance (miles)":177
+    },
+    {
+        "Departure IATA":"EWR",
+        "Arrival IATA":"MMU",
+        "Flight Distance (miles)":15
+    },
+    {
+        "Departure IATA":"EWR",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":3945
+    },
+    {
+        "Departure IATA":"EZE",
+        "Arrival IATA":"GRU",
+        "Flight Distance (miles)":1070
+    },
+    {
+        "Departure IATA":"FCA",
+        "Arrival IATA":"JAC",
+        "Flight Distance (miles)":366
+    },
+    {
+        "Departure IATA":"FCO",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":431
+    },
+    {
+        "Departure IATA":"FLL",
+        "Arrival IATA":"BNA",
+        "Flight Distance (miles)":793
+    },
+    {
+        "Departure IATA":"FLL",
+        "Arrival IATA":"VRB",
+        "Flight Distance (miles)":110
+    },
+    {
+        "Departure IATA":"FLR",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":283
+    },
+    {
+        "Departure IATA":"FOK",
+        "Arrival IATA":"MDW",
+        "Flight Distance (miles)":788
+    },
+    {
+        "Departure IATA":"FRA",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":178
+    },
+    {
+        "Departure IATA":"FRG",
+        "Arrival IATA":"NAS",
+        "Flight Distance (miles)":1106
+    },
+    {
+        "Departure IATA":"FRG",
+        "Arrival IATA":"PBI",
+        "Flight Distance (miles)":1041
+    },
+    {
+        "Departure IATA":"FTW",
+        "Arrival IATA":"MDD",
+        "Flight Distance (miles)":282
+    },
+    {
+        "Departure IATA":"FTY",
+        "Arrival IATA":"QQR",
+        "Flight Distance (miles)":17
+    },
+    {
+        "Departure IATA":"GOT",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":722
+    },
+    {
+        "Departure IATA":"GRB",
+        "Arrival IATA":"PIT",
+        "Flight Distance (miles)":488
+    },
+    {
+        "Departure IATA":"GRU",
+        "Arrival IATA":"EZE",
+        "Flight Distance (miles)":1070
+    },
+    {
+        "Departure IATA":"GRU",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":5957
+    },
+    {
+        "Departure IATA":"GRZ",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":326
+    },
+    {
+        "Departure IATA":"GVA",
+        "Arrival IATA":"AGP",
+        "Flight Distance (miles)":858
+    },
+    {
+        "Departure IATA":"GVA",
+        "Arrival IATA":"ARN",
+        "Flight Distance (miles)":1047
+    },
+    {
+        "Departure IATA":"GVA",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":1077
+    },
+    {
+        "Departure IATA":"GVA",
+        "Arrival IATA":"BER",
+        "Flight Distance (miles)":539
+    },
+    {
+        "Departure IATA":"GVA",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":331
+    },
+    {
+        "Departure IATA":"GVA",
+        "Arrival IATA":"CPH",
+        "Flight Distance (miles)":708
+    },
+    {
+        "Departure IATA":"GVA",
+        "Arrival IATA":"HAM",
+        "Flight Distance (miles)":539
+    },
+    {
+        "Departure IATA":"GVA",
+        "Arrival IATA":"HRG",
+        "Flight Distance (miles)":2004
+    },
+    {
+        "Departure IATA":"GVA",
+        "Arrival IATA":"JFK",
+        "Flight Distance (miles)":3863
+    },
+    {
+        "Departure IATA":"GVA",
+        "Arrival IATA":"LHR",
+        "Flight Distance (miles)":469
+    },
+    {
+        "Departure IATA":"GVA",
+        "Arrival IATA":"LIS",
+        "Flight Distance (miles)":931
+    },
+    {
+        "Departure IATA":"GVA",
+        "Arrival IATA":"NCE",
+        "Flight Distance (miles)":186
+    },
+    {
+        "Departure IATA":"GVA",
+        "Arrival IATA":"OPO",
+        "Flight Distance (miles)":815
+    },
+    {
+        "Departure IATA":"GVA",
+        "Arrival IATA":"OSL",
+        "Flight Distance (miles)":986
+    },
+    {
+        "Departure IATA":"GVA",
+        "Arrival IATA":"PRN",
+        "Flight Distance (miles)":780
+    },
+    {
+        "Departure IATA":"GVA",
+        "Arrival IATA":"RAK",
+        "Flight Distance (miles)":1261
+    },
+    {
+        "Departure IATA":"GVA",
+        "Arrival IATA":"VLC",
+        "Flight Distance (miles)":573
+    },
+    {
+        "Departure IATA":"GVA",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":143
+    },
+    {
+        "Departure IATA":"HAJ",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":349
+    },
+    {
+        "Departure IATA":"HAM",
+        "Arrival IATA":"GVA",
+        "Flight Distance (miles)":539
+    },
+    {
+        "Departure IATA":"HAM",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":431
+    },
+    {
+        "Departure IATA":"HHH",
+        "Arrival IATA":"RDU",
+        "Flight Distance (miles)":275
+    },
+    {
+        "Departure IATA":"HKG",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":5776
+    },
+    {
+        "Departure IATA":"HOU",
+        "Arrival IATA":"AUS",
+        "Flight Distance (miles)":148
+    },
+    {
+        "Departure IATA":"HOU",
+        "Arrival IATA":"QTZ",
+        "Flight Distance (miles)":1711
+    },
+    {
+        "Departure IATA":"HOU",
+        "Arrival IATA":"TLN",
+        "Flight Distance (miles)":5383
+    },
+    {
+        "Departure IATA":"HPN",
+        "Arrival IATA":"ASE",
+        "Flight Distance (miles)":1750
+    },
+    {
+        "Departure IATA":"HPN",
+        "Arrival IATA":"BWI",
+        "Flight Distance (miles)":204
+    },
+    {
+        "Departure IATA":"HPN",
+        "Arrival IATA":"FRG",
+        "Flight Distance (miles)":28
+    },
+    {
+        "Departure IATA":"HPN",
+        "Arrival IATA":"SJU",
+        "Flight Distance (miles)":1624
+    },
+    {
+        "Departure IATA":"HPN",
+        "Arrival IATA":"VRB",
+        "Flight Distance (miles)":1000
+    },
+    {
+        "Departure IATA":"HRG",
+        "Arrival IATA":"GVA",
+        "Flight Distance (miles)":2004
+    },
+    {
+        "Departure IATA":"HTV",
+        "Arrival IATA":"QSH",
+        "Flight Distance (miles)":308
+    },
+    {
+        "Departure IATA":"IAD",
+        "Arrival IATA":"EEN",
+        "Flight Distance (miles)":385
+    },
+    {
+        "Departure IATA":"IAD",
+        "Arrival IATA":"ESN",
+        "Flight Distance (miles)":76
+    },
+    {
+        "Departure IATA":"IAD",
+        "Arrival IATA":"PBI",
+        "Flight Distance (miles)":859
+    },
+    {
+        "Departure IATA":"IAD",
+        "Arrival IATA":"QQR",
+        "Flight Distance (miles)":523
+    },
+    {
+        "Departure IATA":"IAD",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":4157
+    },
+    {
+        "Departure IATA":"ISM",
+        "Arrival IATA":"TPA",
+        "Flight Distance (miles)":70
+    },
+    {
+        "Departure IATA":"JAC",
+        "Arrival IATA":"APA",
+        "Flight Distance (miles)":413
+    },
+    {
+        "Departure IATA":"JAC",
+        "Arrival IATA":"APF",
+        "Flight Distance (miles)":2021
+    },
+    {
+        "Departure IATA":"JAC",
+        "Arrival IATA":"TUL",
+        "Flight Distance (miles)":938
+    },
+    {
+        "Departure IATA":"JAX",
+        "Arrival IATA":"SUN",
+        "Flight Distance (miles)":1996
+    },
+    {
+        "Departure IATA":"JCI",
+        "Arrival IATA":"MKC",
+        "Flight Distance (miles)":26
+    },
+    {
+        "Departure IATA":"JFK",
+        "Arrival IATA":"GVA",
+        "Flight Distance (miles)":3863
+    },
+    {
+        "Departure IATA":"JFK",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":3931
+    },
+    {
+        "Departure IATA":"JNB",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":5212
+    },
+    {
+        "Departure IATA":"KRK",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":543
+    },
+    {
+        "Departure IATA":"KSC",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":593
+    },
+    {
+        "Departure IATA":"LAX",
+        "Arrival IATA":"OAK",
+        "Flight Distance (miles)":337
+    },
+    {
+        "Departure IATA":"LAX",
+        "Arrival IATA":"PVD",
+        "Flight Distance (miles)":2592
+    },
+    {
+        "Departure IATA":"LAX",
+        "Arrival IATA":"PVR",
+        "Flight Distance (miles)":1218
+    },
+    {
+        "Departure IATA":"LAX",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":5938
+    },
+    {
+        "Departure IATA":"LCY",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":473
+    },
+    {
+        "Departure IATA":"LGA",
+        "Arrival IATA":"HPN",
+        "Flight Distance (miles)":22
+    },
+    {
+        "Departure IATA":"LGB",
+        "Arrival IATA":"MRY",
+        "Flight Distance (miles)":283
+    },
+    {
+        "Departure IATA":"LGW",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":469
+    },
+    {
+        "Departure IATA":"LHR",
+        "Arrival IATA":"GVA",
+        "Flight Distance (miles)":469
+    },
+    {
+        "Departure IATA":"LHR",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":491
+    },
+    {
+        "Departure IATA":"LIS",
+        "Arrival IATA":"GVA",
+        "Flight Distance (miles)":931
+    },
+    {
+        "Departure IATA":"LIS",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":1073
+    },
+    {
+        "Departure IATA":"LJU",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":293
+    },
+    {
+        "Departure IATA":"LRD",
+        "Arrival IATA":"TRM",
+        "Flight Distance (miles)":1078
+    },
+    {
+        "Departure IATA":"LTN",
+        "Arrival IATA":"HPN",
+        "Flight Distance (miles)":3425
+    },
+    {
+        "Departure IATA":"LUK",
+        "Arrival IATA":"STL",
+        "Flight Distance (miles)":322
+    },
+    {
+        "Departure IATA":"LUX",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":184
+    },
+    {
+        "Departure IATA":"LWB",
+        "Arrival IATA":"TEB",
+        "Flight Distance (miles)":397
+    },
+    {
+        "Departure IATA":"MAD",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":771
+    },
+    {
+        "Departure IATA":"MAN",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":627
+    },
+    {
+        "Departure IATA":"MDD",
+        "Arrival IATA":"PWM",
+        "Flight Distance (miles)":1899
+    },
+    {
+        "Departure IATA":"MDW",
+        "Arrival IATA":"APF",
+        "Flight Distance (miles)":1130
+    },
+    {
+        "Departure IATA":"MDW",
+        "Arrival IATA":"CSL",
+        "Flight Distance (miles)":1824
+    },
+    {
+        "Departure IATA":"MDW",
+        "Arrival IATA":"GRB",
+        "Flight Distance (miles)":187
+    },
+    {
+        "Departure IATA":"MDW",
+        "Arrival IATA":"LUK",
+        "Flight Distance (miles)":255
+    },
+    {
+        "Departure IATA":"MDW",
+        "Arrival IATA":"MIA",
+        "Flight Distance (miles)":1182
+    },
+    {
+        "Departure IATA":"MDW",
+        "Arrival IATA":"OMA",
+        "Flight Distance (miles)":423
+    },
+    {
+        "Departure IATA":"MIA",
+        "Arrival IATA":"AGS",
+        "Flight Distance (miles)":531
+    },
+    {
+        "Departure IATA":"MIA",
+        "Arrival IATA":"APF",
+        "Flight Distance (miles)":96
+    },
+    {
+        "Departure IATA":"MIA",
+        "Arrival IATA":"AUO",
+        "Flight Distance (miles)":563
+    },
+    {
+        "Departure IATA":"MIA",
+        "Arrival IATA":"BGI",
+        "Flight Distance (miles)":1611
+    },
+    {
+        "Departure IATA":"MIA",
+        "Arrival IATA":"BOS",
+        "Flight Distance (miles)":1258
+    },
+    {
+        "Departure IATA":"MIA",
+        "Arrival IATA":"HPN",
+        "Flight Distance (miles)":1118
+    },
+    {
+        "Departure IATA":"MIA",
+        "Arrival IATA":"PHL",
+        "Flight Distance (miles)":1013
+    },
+    {
+        "Departure IATA":"MIA",
+        "Arrival IATA":"SJU",
+        "Flight Distance (miles)":1045
+    },
+    {
+        "Departure IATA":"MIA",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":4884
+    },
+    {
+        "Departure IATA":"MIE",
+        "Arrival IATA":"ADS",
+        "Flight Distance (miles)":809
+    },
+    {
+        "Departure IATA":"MKC",
+        "Arrival IATA":"PTK",
+        "Flight Distance (miles)":633
+    },
+    {
+        "Departure IATA":"MKE",
+        "Arrival IATA":"APF",
+        "Flight Distance (miles)":1208
+    },
+    {
+        "Departure IATA":"MMU",
+        "Arrival IATA":"PHL",
+        "Flight Distance (miles)":77
+    },
+    {
+        "Departure IATA":"MRS",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":322
+    },
+    {
+        "Departure IATA":"MRY",
+        "Arrival IATA":"SFO",
+        "Flight Distance (miles)":77
+    },
+    {
+        "Departure IATA":"MRY",
+        "Arrival IATA":"TEB",
+        "Flight Distance (miles)":2567
+    },
+    {
+        "Departure IATA":"MSP",
+        "Arrival IATA":"DAL",
+        "Flight Distance (miles)":853
+    },
+    {
+        "Departure IATA":"MUC",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":162
+    },
+    {
+        "Departure IATA":"MXP",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":127
+    },
+    {
+        "Departure IATA":"NAP",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":536
+    },
+    {
+        "Departure IATA":"NCE",
+        "Arrival IATA":"GVA",
+        "Flight Distance (miles)":186
+    },
+    {
+        "Departure IATA":"NCE",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":270
+    },
+    {
+        "Departure IATA":"NMC",
+        "Arrival IATA":"HPN",
+        "Flight Distance (miles)":1149
+    },
+    {
+        "Departure IATA":"NRT",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":5976
+    },
+    {
+        "Departure IATA":"OAK",
+        "Arrival IATA":"OUN",
+        "Flight Distance (miles)":1385
+    },
+    {
+        "Departure IATA":"OLV",
+        "Arrival IATA":"BNA",
+        "Flight Distance (miles)":192
+    },
+    {
+        "Departure IATA":"OLV",
+        "Arrival IATA":"ISM",
+        "Flight Distance (miles)":674
+    },
+    {
+        "Departure IATA":"OMA",
+        "Arrival IATA":"HDN",
+        "Flight Distance (miles)":595
+    },
+    {
+        "Departure IATA":"OPO",
+        "Arrival IATA":"GVA",
+        "Flight Distance (miles)":815
+    },
+    {
+        "Departure IATA":"OPO",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":953
+    },
+    {
+        "Departure IATA":"ORD",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":4443
+    },
+    {
+        "Departure IATA":"ORF",
+        "Arrival IATA":"ROC",
+        "Flight Distance (miles)":437
+    },
+    {
+        "Departure IATA":"OSL",
+        "Arrival IATA":"GVA",
+        "Flight Distance (miles)":986
+    },
+    {
+        "Departure IATA":"OSL",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":886
+    },
+    {
+        "Departure IATA":"OSU",
+        "Arrival IATA":"MHE",
+        "Flight Distance (miles)":811
+    },
+    {
+        "Departure IATA":"OSU",
+        "Arrival IATA":"PBI",
+        "Flight Distance (miles)":939
+    },
+    {
+        "Departure IATA":"OTP",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":866
+    },
+    {
+        "Departure IATA":"OUN",
+        "Arrival IATA":"DAL",
+        "Flight Distance (miles)":169
+    },
+    {
+        "Departure IATA":"OUN",
+        "Arrival IATA":"DWH",
+        "Flight Distance (miles)":374
+    },
+    {
+        "Departure IATA":"OUN",
+        "Arrival IATA":"HPN",
+        "Flight Distance (miles)":1350
+    },
+    {
+        "Departure IATA":"PBI",
+        "Arrival IATA":"APF",
+        "Flight Distance (miles)":110
+    },
+    {
+        "Departure IATA":"PBI",
+        "Arrival IATA":"LUK",
+        "Flight Distance (miles)":892
+    },
+    {
+        "Departure IATA":"PBI",
+        "Arrival IATA":"NMC",
+        "Flight Distance (miles)":250
+    },
+    {
+        "Departure IATA":"PBI",
+        "Arrival IATA":"OXC",
+        "Flight Distance (miles)":1094
+    },
+    {
+        "Departure IATA":"PBI",
+        "Arrival IATA":"VRB",
+        "Flight Distance (miles)":70
+    },
+    {
+        "Departure IATA":"PDX",
+        "Arrival IATA":"APC",
+        "Flight Distance (miles)":509
+    },
+    {
+        "Departure IATA":"PHX",
+        "Arrival IATA":"SAN",
+        "Flight Distance (miles)":304
+    },
+    {
+        "Departure IATA":"PIT",
+        "Arrival IATA":"MKE",
+        "Flight Distance (miles)":431
+    },
+    {
+        "Departure IATA":"PMI",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":619
+    },
+    {
+        "Departure IATA":"PMO",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":681
+    },
+    {
+        "Departure IATA":"PRC",
+        "Arrival IATA":"VNY",
+        "Flight Distance (miles)":348
+    },
+    {
+        "Departure IATA":"PRG",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":318
+    },
+    {
+        "Departure IATA":"PRN",
+        "Arrival IATA":"GVA",
+        "Flight Distance (miles)":780
+    },
+    {
+        "Departure IATA":"PTK",
+        "Arrival IATA":"ARV",
+        "Flight Distance (miles)":385
+    },
+    {
+        "Departure IATA":"PVG",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":5624
+    },
+    {
+        "Departure IATA":"PWA",
+        "Arrival IATA":"BED",
+        "Flight Distance (miles)":1490
+    },
+    {
+        "Departure IATA":"PWK",
+        "Arrival IATA":"MKE",
+        "Flight Distance (miles)":58
+    },
+    {
+        "Departure IATA":"PWK",
+        "Arrival IATA":"ORL",
+        "Flight Distance (miles)":1006
+    },
+    {
+        "Departure IATA":"QQT",
+        "Arrival IATA":"AUS",
+        "Flight Distance (miles)":215
+    },
+    {
+        "Departure IATA":"QTG",
+        "Arrival IATA":"EGE",
+        "Flight Distance (miles)":809
+    },
+    {
+        "Departure IATA":"RAK",
+        "Arrival IATA":"GVA",
+        "Flight Distance (miles)":1261
+    },
+    {
+        "Departure IATA":"RDU",
+        "Arrival IATA":"CLT",
+        "Flight Distance (miles)":130
+    },
+    {
+        "Departure IATA":"RDU",
+        "Arrival IATA":"IAD",
+        "Flight Distance (miles)":224
+    },
+    {
+        "Departure IATA":"ROC",
+        "Arrival IATA":"BVY",
+        "Flight Distance (miles)":345
+    },
+    {
+        "Departure IATA":"SAN",
+        "Arrival IATA":"VNY",
+        "Flight Distance (miles)":126
+    },
+    {
+        "Departure IATA":"SAV",
+        "Arrival IATA":"TYS",
+        "Flight Distance (miles)":300
+    },
+    {
+        "Departure IATA":"SBN",
+        "Arrival IATA":"TEB",
+        "Flight Distance (miles)":640
+    },
+    {
+        "Departure IATA":"SCF",
+        "Arrival IATA":"NAS",
+        "Flight Distance (miles)":2150
+    },
+    {
+        "Departure IATA":"SCF",
+        "Arrival IATA":"PAE",
+        "Flight Distance (miles)":1124
+    },
+    {
+        "Departure IATA":"SCF",
+        "Arrival IATA":"VGT",
+        "Flight Distance (miles)":258
+    },
+    {
+        "Departure IATA":"SFB",
+        "Arrival IATA":"GNV",
+        "Flight Distance (miles)":89
+    },
+    {
+        "Departure IATA":"SFB",
+        "Arrival IATA":"RMG",
+        "Flight Distance (miles)":448
+    },
+    {
+        "Departure IATA":"SFO",
+        "Arrival IATA":"BUR",
+        "Flight Distance (miles)":326
+    },
+    {
+        "Departure IATA":"SFO",
+        "Arrival IATA":"GRB",
+        "Flight Distance (miles)":1836
+    },
+    {
+        "Departure IATA":"SFO",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":5840
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":6406
+    },
+    {
+        "Departure IATA":"SJC",
+        "Arrival IATA":"SJD",
+        "Flight Distance (miles)":1219
+    },
+    {
+        "Departure IATA":"SJC",
+        "Arrival IATA":"VGT",
+        "Flight Distance (miles)":382
+    },
+    {
+        "Departure IATA":"SJJ",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":536
+    },
+    {
+        "Departure IATA":"SJU",
+        "Arrival IATA":"FLL",
+        "Flight Distance (miles)":1046
+    },
+    {
+        "Departure IATA":"SKB",
+        "Arrival IATA":"JAX",
+        "Flight Distance (miles)":1500
+    },
+    {
+        "Departure IATA":"SKG",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":862
+    },
+    {
+        "Departure IATA":"SMO",
+        "Arrival IATA":"VGT",
+        "Flight Distance (miles)":239
+    },
+    {
+        "Departure IATA":"SNA",
+        "Arrival IATA":"VNY",
+        "Flight Distance (miles)":51
+    },
+    {
+        "Departure IATA":"SOF",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":796
+    },
+    {
+        "Departure IATA":"SRQ",
+        "Arrival IATA":"YXU",
+        "Flight Distance (miles)":1081
+    },
+    {
+        "Departure IATA":"STR",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":90
+    },
+    {
+        "Departure IATA":"SUA",
+        "Arrival IATA":"BOS",
+        "Flight Distance (miles)":1169
+    },
+    {
+        "Departure IATA":"SUA",
+        "Arrival IATA":"DWH",
+        "Flight Distance (miles)":951
+    },
+    {
+        "Departure IATA":"SUA",
+        "Arrival IATA":"HOU",
+        "Flight Distance (miles)":932
+    },
+    {
+        "Departure IATA":"SUS",
+        "Arrival IATA":"BWI",
+        "Flight Distance (miles)":754
+    },
+    {
+        "Departure IATA":"SUS",
+        "Arrival IATA":"OUN",
+        "Flight Distance (miles)":445
+    },
+    {
+        "Departure IATA":"TEB",
+        "Arrival IATA":"AUS",
+        "Flight Distance (miles)":1513
+    },
+    {
+        "Departure IATA":"TEB",
+        "Arrival IATA":"BED",
+        "Flight Distance (miles)":182
+    },
+    {
+        "Departure IATA":"TEB",
+        "Arrival IATA":"CGF",
+        "Flight Distance (miles)":390
+    },
+    {
+        "Departure IATA":"TEB",
+        "Arrival IATA":"IAD",
+        "Flight Distance (miles)":223
+    },
+    {
+        "Departure IATA":"TEB",
+        "Arrival IATA":"MDW",
+        "Flight Distance (miles)":714
+    },
+    {
+        "Departure IATA":"TEB",
+        "Arrival IATA":"MIA",
+        "Flight Distance (miles)":1098
+    },
+    {
+        "Departure IATA":"TEB",
+        "Arrival IATA":"NAS",
+        "Flight Distance (miles)":1107
+    },
+    {
+        "Departure IATA":"TEB",
+        "Arrival IATA":"PBI",
+        "Flight Distance (miles)":1036
+    },
+    {
+        "Departure IATA":"TEB",
+        "Arrival IATA":"SCF",
+        "Flight Distance (miles)":2128
+    },
+    {
+        "Departure IATA":"TEB",
+        "Arrival IATA":"STL",
+        "Flight Distance (miles)":879
+    },
+    {
+        "Departure IATA":"TEB",
+        "Arrival IATA":"VNY",
+        "Flight Distance (miles)":2456
+    },
+    {
+        "Departure IATA":"TEB",
+        "Arrival IATA":"YYZ",
+        "Flight Distance (miles)":346
+    },
+    {
+        "Departure IATA":"TIA",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":692
+    },
+    {
+        "Departure IATA":"TLL",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":1059
+    },
+    {
+        "Departure IATA":"TTN",
+        "Arrival IATA":"NAS",
+        "Flight Distance (miles)":1061
+    },
+    {
+        "Departure IATA":"TWF",
+        "Arrival IATA":"SJC",
+        "Flight Distance (miles)":530
+    },
+    {
+        "Departure IATA":"TYS",
+        "Arrival IATA":"BCT",
+        "Flight Distance (miles)":689
+    },
+    {
+        "Departure IATA":"UDD",
+        "Arrival IATA":"LAX",
+        "Flight Distance (miles)":123
+    },
+    {
+        "Departure IATA":"UST",
+        "Arrival IATA":"JZI",
+        "Flight Distance (miles)":205
+    },
+    {
+        "Departure IATA":"VCE",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":226
+    },
+    {
+        "Departure IATA":"VGT",
+        "Arrival IATA":"AUS",
+        "Flight Distance (miles)":1094
+    },
+    {
+        "Departure IATA":"VGT",
+        "Arrival IATA":"ORL",
+        "Flight Distance (miles)":2038
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":376
+    },
+    {
+        "Departure IATA":"VLC",
+        "Arrival IATA":"GVA",
+        "Flight Distance (miles)":573
+    },
+    {
+        "Departure IATA":"VLC",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":713
+    },
+    {
+        "Departure IATA":"VNO",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":878
+    },
+    {
+        "Departure IATA":"VNY",
+        "Arrival IATA":"APC",
+        "Flight Distance (miles)":348
+    },
+    {
+        "Departure IATA":"VNY",
+        "Arrival IATA":"MTJ",
+        "Flight Distance (miles)":661
+    },
+    {
+        "Departure IATA":"VNY",
+        "Arrival IATA":"NAS",
+        "Flight Distance (miles)":2530
+    },
+    {
+        "Departure IATA":"VNY",
+        "Arrival IATA":"RNO",
+        "Flight Distance (miles)":372
+    },
+    {
+        "Departure IATA":"VNY",
+        "Arrival IATA":"SJD",
+        "Flight Distance (miles)":928
+    },
+    {
+        "Departure IATA":"VNY",
+        "Arrival IATA":"STS",
+        "Flight Distance (miles)":382
+    },
+    {
+        "Departure IATA":"VNY",
+        "Arrival IATA":"TKF",
+        "Flight Distance (miles)":364
+    },
+    {
+        "Departure IATA":"VRB",
+        "Arrival IATA":"ESN",
+        "Flight Distance (miles)":808
+    },
+    {
+        "Departure IATA":"VTE",
+        "Arrival IATA":"BOR",
+        "Flight Distance (miles)":5565
+    },
+    {
+        "Departure IATA":"WAW",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":642
+    },
+    {
+        "Departure IATA":"WRO",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":453
+    },
+    {
+        "Departure IATA":"YIP",
+        "Arrival IATA":"HPN",
+        "Flight Distance (miles)":514
+    },
+    {
+        "Departure IATA":"YIP",
+        "Arrival IATA":"MDW",
+        "Flight Distance (miles)":220
+    },
+    {
+        "Departure IATA":"YUL",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":3736
+    },
+    {
+        "Departure IATA":"YUM",
+        "Arrival IATA":"PRC",
+        "Flight Distance (miles)":187
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"AGP",
+        "Flight Distance (miles)":999
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"ALC",
+        "Flight Distance (miles)":783
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"AMS",
+        "Flight Distance (miles)":375
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"ARN",
+        "Flight Distance (miles)":925
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":1020
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"BCN",
+        "Flight Distance (miles)":533
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"BDS",
+        "Flight Distance (miles)":662
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"BEG",
+        "Flight Distance (miles)":593
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"BER",
+        "Flight Distance (miles)":404
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"BHX",
+        "Flight Distance (miles)":573
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":5632
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"BLQ",
+        "Flight Distance (miles)":241
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"BOD",
+        "Flight Distance (miles)":480
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"BOM",
+        "Flight Distance (miles)":4068
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"BOS",
+        "Flight Distance (miles)":3745
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"BRE",
+        "Flight Distance (miles)":386
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":300
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"BUD",
+        "Flight Distance (miles)":501
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1706
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"CDG",
+        "Flight Distance (miles)":296
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"CLJ",
+        "Flight Distance (miles)":714
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"CPH",
+        "Flight Distance (miles)":590
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"DEL",
+        "Flight Distance (miles)":3827
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"DRS",
+        "Flight Distance (miles)":346
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"DUB",
+        "Flight Distance (miles)":771
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"DUS",
+        "Flight Distance (miles)":276
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"DXB",
+        "Flight Distance (miles)":2966
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"EWR",
+        "Flight Distance (miles)":3945
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"FCO",
+        "Flight Distance (miles)":431
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"FLR",
+        "Flight Distance (miles)":283
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"FRA",
+        "Flight Distance (miles)":178
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"GOT",
+        "Flight Distance (miles)":722
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"GRU",
+        "Flight Distance (miles)":5957
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"GRZ",
+        "Flight Distance (miles)":326
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"GVA",
+        "Flight Distance (miles)":143
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"HAJ",
+        "Flight Distance (miles)":349
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"HAM",
+        "Flight Distance (miles)":431
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"HKG",
+        "Flight Distance (miles)":5776
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"IAD",
+        "Flight Distance (miles)":4157
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"JFK",
+        "Flight Distance (miles)":3931
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"JNB",
+        "Flight Distance (miles)":5212
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"KRK",
+        "Flight Distance (miles)":543
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"KSC",
+        "Flight Distance (miles)":593
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"LAX",
+        "Flight Distance (miles)":5938
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"LCY",
+        "Flight Distance (miles)":473
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"LGW",
+        "Flight Distance (miles)":469
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"LHR",
+        "Flight Distance (miles)":491
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"LIS",
+        "Flight Distance (miles)":1073
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"LJU",
+        "Flight Distance (miles)":293
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"LUX",
+        "Flight Distance (miles)":184
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"MAD",
+        "Flight Distance (miles)":771
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"MAN",
+        "Flight Distance (miles)":627
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"MIA",
+        "Flight Distance (miles)":4884
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"MRS",
+        "Flight Distance (miles)":322
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"MUC",
+        "Flight Distance (miles)":162
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"MXP",
+        "Flight Distance (miles)":127
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"NAP",
+        "Flight Distance (miles)":536
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"NCE",
+        "Flight Distance (miles)":270
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"NRT",
+        "Flight Distance (miles)":5976
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"OPO",
+        "Flight Distance (miles)":953
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"ORD",
+        "Flight Distance (miles)":4443
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"OSL",
+        "Flight Distance (miles)":886
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"OTP",
+        "Flight Distance (miles)":866
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"PMI",
+        "Flight Distance (miles)":619
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"PMO",
+        "Flight Distance (miles)":681
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"PRG",
+        "Flight Distance (miles)":318
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"PVG",
+        "Flight Distance (miles)":5624
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"SFO",
+        "Flight Distance (miles)":5840
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":6406
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"SJJ",
+        "Flight Distance (miles)":536
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"SKG",
+        "Flight Distance (miles)":862
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"SOF",
+        "Flight Distance (miles)":796
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"STR",
+        "Flight Distance (miles)":90
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"TIA",
+        "Flight Distance (miles)":692
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"TLL",
+        "Flight Distance (miles)":1059
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"VCE",
+        "Flight Distance (miles)":226
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":376
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"VLC",
+        "Flight Distance (miles)":713
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"VNO",
+        "Flight Distance (miles)":878
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"WAW",
+        "Flight Distance (miles)":642
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"WRO",
+        "Flight Distance (miles)":453
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"YUL",
+        "Flight Distance (miles)":3736
+    }
+]

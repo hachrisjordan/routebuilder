@@ -1,0 +1,972 @@
+[
+    {
+        "Departure IATA":"ADB",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":177
+    },
+    {
+        "Departure IATA":"AMM",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":807
+    },
+    {
+        "Departure IATA":"AMS",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":1357
+    },
+    {
+        "Departure IATA":"AMS",
+        "Arrival IATA":"SKG",
+        "Flight Distance (miles)":1185
+    },
+    {
+        "Departure IATA":"ARN",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":1524
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"ADB",
+        "Flight Distance (miles)":177
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"AMM",
+        "Flight Distance (miles)":807
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"AMS",
+        "Flight Distance (miles)":1357
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"ARN",
+        "Flight Distance (miles)":1524
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"AUH",
+        "Flight Distance (miles)":2029
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"AXD",
+        "Flight Distance (miles)":228
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"BCN",
+        "Flight Distance (miles)":1186
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"BEG",
+        "Flight Distance (miles)":511
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"BER",
+        "Flight Distance (miles)":1117
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"BLQ",
+        "Flight Distance (miles)":800
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":1307
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"BUD",
+        "Flight Distance (miles)":698
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":688
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"CDG",
+        "Flight Distance (miles)":1312
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"CHQ",
+        "Flight Distance (miles)":166
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"CPH",
+        "Flight Distance (miles)":1330
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"DUB",
+        "Flight Distance (miles)":1790
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"DUS",
+        "Flight Distance (miles)":1246
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"DXB",
+        "Flight Distance (miles)":2035
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"EDI",
+        "Flight Distance (miles)":1772
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"EFL",
+        "Flight Distance (miles)":188
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"EVN",
+        "Flight Distance (miles)":1108
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"FCO",
+        "Flight Distance (miles)":676
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"FLR",
+        "Flight Distance (miles)":779
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"FRA",
+        "Flight Distance (miles)":1130
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"GVA",
+        "Flight Distance (miles)":1077
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"HAM",
+        "Flight Distance (miles)":1271
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"HEL",
+        "Flight Distance (miles)":1548
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"HER",
+        "Flight Distance (miles)":192
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"IOA",
+        "Flight Distance (miles)":208
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"IST",
+        "Flight Distance (miles)":343
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"JED",
+        "Flight Distance (miles)":1441
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"JKH",
+        "Flight Distance (miles)":123
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"JMK",
+        "Flight Distance (miles)":84
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"JTR",
+        "Flight Distance (miles)":136
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"KGS",
+        "Flight Distance (miles)":190
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"KRK",
+        "Flight Distance (miles)":863
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"KVA",
+        "Flight Distance (miles)":209
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"LCA",
+        "Flight Distance (miles)":579
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"LGW",
+        "Flight Distance (miles)":1489
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"LHR",
+        "Flight Distance (miles)":1510
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"LIS",
+        "Flight Distance (miles)":1788
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"LUX",
+        "Flight Distance (miles)":1194
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"LXS",
+        "Flight Distance (miles)":153
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"MAD",
+        "Flight Distance (miles)":1481
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"MAN",
+        "Flight Distance (miles)":1641
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"MJT",
+        "Flight Distance (miles)":163
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"MLA",
+        "Flight Distance (miles)":543
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"MUC",
+        "Flight Distance (miles)":944
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"MXP",
+        "Flight Distance (miles)":946
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"NAP",
+        "Flight Distance (miles)":555
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"NCE",
+        "Flight Distance (miles)":960
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"OSL",
+        "Flight Distance (miles)":1638
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"OTP",
+        "Flight Distance (miles)":471
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"PRG",
+        "Flight Distance (miles)":967
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"RAK",
+        "Flight Distance (miles)":1861
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"RHO",
+        "Flight Distance (miles)":252
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"RMO",
+        "Flight Distance (miles)":671
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"RUH",
+        "Flight Distance (miles)":1607
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"SKG",
+        "Flight Distance (miles)":186
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"SKP",
+        "Flight Distance (miles)":304
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"SMI",
+        "Flight Distance (miles)":163
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"SOF",
+        "Flight Distance (miles)":330
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"STR",
+        "Flight Distance (miles)":1046
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"SXB",
+        "Flight Distance (miles)":1098
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"TBS",
+        "Flight Distance (miles)":1144
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"TIA",
+        "Flight Distance (miles)":329
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"TUN",
+        "Flight Distance (miles)":758
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"VCE",
+        "Flight Distance (miles)":794
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":795
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"WAW",
+        "Flight Distance (miles)":993
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"ZAG",
+        "Flight Distance (miles)":674
+    },
+    {
+        "Departure IATA":"ATH",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":1020
+    },
+    {
+        "Departure IATA":"AUH",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":2029
+    },
+    {
+        "Departure IATA":"AXD",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":228
+    },
+    {
+        "Departure IATA":"BCN",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":1186
+    },
+    {
+        "Departure IATA":"BCN",
+        "Arrival IATA":"SKG",
+        "Flight Distance (miles)":1092
+    },
+    {
+        "Departure IATA":"BEG",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":511
+    },
+    {
+        "Departure IATA":"BER",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":1117
+    },
+    {
+        "Departure IATA":"BER",
+        "Arrival IATA":"SKG",
+        "Flight Distance (miles)":933
+    },
+    {
+        "Departure IATA":"BLQ",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":800
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":1307
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"SKG",
+        "Flight Distance (miles)":1141
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"SXB",
+        "Flight Distance (miles)":216
+    },
+    {
+        "Departure IATA":"BUD",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":698
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":688
+    },
+    {
+        "Departure IATA":"CDG",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":1312
+    },
+    {
+        "Departure IATA":"CHQ",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":166
+    },
+    {
+        "Departure IATA":"CHQ",
+        "Arrival IATA":"SKG",
+        "Flight Distance (miles)":350
+    },
+    {
+        "Departure IATA":"CPH",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":1330
+    },
+    {
+        "Departure IATA":"DUB",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":1790
+    },
+    {
+        "Departure IATA":"DUS",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":1246
+    },
+    {
+        "Departure IATA":"DUS",
+        "Arrival IATA":"SKG",
+        "Flight Distance (miles)":1074
+    },
+    {
+        "Departure IATA":"DXB",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":2035
+    },
+    {
+        "Departure IATA":"EDI",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":1772
+    },
+    {
+        "Departure IATA":"EFL",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":188
+    },
+    {
+        "Departure IATA":"EVN",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":1108
+    },
+    {
+        "Departure IATA":"FCO",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":676
+    },
+    {
+        "Departure IATA":"FCO",
+        "Arrival IATA":"SKG",
+        "Flight Distance (miles)":566
+    },
+    {
+        "Departure IATA":"FLR",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":779
+    },
+    {
+        "Departure IATA":"FRA",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":1130
+    },
+    {
+        "Departure IATA":"FRA",
+        "Arrival IATA":"HER",
+        "Flight Distance (miles)":1315
+    },
+    {
+        "Departure IATA":"FRA",
+        "Arrival IATA":"SKG",
+        "Flight Distance (miles)":959
+    },
+    {
+        "Departure IATA":"GVA",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":1077
+    },
+    {
+        "Departure IATA":"HAM",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":1271
+    },
+    {
+        "Departure IATA":"HAM",
+        "Arrival IATA":"SKG",
+        "Flight Distance (miles)":1090
+    },
+    {
+        "Departure IATA":"HEL",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":1548
+    },
+    {
+        "Departure IATA":"HER",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":192
+    },
+    {
+        "Departure IATA":"HER",
+        "Arrival IATA":"FRA",
+        "Flight Distance (miles)":1315
+    },
+    {
+        "Departure IATA":"HER",
+        "Arrival IATA":"MUC",
+        "Flight Distance (miles)":1130
+    },
+    {
+        "Departure IATA":"HER",
+        "Arrival IATA":"SKG",
+        "Flight Distance (miles)":377
+    },
+    {
+        "Departure IATA":"IOA",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":208
+    },
+    {
+        "Departure IATA":"IST",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":343
+    },
+    {
+        "Departure IATA":"JED",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":1441
+    },
+    {
+        "Departure IATA":"JKH",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":123
+    },
+    {
+        "Departure IATA":"JMK",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":84
+    },
+    {
+        "Departure IATA":"JTR",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":136
+    },
+    {
+        "Departure IATA":"KGS",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":190
+    },
+    {
+        "Departure IATA":"KGS",
+        "Arrival IATA":"SKG",
+        "Flight Distance (miles)":340
+    },
+    {
+        "Departure IATA":"KLX",
+        "Arrival IATA":"MUC",
+        "Flight Distance (miles)":935
+    },
+    {
+        "Departure IATA":"KLX",
+        "Arrival IATA":"SKG",
+        "Flight Distance (miles)":243
+    },
+    {
+        "Departure IATA":"KRK",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":863
+    },
+    {
+        "Departure IATA":"KVA",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":209
+    },
+    {
+        "Departure IATA":"LCA",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":579
+    },
+    {
+        "Departure IATA":"LCA",
+        "Arrival IATA":"SKG",
+        "Flight Distance (miles)":701
+    },
+    {
+        "Departure IATA":"LGW",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":1489
+    },
+    {
+        "Departure IATA":"LHR",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":1510
+    },
+    {
+        "Departure IATA":"LIS",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":1788
+    },
+    {
+        "Departure IATA":"LUX",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":1194
+    },
+    {
+        "Departure IATA":"LXS",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":153
+    },
+    {
+        "Departure IATA":"MAD",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":1481
+    },
+    {
+        "Departure IATA":"MAN",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":1641
+    },
+    {
+        "Departure IATA":"MJT",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":163
+    },
+    {
+        "Departure IATA":"MJT",
+        "Arrival IATA":"SKG",
+        "Flight Distance (miles)":218
+    },
+    {
+        "Departure IATA":"MLA",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":543
+    },
+    {
+        "Departure IATA":"MUC",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":944
+    },
+    {
+        "Departure IATA":"MUC",
+        "Arrival IATA":"HER",
+        "Flight Distance (miles)":1130
+    },
+    {
+        "Departure IATA":"MUC",
+        "Arrival IATA":"KLX",
+        "Flight Distance (miles)":935
+    },
+    {
+        "Departure IATA":"MUC",
+        "Arrival IATA":"SKG",
+        "Flight Distance (miles)":772
+    },
+    {
+        "Departure IATA":"MXP",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":946
+    },
+    {
+        "Departure IATA":"MXP",
+        "Arrival IATA":"SKG",
+        "Flight Distance (miles)":801
+    },
+    {
+        "Departure IATA":"NAP",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":555
+    },
+    {
+        "Departure IATA":"NCE",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":960
+    },
+    {
+        "Departure IATA":"OSL",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":1638
+    },
+    {
+        "Departure IATA":"OTP",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":471
+    },
+    {
+        "Departure IATA":"PRG",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":967
+    },
+    {
+        "Departure IATA":"RAK",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":1861
+    },
+    {
+        "Departure IATA":"RHO",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":252
+    },
+    {
+        "Departure IATA":"RHO",
+        "Arrival IATA":"SKG",
+        "Flight Distance (miles)":397
+    },
+    {
+        "Departure IATA":"RMO",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":671
+    },
+    {
+        "Departure IATA":"RUH",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":1607
+    },
+    {
+        "Departure IATA":"SJJ",
+        "Arrival IATA":"SKP",
+        "Flight Distance (miles)":211
+    },
+    {
+        "Departure IATA":"SKG",
+        "Arrival IATA":"AMS",
+        "Flight Distance (miles)":1185
+    },
+    {
+        "Departure IATA":"SKG",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":186
+    },
+    {
+        "Departure IATA":"SKG",
+        "Arrival IATA":"BCN",
+        "Flight Distance (miles)":1092
+    },
+    {
+        "Departure IATA":"SKG",
+        "Arrival IATA":"BER",
+        "Flight Distance (miles)":933
+    },
+    {
+        "Departure IATA":"SKG",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":1141
+    },
+    {
+        "Departure IATA":"SKG",
+        "Arrival IATA":"CHQ",
+        "Flight Distance (miles)":350
+    },
+    {
+        "Departure IATA":"SKG",
+        "Arrival IATA":"DUS",
+        "Flight Distance (miles)":1074
+    },
+    {
+        "Departure IATA":"SKG",
+        "Arrival IATA":"FCO",
+        "Flight Distance (miles)":566
+    },
+    {
+        "Departure IATA":"SKG",
+        "Arrival IATA":"FRA",
+        "Flight Distance (miles)":959
+    },
+    {
+        "Departure IATA":"SKG",
+        "Arrival IATA":"HAM",
+        "Flight Distance (miles)":1090
+    },
+    {
+        "Departure IATA":"SKG",
+        "Arrival IATA":"HER",
+        "Flight Distance (miles)":377
+    },
+    {
+        "Departure IATA":"SKG",
+        "Arrival IATA":"KGS",
+        "Flight Distance (miles)":340
+    },
+    {
+        "Departure IATA":"SKG",
+        "Arrival IATA":"KLX",
+        "Flight Distance (miles)":243
+    },
+    {
+        "Departure IATA":"SKG",
+        "Arrival IATA":"LCA",
+        "Flight Distance (miles)":701
+    },
+    {
+        "Departure IATA":"SKG",
+        "Arrival IATA":"MJT",
+        "Flight Distance (miles)":218
+    },
+    {
+        "Departure IATA":"SKG",
+        "Arrival IATA":"MUC",
+        "Flight Distance (miles)":772
+    },
+    {
+        "Departure IATA":"SKG",
+        "Arrival IATA":"MXP",
+        "Flight Distance (miles)":801
+    },
+    {
+        "Departure IATA":"SKG",
+        "Arrival IATA":"RHO",
+        "Flight Distance (miles)":397
+    },
+    {
+        "Departure IATA":"SKG",
+        "Arrival IATA":"STR",
+        "Flight Distance (miles)":880
+    },
+    {
+        "Departure IATA":"SKG",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":862
+    },
+    {
+        "Departure IATA":"SKP",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":304
+    },
+    {
+        "Departure IATA":"SKP",
+        "Arrival IATA":"SJJ",
+        "Flight Distance (miles)":211
+    },
+    {
+        "Departure IATA":"SMI",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":163
+    },
+    {
+        "Departure IATA":"SOF",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":330
+    },
+    {
+        "Departure IATA":"STR",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":1046
+    },
+    {
+        "Departure IATA":"STR",
+        "Arrival IATA":"SKG",
+        "Flight Distance (miles)":880
+    },
+    {
+        "Departure IATA":"SXB",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":1098
+    },
+    {
+        "Departure IATA":"SXB",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":216
+    },
+    {
+        "Departure IATA":"TBS",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":1144
+    },
+    {
+        "Departure IATA":"TIA",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":329
+    },
+    {
+        "Departure IATA":"TUN",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":758
+    },
+    {
+        "Departure IATA":"VCE",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":794
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":795
+    },
+    {
+        "Departure IATA":"WAW",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":993
+    },
+    {
+        "Departure IATA":"ZAG",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":674
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"ATH",
+        "Flight Distance (miles)":1020
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"SKG",
+        "Flight Distance (miles)":862
+    }
+]

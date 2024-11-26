@@ -1,0 +1,412 @@
+[
+    {
+        "Departure IATA":"AMM",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":1473
+    },
+    {
+        "Departure IATA":"BAH",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":514
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":2855
+    },
+    {
+        "Departure IATA":"BLR",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":1459
+    },
+    {
+        "Departure IATA":"BOM",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":989
+    },
+    {
+        "Departure IATA":"CAI",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":1715
+    },
+    {
+        "Departure IATA":"CCJ",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":1445
+    },
+    {
+        "Departure IATA":"CDG",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":3470
+    },
+    {
+        "Departure IATA":"CGK",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":3851
+    },
+    {
+        "Departure IATA":"COK",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":1511
+    },
+    {
+        "Departure IATA":"DAC",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":2030
+    },
+    {
+        "Departure IATA":"DAR",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":2460
+    },
+    {
+        "Departure IATA":"DAR",
+        "Arrival IATA":"ZNZ",
+        "Flight Distance (miles)":45
+    },
+    {
+        "Departure IATA":"DEL",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":1217
+    },
+    {
+        "Departure IATA":"DMM",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":568
+    },
+    {
+        "Departure IATA":"DOH",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":436
+    },
+    {
+        "Departure IATA":"DXB",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":217
+    },
+    {
+        "Departure IATA":"FRA",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":3222
+    },
+    {
+        "Departure IATA":"GOX",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":1148
+    },
+    {
+        "Departure IATA":"HKT",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":2856
+    },
+    {
+        "Departure IATA":"HYD",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":1376
+    },
+    {
+        "Departure IATA":"IST",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":2096
+    },
+    {
+        "Departure IATA":"JED",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":1228
+    },
+    {
+        "Departure IATA":"KHI",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":567
+    },
+    {
+        "Departure IATA":"KHS",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":219
+    },
+    {
+        "Departure IATA":"KUL",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":3237
+    },
+    {
+        "Departure IATA":"KWI",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":747
+    },
+    {
+        "Departure IATA":"LHR",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":3629
+    },
+    {
+        "Departure IATA":"LKO",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":1431
+    },
+    {
+        "Departure IATA":"MAA",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":1609
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"AMM",
+        "Flight Distance (miles)":1473
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"BAH",
+        "Flight Distance (miles)":514
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":2855
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"BLR",
+        "Flight Distance (miles)":1459
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"BOM",
+        "Flight Distance (miles)":989
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"CAI",
+        "Flight Distance (miles)":1715
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"CCJ",
+        "Flight Distance (miles)":1445
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"CDG",
+        "Flight Distance (miles)":3470
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"CGK",
+        "Flight Distance (miles)":3851
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"COK",
+        "Flight Distance (miles)":1511
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"DAC",
+        "Flight Distance (miles)":2030
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"DAR",
+        "Flight Distance (miles)":2460
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"DEL",
+        "Flight Distance (miles)":1217
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"DMM",
+        "Flight Distance (miles)":568
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"DOH",
+        "Flight Distance (miles)":436
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"DXB",
+        "Flight Distance (miles)":217
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"FRA",
+        "Flight Distance (miles)":3222
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"GOX",
+        "Flight Distance (miles)":1148
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"HKT",
+        "Flight Distance (miles)":2856
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"HYD",
+        "Flight Distance (miles)":1376
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"IST",
+        "Flight Distance (miles)":2096
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"JED",
+        "Flight Distance (miles)":1228
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"KHI",
+        "Flight Distance (miles)":567
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"KHS",
+        "Flight Distance (miles)":219
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"KUL",
+        "Flight Distance (miles)":3237
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"KWI",
+        "Flight Distance (miles)":747
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"LHR",
+        "Flight Distance (miles)":3629
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"LKO",
+        "Flight Distance (miles)":1431
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"MAA",
+        "Flight Distance (miles)":1609
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"MED",
+        "Flight Distance (miles)":1175
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"MLE",
+        "Flight Distance (miles)":1678
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"MNL",
+        "Flight Distance (miles)":4120
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"MUC",
+        "Flight Distance (miles)":3049
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"MXP",
+        "Flight Distance (miles)":3142
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"RUH",
+        "Flight Distance (miles)":737
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"SLL",
+        "Flight Distance (miles)":527
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"SVO",
+        "Flight Distance (miles)":2473
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"TRV",
+        "Flight Distance (miles)":1613
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"ZNZ",
+        "Flight Distance (miles)":2420
+    },
+    {
+        "Departure IATA":"MCT",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":3178
+    },
+    {
+        "Departure IATA":"MED",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":1175
+    },
+    {
+        "Departure IATA":"MLE",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":1678
+    },
+    {
+        "Departure IATA":"MNL",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":4120
+    },
+    {
+        "Departure IATA":"MUC",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":3049
+    },
+    {
+        "Departure IATA":"MXP",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":3142
+    },
+    {
+        "Departure IATA":"RUH",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":737
+    },
+    {
+        "Departure IATA":"SLL",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":527
+    },
+    {
+        "Departure IATA":"SVO",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":2473
+    },
+    {
+        "Departure IATA":"TRV",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":1613
+    },
+    {
+        "Departure IATA":"ZNZ",
+        "Arrival IATA":"DAR",
+        "Flight Distance (miles)":45
+    },
+    {
+        "Departure IATA":"ZNZ",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":2420
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"MCT",
+        "Flight Distance (miles)":3178
+    }
+]
