@@ -60,25 +60,39 @@ function formatPercentageDiff(percentageDiff, isDirect) {
   return `+${Math.round(percentageDiff)}%`;
 }
 
-// Removes duplicate routes by creating a unique key for each route combination
+// Removes duplicate routes and sorts by layovers then distance
 function removeDuplicateRoutes(routes) {
   const seen = new Set();
   
-  return routes.filter(route => {
-    // Create a unique key for this route
-    const routeKey = route.map(segment => 
-      `${segment.Departure_IATA}-${segment.Arrival_IATA}-${segment.Distance}`
-    ).join('|');
-    
-    // If we've seen this route before, filter it out
-    if (seen.has(routeKey)) {
-      return false;
-    }
-    
-    // Otherwise, add it to seen routes and keep it
-    seen.add(routeKey);
-    return true;
-  });
+  return routes
+    .filter(route => {
+      // Create a unique key for this route
+      const routeKey = route.map(segment => 
+        `${segment.Departure_IATA}-${segment.Arrival_IATA}-${segment.Distance}`
+      ).join('|');
+      
+      // If we've seen this route before, filter it out
+      if (seen.has(routeKey)) {
+        return false;
+      }
+      
+      // Otherwise, add it to seen routes and keep it
+      seen.add(routeKey);
+      return true;
+    })
+    .sort((a, b) => {
+      // First sort by number of layovers (segments - 1)
+      const layoversA = a.length - 1;
+      const layoversB = b.length - 1;
+      if (layoversA !== layoversB) {
+        return layoversA - layoversB;
+      }
+      
+      // If same number of layovers, sort by total distance
+      const distanceA = a.reduce((sum, segment) => sum + segment.Distance, 0);
+      const distanceB = b.reduce((sum, segment) => sum + segment.Distance, 0);
+      return distanceA - distanceB;
+    });
 }
 
 // Main Component

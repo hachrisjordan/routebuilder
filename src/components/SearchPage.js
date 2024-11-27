@@ -184,6 +184,60 @@ const calculateRouteDistance = (route) => {
   return totalDistance;
 };
 
+// ===============================
+// Hub Airport Exceptions
+// ===============================
+
+// Airports exempt from standard layover restrictions
+const HUB_EXCEPTIONS = new Set([
+  // Star Alliance Hubs
+  'ATH', // Aegean
+  'PEK', 'CTU', 'PVG', // Air China
+  'DEL', 'BOM', // Air India
+  'AKL', 'WLG', 'CHC', // Air New Zealand
+  'HND', 'NRT', 'KIX', // ANA
+  'ICN', 'GMP', // Asiana
+  'VIE', // Austrian
+  'BOG', 'MDE', 'UIO', 'GUA', 'SAL', // Avianca
+  'BRU', // Brussels
+  'PTY', // Copa
+  'ZAG', // Croatia
+  'CAI', // EgyptAir
+  'ADD', // Ethiopian
+  'TPE', // EVA
+  'WAW', // LOT
+  'FRA', 'MUC', // Lufthansa
+  'SZX', // Shenzhen
+  'SIN', // Singapore
+  'JNB', // South African
+  'ZRH', 'GVA', // SWISS
+  'LIS', 'OPO', // TAP
+  'BKK', // Thai
+  'IST', // Turkish
+  'ORD', 'DEN', 'IAH', 'LAX', 'EWR', 'SFO', 'IAD', // United
+  // Non-Alliance Hubs
+  'YVO', 'YUL', // Air Creebec
+  'MUC', 'FRA', // Air Dolomiti
+  'MRU', // Air Mauritius
+  'BEG', // Air Serbia
+  'VCP', 'CNF', 'REC', // Azul
+  'YWG', 'YTH', // Calm Air
+  'YZF', 'YFB', // Canadian North
+  'HKG', // Cathay Pacific
+  'FRA', // Discover
+  'ZRH', // Edelweiss
+  'AUH', // Etihad
+  'DUS', 'CGN', 'HAM', 'STR', // Eurowings
+  'GRU', 'GIG', 'BSB', // GOL
+  'BAH', // Gulf Air
+  'PVG', 'SHA', // Juneyao
+  'ATH', // Olympic
+  'MCT', // Oman Air
+  'YYT', 'YHZ', // PAL Airlines
+  'AYT', 'ADB', // SunExpress
+  'BNE', 'MEL', 'SYD' // Virgin Australia
+]);
+
 export function SearchPage() {
   // State for selected airports and search results
   const [departureAirport, setDepartureAirport] = useState('');
@@ -261,17 +315,34 @@ export function SearchPage() {
     const isDestNorthAmerica = ['United States', 'Canada'].includes(destAirport?.Country);
     const bothInNorthAmerica = isOriginNorthAmerica && isDestNorthAmerica;
 
-    // Count existing US/Canada layovers in the current path
+    // Count existing North American layovers, treating non-hubs and hubs separately
     const northAmericaLayovers = path.reduce((count, segment) => {
       const layoverAirport = airports.find(a => a.IATA === segment.Arrival_IATA);
-      return count + (['United States', 'Canada'].includes(layoverAirport?.Country) ? 1 : 0);
-    }, 0);
+      if (!layoverAirport || !['United States', 'Canada'].includes(layoverAirport.Country)) {
+        return count;
+      }
+      
+      if (HUB_EXCEPTIONS.has(segment.Arrival_IATA)) {
+        return { ...count, hubCount: 1 };  // All hubs count as 1 total
+      }
+      return { ...count, nonHubCount: count.nonHubCount + 1 };  // Each non-hub counts as 1
+    }, { nonHubCount: 0, hubCount: 0 });
 
     // Count existing European layovers in the current path
     const europeanLayovers = path.reduce((count, segment) => {
       const layoverAirport = airports.find(a => a.IATA === segment.Arrival_IATA);
-      return count + (EUROPEAN_COUNTRIES.has(layoverAirport?.Country) ? 1 : 0);
-    }, 0);
+      if (!layoverAirport || !EUROPEAN_COUNTRIES.has(layoverAirport.Country)) {
+        return count;
+      }
+      
+      // If it's a hub airport, we've already counted hubs, don't increment
+      if (HUB_EXCEPTIONS.has(segment.Arrival_IATA)) {
+        return count + (count.hasHub ? 0 : 1);  // Only count hubs once total
+      }
+      
+      // Non-hub European airports count as 1 each
+      return count + 1;
+    }, { total: 0, hasHub: false });
 
     // Calculate direct distance if not provided
     if (directDistance === null) {
@@ -304,8 +375,17 @@ export function SearchPage() {
       const countByCountry = {};
       currentPath.forEach(segment => {
         const airport = airports.find(a => a.IATA === segment.Arrival_IATA);
-        if (airport) {
-          countByCountry[airport.Country] = (countByCountry[airport.Country] || 0) + 1;
+        if (!airport) return;
+        
+        const country = airport.Country;
+        if (!countByCountry[country]) {
+          countByCountry[country] = { nonHubCount: 0, hasHub: false };
+        }
+        
+        if (HUB_EXCEPTIONS.has(segment.Arrival_IATA)) {
+          countByCountry[country].hasHub = true;
+        } else {
+          countByCountry[country].nonHubCount += 1;
         }
       });
       return countByCountry;
@@ -322,23 +402,27 @@ export function SearchPage() {
       if (!originAirport || !destAirport || !thisArrivalAirport) return false;
 
       // Check for multiple layovers in same country
-      const layoverCounts = getLayoverCountByCountry(path);
-      const arrivalCountry = thisArrivalAirport.Country;
+      const countryLayovers = getLayoverCountByCountry(path);
+      const nextCountry = thisArrivalAirport.Country;
       
       // Allow multiple stops only if it's origin or destination country
-      if (arrivalCountry !== originAirport.Country && 
-          arrivalCountry !== destAirport.Country && 
-          layoverCounts[arrivalCountry] >= 1) {
+      if (nextCountry !== originAirport.Country && 
+          nextCountry !== destAirport.Country && 
+          countryLayovers[nextCountry] >= 1 &&
+          !HUB_EXCEPTIONS.has(route["Arrival IATA"])) {
         return false;
       }
 
       // Get zones
       const originZone = airports.find(a => a.IATA === origin)?.Zone;
       const destZone = airports.find(a => a.IATA === destination)?.Zone;
-      const arrivalZone = airports.find(a => a.IATA === route["Arrival IATA"])?.Zone;
+      const connectZone = thisArrivalAirport?.Zone;
 
-      // If origin and destination are in same zone, prevent connections through different zones
-      if (originZone === destZone && arrivalZone !== originZone) {
+      // Rule: When flying between two zones, cannot connect via a third zone
+      // Example: North America to Atlantic cannot connect via Pacific
+      if (originZone !== destZone && // Different zones
+          connectZone !== originZone && // Not in origin zone
+          connectZone !== destZone) { // Not in destination zone
         return false;
       }
 
@@ -353,14 +437,36 @@ export function SearchPage() {
 
       // Check if adding this segment would exceed US/Canada layover limit
       const isArrivalNorthAmerica = ['United States', 'Canada'].includes(arrivalAirport.Country);
-      if (isArrivalNorthAmerica && !bothInNorthAmerica && northAmericaLayovers >= 2) {
-        return false;
+      if (isArrivalNorthAmerica && !bothInNorthAmerica) {
+        let nextNonHubCount = northAmericaLayovers.nonHubCount;
+        let nextHubCount = northAmericaLayovers.hubCount;
+
+        if (HUB_EXCEPTIONS.has(route["Arrival IATA"])) {
+          nextHubCount = 1;
+        } else {
+          nextNonHubCount += 1;
+        }
+
+        // Total layovers = non-hub count + hub count (all hubs count as 1)
+        if (nextNonHubCount + nextHubCount > 2) {
+          return false;
+        }
       }
 
       // Check if adding this segment would exceed European layover limit
       const isEuropeanArrival = EUROPEAN_COUNTRIES.has(arrivalAirport.Country);
-      if (isEuropeanArrival && europeanLayovers >= 2) {
-        return false;
+      const isEuropeanHub = HUB_EXCEPTIONS.has(route["Arrival IATA"]);
+      
+      if (isEuropeanArrival) {
+        let newLayoverCount = europeanLayovers;
+        if (isEuropeanHub && !europeanLayovers.hasHub) {
+          newLayoverCount += 1;  // First hub encounter counts as 1
+        } else if (!isEuropeanHub) {
+          newLayoverCount += 1;  // Non-hub counts as 1
+        }
+        if (newLayoverCount > 2) {
+          return false;
+        }
       }
 
       // Check if we're not backtracking to a visited airport
@@ -371,6 +477,35 @@ export function SearchPage() {
       const isBacktrackingCountry = visitedCountries.has(arrivalAirport.Country) &&
                                   arrivalAirport.Country !== currentAirport.Country;
       if (isBacktrackingCountry) return false;
+
+      // Rule: Maximum 1 layover per transit country (with hub exceptions)
+      const layoverCounts = getLayoverCountByCountry(path);
+      const arrivalCountry = arrivalAirport.Country;
+      if (arrivalCountry !== originAirport.Country && 
+          arrivalCountry !== destAirport.Country && 
+          layoverCounts[arrivalCountry] >= 1 &&
+          !HUB_EXCEPTIONS.has(route["Arrival IATA"])) { // Add exception check
+        return false;
+      }
+
+      // Rule: Maximum 2 stops in Europe (with hub exceptions)
+      if (isEuropeanArrival && 
+          europeanLayovers >= 2 &&
+          !HUB_EXCEPTIONS.has(route["Arrival IATA"])) { // Add exception check
+        return false;
+      }
+
+      // Check if adding this stop would exceed country limit
+      if (nextCountry !== originAirport.Country && nextCountry !== destAirport.Country) {
+        const currentCount = countryLayovers[nextCountry] || { nonHubCount: 0, hasHub: false };
+        let totalStops = currentCount.nonHubCount;
+        if (currentCount.hasHub || HUB_EXCEPTIONS.has(route["Arrival IATA"])) {
+          totalStops += 1; // All hubs in country count as 1 total
+        }
+        if (totalStops >= 2) {
+          return false;
+        }
+      }
 
       return true;
     });
