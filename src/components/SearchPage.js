@@ -299,10 +299,39 @@ export function SearchPage() {
     
     if (!currentAirport) return [];
 
-    // Move zone check to the filter stage
+    // Add helper function to count layovers by country
+    const getLayoverCountByCountry = (currentPath) => {
+      const countByCountry = {};
+      currentPath.forEach(segment => {
+        const airport = airports.find(a => a.IATA === segment.Arrival_IATA);
+        if (airport) {
+          countByCountry[airport.Country] = (countByCountry[airport.Country] || 0) + 1;
+        }
+      });
+      return countByCountry;
+    };
+
     const possibleSegments = allRoutes.filter(route => {
       if (route["Departure IATA"] !== currentPoint) return false;
+
+      // Get origin and destination countries
+      const originAirport = airports.find(a => a.IATA === origin);
+      const destAirport = airports.find(a => a.IATA === destination);
+      const thisArrivalAirport = airports.find(a => a.IATA === route["Arrival IATA"]);
       
+      if (!originAirport || !destAirport || !thisArrivalAirport) return false;
+
+      // Check for multiple layovers in same country
+      const layoverCounts = getLayoverCountByCountry(path);
+      const arrivalCountry = thisArrivalAirport.Country;
+      
+      // Allow multiple stops only if it's origin or destination country
+      if (arrivalCountry !== originAirport.Country && 
+          arrivalCountry !== destAirport.Country && 
+          layoverCounts[arrivalCountry] >= 1) {
+        return false;
+      }
+
       // Get zones
       const originZone = airports.find(a => a.IATA === origin)?.Zone;
       const destZone = airports.find(a => a.IATA === destination)?.Zone;
