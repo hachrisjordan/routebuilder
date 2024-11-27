@@ -568,7 +568,8 @@ export function SearchPage() {
         params.set('from', departureAirport);
         params.set('to', arrivalAirport);
         params.set('avoidCountries', avoidCountries.join(','));
-        
+        params.set('avoidAirlines', avoidAirlines.join(','));
+
         window.history.pushState(
           {}, 
           '', 
