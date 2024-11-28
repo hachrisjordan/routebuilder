@@ -275,6 +275,34 @@ const isValidZoneProgression = (path) => {
   return true;
 };
 
+// Add this function near the top with other helper functions
+const countLayoversPerCountry = (path) => {
+  const counts = {};
+  
+  for (const segment of path) {
+    const arrivalAirport = airports.find(a => a.IATA === segment.Arrival_IATA);
+    if (!arrivalAirport) continue;
+    
+    const country = arrivalAirport.Country;
+    if (!counts[country]) {
+      counts[country] = {
+        total: 0,
+        hubCount: 0,
+        nonHubCount: 0
+      };
+    }
+    
+    if (HUB_EXCEPTIONS.has(segment.Arrival_IATA)) {
+      counts[country].hubCount++;
+    } else {
+      counts[country].nonHubCount++;
+    }
+    counts[country].total = counts[country].hubCount > 0 ? 1 : counts[country].nonHubCount;
+  }
+  
+  return counts;
+};
+
 export function SearchPage() {
   const navigate = useNavigate();
   const [searchParams, setSearchParams] = useSearchParams();
@@ -617,6 +645,25 @@ export function SearchPage() {
           }
           // Mark that we have a hub stop
           currentCount.hasHub = true;
+        }
+      }
+
+      // Add country layover check
+      if (arrivalAirport.Country !== originAirport.Country && 
+          arrivalAirport.Country !== destAirport.Country) {
+        const layoverCounts = countLayoversPerCountry(path);
+        const countryCount = layoverCounts[arrivalAirport.Country]?.total || 0;
+        
+        // If we already have a stop in this country, only allow if both are hubs
+        if (countryCount > 0) {
+          // If this is not a hub airport, reject
+          if (!HUB_EXCEPTIONS.has(route["Arrival IATA"])) {
+            return false;
+          }
+          // If we already have a non-hub stop in this country, reject
+          if (layoverCounts[arrivalAirport.Country]?.nonHubCount > 0) {
+            return false;
+          }
         }
       }
 

@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { airports } from '../data/airports';
 import pricingChart from '../data/formatted_partner_airlines_pricing_chart.json';
 import { FaSort, FaSortUp, FaSortDown, FaSearch, FaTimes } from 'react-icons/fa';
+import './FlightResults.css';
 
 // Helper Functions
 // Calculates the direct "as the crow flies" distance between two airports using the Haversine formula
