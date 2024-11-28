@@ -3149,7 +3149,7 @@ export const airports = [
         "Longitude":79.883789,
         "Name":"Colombo Bandaranaike International Airport",
         "IATA":"CMB",
-        "Zone":"Pacific"
+        "Zone":"Atlantic"
     },
     {
         "Country":"Australia",

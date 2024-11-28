@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import './FlightResults.css';
 import { airports } from '../data/airports';
 import pricingChart from '../data/formatted_partner_airlines_pricing_chart.json';
 import { FaSort, FaSortUp, FaSortDown, FaSearch, FaTimes } from 'react-icons/fa';
@@ -62,37 +61,51 @@ function formatPercentageDiff(percentageDiff, isDirect) {
 
 // Removes duplicate routes and sorts by layovers then distance
 function removeDuplicateRoutes(routes) {
+  console.log('Initial routes:', routes.map(r => ({
+    segments: r.length,
+    path: r.map(seg => `${seg.Departure_IATA}-${seg.Arrival_IATA}`).join(' -> ')
+  })));
+
   const seen = new Set();
   
-  return routes
+  const filteredRoutes = routes
     .filter(route => {
-      // Create a unique key for this route
       const routeKey = route.map(segment => 
         `${segment.Departure_IATA}-${segment.Arrival_IATA}-${segment.Distance}`
       ).join('|');
       
-      // If we've seen this route before, filter it out
       if (seen.has(routeKey)) {
+        console.log('Filtered duplicate route:', routeKey);
         return false;
       }
       
-      // Otherwise, add it to seen routes and keep it
       seen.add(routeKey);
       return true;
-    })
-    .sort((a, b) => {
-      // First sort by number of layovers (segments - 1)
-      const layoversA = a.length - 1;
-      const layoversB = b.length - 1;
-      if (layoversA !== layoversB) {
-        return layoversA - layoversB;
-      }
-      
-      // If same number of layovers, sort by total distance
-      const distanceA = a.reduce((sum, segment) => sum + segment.Distance, 0);
-      const distanceB = b.reduce((sum, segment) => sum + segment.Distance, 0);
-      return distanceA - distanceB;
     });
+
+  console.log('After duplicate removal:', filteredRoutes.map(r => ({
+    segments: r.length,
+    path: r.map(seg => `${seg.Departure_IATA}-${seg.Arrival_IATA}`).join(' -> ')
+  })));
+
+  const sortedRoutes = filteredRoutes.sort((a, b) => {
+    const layoversA = a.length - 1;
+    const layoversB = b.length - 1;
+    if (layoversA !== layoversB) {
+      return layoversA - layoversB;
+    }
+    
+    const distanceA = a.reduce((sum, segment) => sum + segment.Distance, 0);
+    const distanceB = b.reduce((sum, segment) => sum + segment.Distance, 0);
+    return distanceA - distanceB;
+  });
+
+  console.log('Final sorted routes:', sortedRoutes.map(r => ({
+    segments: r.length,
+    path: r.map(seg => `${seg.Departure_IATA}-${seg.Arrival_IATA}`).join(' -> ')
+  })));
+
+  return sortedRoutes;
 }
 
 // Main Component
@@ -211,6 +224,7 @@ export function FlightResults({ results, isVisible }) {
     setCurrentPage(1);
   };
 
+  // Helper function to get the sort icon
   const getSortIcon = (key) => {
     if (sortConfig.key !== key) return <FaSort className="sort-icon" />;
     return sortConfig.direction === 'asc' ? 

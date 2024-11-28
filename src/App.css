@@ -40,7 +40,7 @@
 }
 
 .airport-search {
-  width: 640px;
+  width: 540px;
   position: relative;
 }
 
@@ -84,7 +84,7 @@ button:hover {
   flex-direction: column;
   align-items: center;
   position: relative;
-  z-index: 9999;
+  z-index: 1;
 }
 
 .search-container h1 {
@@ -93,6 +93,8 @@ button:hover {
 }
 
 .search-boxes {
+  position: relative;
+  z-index: 9999 !important;
   display: flex;
   gap: 40px;
   align-items: flex-start;
@@ -246,7 +248,7 @@ ul.suggestions {
 }
 
 .avoid-countries-select .select__menu {
-  z-index: 4 !important;
+  z-index: 99999 !important;
 }
 
 .avoid-airlines-select {
@@ -255,7 +257,7 @@ ul.suggestions {
 }
 
 .avoid-airlines-select .select__menu {
-  z-index: 4 !important;
+  z-index: 99999 !important;
 }
 
 /* Style for the airline options */
@@ -367,7 +369,7 @@ ul.suggestions {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  z-index: 1000;
+  z-index: 999;
   opacity: 0;
   animation: fadeIn 0.25s ease-out forwards;
 }
@@ -408,4 +410,65 @@ ul.suggestions {
   background-color: #cccccc;
   cursor: not-allowed;
   opacity: 0.8;
+}
+
+.max-segments-parameter {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: 160px;
+  position: relative;
+}
+
+.max-segments-parameter input {
+  width: 100%;
+  padding: 8px 12px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 16px;
+  height: 38px;
+  box-sizing: border-box;
+}
+
+.max-segments-parameter input:focus {
+  outline: none;
+  border-color: #1a73e8;
+  box-shadow: 0 0 0 2px rgba(26,115,232,0.2);
+}
+
+/* Update z-index values for suggestion boxes */
+
+/* Base search container */
+.search-container {
+  /* ... existing styles ... */
+  position: relative;
+  z-index: 1;
+}
+
+/* Departure/Arrival airport suggestions */
+.airport-search .select-input .select__menu {
+  z-index: 99999 !important;
+}
+
+/* Avoid countries suggestions */
+.avoid-countries-select .select__menu {
+  z-index: 99999 !important;
+}
+
+/* Avoid airlines suggestions */
+.avoid-airlines-select .select__menu {
+  z-index: 99999 !important;
+}
+
+/* Loading overlay should be below suggestions but above other content */
+.loading-overlay {
+  /* ... existing styles ... */
+  z-index: 999;
+}
+
+/* General suggestion box styling */
+.select__menu {
+  background-color: white !important;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1) !important;
+  border-radius: 4px !important;
 }
