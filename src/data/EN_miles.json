@@ -1,0 +1,317 @@
+[
+    {
+        "Departure IATA":"AMS",
+        "Arrival IATA":"MUC",
+        "Flight Distance (miles)":413
+    },
+    {
+        "Departure IATA":"AOI",
+        "Arrival IATA":"MUC",
+        "Flight Distance (miles)":336
+    },
+    {
+        "Departure IATA":"BLL",
+        "Arrival IATA":"MUC",
+        "Flight Distance (miles)":523
+    },
+    {
+        "Departure IATA":"BLQ",
+        "Arrival IATA":"FRA",
+        "Flight Distance (miles)":401
+    },
+    {
+        "Departure IATA":"BLQ",
+        "Arrival IATA":"MUC",
+        "Flight Distance (miles)":265
+    },
+    {
+        "Departure IATA":"BRI",
+        "Arrival IATA":"MUC",
+        "Flight Distance (miles)":555
+    },
+    {
+        "Departure IATA":"FLR",
+        "Arrival IATA":"FRA",
+        "Flight Distance (miles)":448
+    },
+    {
+        "Departure IATA":"FLR",
+        "Arrival IATA":"MUC",
+        "Flight Distance (miles)":315
+    },
+    {
+        "Departure IATA":"FRA",
+        "Arrival IATA":"BLQ",
+        "Flight Distance (miles)":401
+    },
+    {
+        "Departure IATA":"FRA",
+        "Arrival IATA":"FLR",
+        "Flight Distance (miles)":448
+    },
+    {
+        "Departure IATA":"FRA",
+        "Arrival IATA":"GRZ",
+        "Flight Distance (miles)":379
+    },
+    {
+        "Departure IATA":"FRA",
+        "Arrival IATA":"GVA",
+        "Flight Distance (miles)":286
+    },
+    {
+        "Departure IATA":"FRA",
+        "Arrival IATA":"INN",
+        "Flight Distance (miles)":230
+    },
+    {
+        "Departure IATA":"FRA",
+        "Arrival IATA":"KTW",
+        "Flight Distance (miles)":467
+    },
+    {
+        "Departure IATA":"FRA",
+        "Arrival IATA":"LCY",
+        "Flight Distance (miles)":386
+    },
+    {
+        "Departure IATA":"FRA",
+        "Arrival IATA":"LIN",
+        "Flight Distance (miles)":319
+    },
+    {
+        "Departure IATA":"FRA",
+        "Arrival IATA":"LUX",
+        "Flight Distance (miles)":109
+    },
+    {
+        "Departure IATA":"FRA",
+        "Arrival IATA":"LYS",
+        "Flight Distance (miles)":339
+    },
+    {
+        "Departure IATA":"FRA",
+        "Arrival IATA":"MXP",
+        "Flight Distance (miles)":305
+    },
+    {
+        "Departure IATA":"FRA",
+        "Arrival IATA":"TRN",
+        "Flight Distance (miles)":337
+    },
+    {
+        "Departure IATA":"FRA",
+        "Arrival IATA":"TRS",
+        "Flight Distance (miles)":370
+    },
+    {
+        "Departure IATA":"FRA",
+        "Arrival IATA":"VRN",
+        "Flight Distance (miles)":339
+    },
+    {
+        "Departure IATA":"FRA",
+        "Arrival IATA":"WRO",
+        "Flight Distance (miles)":374
+    },
+    {
+        "Departure IATA":"GOA",
+        "Arrival IATA":"MUC",
+        "Flight Distance (miles)":306
+    },
+    {
+        "Departure IATA":"GRZ",
+        "Arrival IATA":"FRA",
+        "Flight Distance (miles)":379
+    },
+    {
+        "Departure IATA":"GRZ",
+        "Arrival IATA":"MUC",
+        "Flight Distance (miles)":195
+    },
+    {
+        "Departure IATA":"GVA",
+        "Arrival IATA":"FRA",
+        "Flight Distance (miles)":286
+    },
+    {
+        "Departure IATA":"GVA",
+        "Arrival IATA":"MUC",
+        "Flight Distance (miles)":304
+    },
+    {
+        "Departure IATA":"INN",
+        "Arrival IATA":"FRA",
+        "Flight Distance (miles)":230
+    },
+    {
+        "Departure IATA":"KTW",
+        "Arrival IATA":"FRA",
+        "Flight Distance (miles)":467
+    },
+    {
+        "Departure IATA":"LCY",
+        "Arrival IATA":"FRA",
+        "Flight Distance (miles)":386
+    },
+    {
+        "Departure IATA":"LIN",
+        "Arrival IATA":"FRA",
+        "Flight Distance (miles)":319
+    },
+    {
+        "Departure IATA":"LIN",
+        "Arrival IATA":"MUC",
+        "Flight Distance (miles)":233
+    },
+    {
+        "Departure IATA":"LUX",
+        "Arrival IATA":"FRA",
+        "Flight Distance (miles)":109
+    },
+    {
+        "Departure IATA":"LYS",
+        "Arrival IATA":"FRA",
+        "Flight Distance (miles)":339
+    },
+    {
+        "Departure IATA":"LYS",
+        "Arrival IATA":"MUC",
+        "Flight Distance (miles)":365
+    },
+    {
+        "Departure IATA":"MUC",
+        "Arrival IATA":"AMS",
+        "Flight Distance (miles)":413
+    },
+    {
+        "Departure IATA":"MUC",
+        "Arrival IATA":"AOI",
+        "Flight Distance (miles)":336
+    },
+    {
+        "Departure IATA":"MUC",
+        "Arrival IATA":"BLL",
+        "Flight Distance (miles)":523
+    },
+    {
+        "Departure IATA":"MUC",
+        "Arrival IATA":"BLQ",
+        "Flight Distance (miles)":265
+    },
+    {
+        "Departure IATA":"MUC",
+        "Arrival IATA":"BRI",
+        "Flight Distance (miles)":555
+    },
+    {
+        "Departure IATA":"MUC",
+        "Arrival IATA":"FLR",
+        "Flight Distance (miles)":315
+    },
+    {
+        "Departure IATA":"MUC",
+        "Arrival IATA":"GOA",
+        "Flight Distance (miles)":306
+    },
+    {
+        "Departure IATA":"MUC",
+        "Arrival IATA":"GRZ",
+        "Flight Distance (miles)":195
+    },
+    {
+        "Departure IATA":"MUC",
+        "Arrival IATA":"GVA",
+        "Flight Distance (miles)":304
+    },
+    {
+        "Departure IATA":"MUC",
+        "Arrival IATA":"LIN",
+        "Flight Distance (miles)":233
+    },
+    {
+        "Departure IATA":"MUC",
+        "Arrival IATA":"LYS",
+        "Flight Distance (miles)":365
+    },
+    {
+        "Departure IATA":"MUC",
+        "Arrival IATA":"MXP",
+        "Flight Distance (miles)":237
+    },
+    {
+        "Departure IATA":"MUC",
+        "Arrival IATA":"NCE",
+        "Flight Distance (miles)":391
+    },
+    {
+        "Departure IATA":"MUC",
+        "Arrival IATA":"TRN",
+        "Flight Distance (miles)":293
+    },
+    {
+        "Departure IATA":"MUC",
+        "Arrival IATA":"VCE",
+        "Flight Distance (miles)":199
+    },
+    {
+        "Departure IATA":"MUC",
+        "Arrival IATA":"VRN",
+        "Flight Distance (miles)":209
+    },
+    {
+        "Departure IATA":"MXP",
+        "Arrival IATA":"FRA",
+        "Flight Distance (miles)":305
+    },
+    {
+        "Departure IATA":"MXP",
+        "Arrival IATA":"MUC",
+        "Flight Distance (miles)":237
+    },
+    {
+        "Departure IATA":"NCE",
+        "Arrival IATA":"MUC",
+        "Flight Distance (miles)":391
+    },
+    {
+        "Departure IATA":"STR",
+        "Arrival IATA":"FRA",
+        "Flight Distance (miles)":98
+    },
+    {
+        "Departure IATA":"TRN",
+        "Arrival IATA":"FRA",
+        "Flight Distance (miles)":337
+    },
+    {
+        "Departure IATA":"TRN",
+        "Arrival IATA":"MUC",
+        "Flight Distance (miles)":293
+    },
+    {
+        "Departure IATA":"TRS",
+        "Arrival IATA":"FRA",
+        "Flight Distance (miles)":370
+    },
+    {
+        "Departure IATA":"VCE",
+        "Arrival IATA":"MUC",
+        "Flight Distance (miles)":199
+    },
+    {
+        "Departure IATA":"VRN",
+        "Arrival IATA":"FRA",
+        "Flight Distance (miles)":339
+    },
+    {
+        "Departure IATA":"VRN",
+        "Arrival IATA":"MUC",
+        "Flight Distance (miles)":209
+    },
+    {
+        "Departure IATA":"WRO",
+        "Arrival IATA":"FRA",
+        "Flight Distance (miles)":374
+    }
+]

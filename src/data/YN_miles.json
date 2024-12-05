@@ -1,0 +1,217 @@
+[
+    {
+        "Departure IATA":"YAT",
+        "Arrival IATA":"YPO",
+        "Flight Distance (miles)":189
+    },
+    {
+        "Departure IATA":"YAT",
+        "Arrival IATA":"YTS",
+        "Flight Distance (miles)":304
+    },
+    {
+        "Departure IATA":"YAT",
+        "Arrival IATA":"ZKE",
+        "Flight Distance (miles)":55
+    },
+    {
+        "Departure IATA":"YBG",
+        "Arrival IATA":"YUL",
+        "Flight Distance (miles)":236
+    },
+    {
+        "Departure IATA":"YBG",
+        "Arrival IATA":"ZEM",
+        "Flight Distance (miles)":428
+    },
+    {
+        "Departure IATA":"YFA",
+        "Arrival IATA":"YMO",
+        "Flight Distance (miles)":78
+    },
+    {
+        "Departure IATA":"YFA",
+        "Arrival IATA":"ZKE",
+        "Flight Distance (miles)":4
+    },
+    {
+        "Departure IATA":"YGW",
+        "Arrival IATA":"YKU",
+        "Flight Distance (miles)":112
+    },
+    {
+        "Departure IATA":"YKQ",
+        "Arrival IATA":"YGW",
+        "Flight Distance (miles)":267
+    },
+    {
+        "Departure IATA":"YKQ",
+        "Arrival IATA":"YKU",
+        "Flight Distance (miles)":161
+    },
+    {
+        "Departure IATA":"YKQ",
+        "Arrival IATA":"YVO",
+        "Flight Distance (miles)":240
+    },
+    {
+        "Departure IATA":"YKQ",
+        "Arrival IATA":"ZEM",
+        "Flight Distance (miles)":53
+    },
+    {
+        "Departure IATA":"YKU",
+        "Arrival IATA":"YGW",
+        "Flight Distance (miles)":112
+    },
+    {
+        "Departure IATA":"YKU",
+        "Arrival IATA":"YKQ",
+        "Flight Distance (miles)":161
+    },
+    {
+        "Departure IATA":"YKU",
+        "Arrival IATA":"YNC",
+        "Flight Distance (miles)":56
+    },
+    {
+        "Departure IATA":"YKU",
+        "Arrival IATA":"YNS",
+        "Flight Distance (miles)":187
+    },
+    {
+        "Departure IATA":"YKU",
+        "Arrival IATA":"YVO",
+        "Flight Distance (miles)":401
+    },
+    {
+        "Departure IATA":"YMO",
+        "Arrival IATA":"YAT",
+        "Flight Distance (miles)":137
+    },
+    {
+        "Departure IATA":"YMO",
+        "Arrival IATA":"YFA",
+        "Flight Distance (miles)":78
+    },
+    {
+        "Departure IATA":"YMO",
+        "Arrival IATA":"YTS",
+        "Flight Distance (miles)":191
+    },
+    {
+        "Departure IATA":"YMT",
+        "Arrival IATA":"YKU",
+        "Flight Distance (miles)":336
+    },
+    {
+        "Departure IATA":"YMT",
+        "Arrival IATA":"YNS",
+        "Flight Distance (miles)":150
+    },
+    {
+        "Departure IATA":"YMT",
+        "Arrival IATA":"YUL",
+        "Flight Distance (miles)":299
+    },
+    {
+        "Departure IATA":"YNC",
+        "Arrival IATA":"YKU",
+        "Flight Distance (miles)":56
+    },
+    {
+        "Departure IATA":"YNC",
+        "Arrival IATA":"ZEM",
+        "Flight Distance (miles)":55
+    },
+    {
+        "Departure IATA":"YNS",
+        "Arrival IATA":"YKU",
+        "Flight Distance (miles)":187
+    },
+    {
+        "Departure IATA":"YNS",
+        "Arrival IATA":"YMT",
+        "Flight Distance (miles)":150
+    },
+    {
+        "Departure IATA":"YPO",
+        "Arrival IATA":"YAT",
+        "Flight Distance (miles)":189
+    },
+    {
+        "Departure IATA":"YTS",
+        "Arrival IATA":"YAT",
+        "Flight Distance (miles)":304
+    },
+    {
+        "Departure IATA":"YTS",
+        "Arrival IATA":"YMO",
+        "Flight Distance (miles)":191
+    },
+    {
+        "Departure IATA":"YUL",
+        "Arrival IATA":"YBG",
+        "Flight Distance (miles)":236
+    },
+    {
+        "Departure IATA":"YUL",
+        "Arrival IATA":"YKU",
+        "Flight Distance (miles)":621
+    },
+    {
+        "Departure IATA":"YUL",
+        "Arrival IATA":"YMT",
+        "Flight Distance (miles)":299
+    },
+    {
+        "Departure IATA":"YUL",
+        "Arrival IATA":"YVO",
+        "Flight Distance (miles)":262
+    },
+    {
+        "Departure IATA":"YVO",
+        "Arrival IATA":"YKQ",
+        "Flight Distance (miles)":240
+    },
+    {
+        "Departure IATA":"YVO",
+        "Arrival IATA":"YKU",
+        "Flight Distance (miles)":401
+    },
+    {
+        "Departure IATA":"YVO",
+        "Arrival IATA":"YUL",
+        "Flight Distance (miles)":262
+    },
+    {
+        "Departure IATA":"YVO",
+        "Arrival IATA":"YUY",
+        "Flight Distance (miles)":50
+    },
+    {
+        "Departure IATA":"ZEM",
+        "Arrival IATA":"YBG",
+        "Flight Distance (miles)":428
+    },
+    {
+        "Departure IATA":"ZEM",
+        "Arrival IATA":"YKQ",
+        "Flight Distance (miles)":53
+    },
+    {
+        "Departure IATA":"ZEM",
+        "Arrival IATA":"YNC",
+        "Flight Distance (miles)":55
+    },
+    {
+        "Departure IATA":"ZKE",
+        "Arrival IATA":"YAT",
+        "Flight Distance (miles)":55
+    },
+    {
+        "Departure IATA":"ZKE",
+        "Arrival IATA":"YFA",
+        "Flight Distance (miles)":4
+    }
+]

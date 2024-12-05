@@ -1,0 +1,267 @@
+[
+    {
+        "Departure IATA":"AMS",
+        "Arrival IATA":"ZAG",
+        "Flight Distance (miles)":684
+    },
+    {
+        "Departure IATA":"BRU",
+        "Arrival IATA":"ZAG",
+        "Flight Distance (miles)":641
+    },
+    {
+        "Departure IATA":"CDG",
+        "Arrival IATA":"ZAG",
+        "Flight Distance (miles)":672
+    },
+    {
+        "Departure IATA":"CPH",
+        "Arrival IATA":"ZAG",
+        "Flight Distance (miles)":699
+    },
+    {
+        "Departure IATA":"DBV",
+        "Arrival IATA":"FRA",
+        "Flight Distance (miles)":694
+    },
+    {
+        "Departure IATA":"DBV",
+        "Arrival IATA":"ZAG",
+        "Flight Distance (miles)":245
+    },
+    {
+        "Departure IATA":"FCO",
+        "Arrival IATA":"SPU",
+        "Flight Distance (miles)":238
+    },
+    {
+        "Departure IATA":"FRA",
+        "Arrival IATA":"DBV",
+        "Flight Distance (miles)":694
+    },
+    {
+        "Departure IATA":"FRA",
+        "Arrival IATA":"SPU",
+        "Flight Distance (miles)":579
+    },
+    {
+        "Departure IATA":"FRA",
+        "Arrival IATA":"ZAG",
+        "Flight Distance (miles)":458
+    },
+    {
+        "Departure IATA":"LHR",
+        "Arrival IATA":"SPU",
+        "Flight Distance (miles)":954
+    },
+    {
+        "Departure IATA":"LHR",
+        "Arrival IATA":"ZAG",
+        "Flight Distance (miles)":852
+    },
+    {
+        "Departure IATA":"MUC",
+        "Arrival IATA":"OSI",
+        "Flight Distance (miles)":388
+    },
+    {
+        "Departure IATA":"MUC",
+        "Arrival IATA":"RJK",
+        "Flight Distance (miles)":254
+    },
+    {
+        "Departure IATA":"MUC",
+        "Arrival IATA":"SPU",
+        "Flight Distance (miles)":397
+    },
+    {
+        "Departure IATA":"MUC",
+        "Arrival IATA":"ZAD",
+        "Flight Distance (miles)":339
+    },
+    {
+        "Departure IATA":"MUC",
+        "Arrival IATA":"ZAG",
+        "Flight Distance (miles)":271
+    },
+    {
+        "Departure IATA":"OMO",
+        "Arrival IATA":"ZAG",
+        "Flight Distance (miles)":191
+    },
+    {
+        "Departure IATA":"OSI",
+        "Arrival IATA":"MUC",
+        "Flight Distance (miles)":388
+    },
+    {
+        "Departure IATA":"PUY",
+        "Arrival IATA":"ZAD",
+        "Flight Distance (miles)":89
+    },
+    {
+        "Departure IATA":"PUY",
+        "Arrival IATA":"ZAG",
+        "Flight Distance (miles)":120
+    },
+    {
+        "Departure IATA":"RJK",
+        "Arrival IATA":"MUC",
+        "Flight Distance (miles)":254
+    },
+    {
+        "Departure IATA":"SJJ",
+        "Arrival IATA":"ZAG",
+        "Flight Distance (miles)":173
+    },
+    {
+        "Departure IATA":"SKP",
+        "Arrival IATA":"ZAG",
+        "Flight Distance (miles)":381
+    },
+    {
+        "Departure IATA":"SPU",
+        "Arrival IATA":"FCO",
+        "Flight Distance (miles)":238
+    },
+    {
+        "Departure IATA":"SPU",
+        "Arrival IATA":"FRA",
+        "Flight Distance (miles)":579
+    },
+    {
+        "Departure IATA":"SPU",
+        "Arrival IATA":"LHR",
+        "Flight Distance (miles)":954
+    },
+    {
+        "Departure IATA":"SPU",
+        "Arrival IATA":"MUC",
+        "Flight Distance (miles)":397
+    },
+    {
+        "Departure IATA":"SPU",
+        "Arrival IATA":"ZAG",
+        "Flight Distance (miles)":153
+    },
+    {
+        "Departure IATA":"SPU",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":463
+    },
+    {
+        "Departure IATA":"TUL",
+        "Arrival IATA":"OUN",
+        "Flight Distance (miles)":111
+    },
+    {
+        "Departure IATA":"VIE",
+        "Arrival IATA":"ZAG",
+        "Flight Distance (miles)":165
+    },
+    {
+        "Departure IATA":"ZAD",
+        "Arrival IATA":"MUC",
+        "Flight Distance (miles)":339
+    },
+    {
+        "Departure IATA":"ZAD",
+        "Arrival IATA":"PUY",
+        "Flight Distance (miles)":89
+    },
+    {
+        "Departure IATA":"ZAD",
+        "Arrival IATA":"ZAG",
+        "Flight Distance (miles)":118
+    },
+    {
+        "Departure IATA":"ZAG",
+        "Arrival IATA":"AMS",
+        "Flight Distance (miles)":684
+    },
+    {
+        "Departure IATA":"ZAG",
+        "Arrival IATA":"BRU",
+        "Flight Distance (miles)":641
+    },
+    {
+        "Departure IATA":"ZAG",
+        "Arrival IATA":"CDG",
+        "Flight Distance (miles)":672
+    },
+    {
+        "Departure IATA":"ZAG",
+        "Arrival IATA":"CPH",
+        "Flight Distance (miles)":699
+    },
+    {
+        "Departure IATA":"ZAG",
+        "Arrival IATA":"DBV",
+        "Flight Distance (miles)":245
+    },
+    {
+        "Departure IATA":"ZAG",
+        "Arrival IATA":"FRA",
+        "Flight Distance (miles)":458
+    },
+    {
+        "Departure IATA":"ZAG",
+        "Arrival IATA":"LHR",
+        "Flight Distance (miles)":852
+    },
+    {
+        "Departure IATA":"ZAG",
+        "Arrival IATA":"MUC",
+        "Flight Distance (miles)":271
+    },
+    {
+        "Departure IATA":"ZAG",
+        "Arrival IATA":"OMO",
+        "Flight Distance (miles)":191
+    },
+    {
+        "Departure IATA":"ZAG",
+        "Arrival IATA":"PUY",
+        "Flight Distance (miles)":120
+    },
+    {
+        "Departure IATA":"ZAG",
+        "Arrival IATA":"SJJ",
+        "Flight Distance (miles)":173
+    },
+    {
+        "Departure IATA":"ZAG",
+        "Arrival IATA":"SKP",
+        "Flight Distance (miles)":381
+    },
+    {
+        "Departure IATA":"ZAG",
+        "Arrival IATA":"SPU",
+        "Flight Distance (miles)":153
+    },
+    {
+        "Departure IATA":"ZAG",
+        "Arrival IATA":"VIE",
+        "Flight Distance (miles)":165
+    },
+    {
+        "Departure IATA":"ZAG",
+        "Arrival IATA":"ZAD",
+        "Flight Distance (miles)":118
+    },
+    {
+        "Departure IATA":"ZAG",
+        "Arrival IATA":"ZRH",
+        "Flight Distance (miles)":377
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"SPU",
+        "Flight Distance (miles)":463
+    },
+    {
+        "Departure IATA":"ZRH",
+        "Arrival IATA":"ZAG",
+        "Flight Distance (miles)":377
+    }
+]

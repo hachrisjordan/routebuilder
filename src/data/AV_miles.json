@@ -1,0 +1,1607 @@
+[
+    {
+        "Departure IATA":"ADZ",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":749
+    },
+    {
+        "Departure IATA":"ADZ",
+        "Arrival IATA":"CLO",
+        "Flight Distance (miles)":720
+    },
+    {
+        "Departure IATA":"ADZ",
+        "Arrival IATA":"MDE",
+        "Flight Distance (miles)":615
+    },
+    {
+        "Departure IATA":"AEP",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":2888
+    },
+    {
+        "Departure IATA":"ASU",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":2342
+    },
+    {
+        "Departure IATA":"AUA",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":605
+    },
+    {
+        "Departure IATA":"AUA",
+        "Arrival IATA":"MDE",
+        "Flight Distance (miles)":571
+    },
+    {
+        "Departure IATA":"AUC",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":285
+    },
+    {
+        "Departure IATA":"AXM",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":114
+    },
+    {
+        "Departure IATA":"AXM",
+        "Arrival IATA":"MDE",
+        "Flight Distance (miles)":120
+    },
+    {
+        "Departure IATA":"BAQ",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":427
+    },
+    {
+        "Departure IATA":"BAQ",
+        "Arrival IATA":"CLO",
+        "Flight Distance (miles)":517
+    },
+    {
+        "Departure IATA":"BAQ",
+        "Arrival IATA":"MDE",
+        "Flight Distance (miles)":328
+    },
+    {
+        "Departure IATA":"BAQ",
+        "Arrival IATA":"MIA",
+        "Flight Distance (miles)":1087
+    },
+    {
+        "Departure IATA":"BCN",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":5292
+    },
+    {
+        "Departure IATA":"BGA",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":179
+    },
+    {
+        "Departure IATA":"BGA",
+        "Arrival IATA":"CTG",
+        "Flight Distance (miles)":278
+    },
+    {
+        "Departure IATA":"BGA",
+        "Arrival IATA":"MDE",
+        "Flight Distance (miles)":167
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"ADZ",
+        "Flight Distance (miles)":749
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"AEP",
+        "Flight Distance (miles)":2888
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"ASU",
+        "Flight Distance (miles)":2342
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"AUA",
+        "Flight Distance (miles)":605
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"AUC",
+        "Flight Distance (miles)":285
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"AXM",
+        "Flight Distance (miles)":114
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"BAQ",
+        "Flight Distance (miles)":427
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"BCN",
+        "Flight Distance (miles)":5292
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"BGA",
+        "Flight Distance (miles)":179
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"BOS",
+        "Flight Distance (miles)":2599
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"CCS",
+        "Flight Distance (miles)":636
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"CDG",
+        "Flight Distance (miles)":5372
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"CLO",
+        "Flight Distance (miles)":174
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"CTG",
+        "Flight Distance (miles)":406
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"CUC",
+        "Flight Distance (miles)":248
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"CUN",
+        "Flight Distance (miles)":1412
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"CUR",
+        "Flight Distance (miles)":625
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"CUZ",
+        "Flight Distance (miles)":1262
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"EJA",
+        "Flight Distance (miles)":161
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"EYP",
+        "Flight Distance (miles)":128
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"EZE",
+        "Flight Distance (miles)":2902
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"FLL",
+        "Flight Distance (miles)":1522
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"GEO",
+        "Flight Distance (miles)":1100
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"GIG",
+        "Flight Distance (miles)":2816
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"GRU",
+        "Flight Distance (miles)":2688
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"GUA",
+        "Flight Distance (miles)":1306
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"GYE",
+        "Flight Distance (miles)":616
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"IAD",
+        "Flight Distance (miles)":2366
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"IBE",
+        "Flight Distance (miles)":71
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"IPI",
+        "Flight Distance (miles)":359
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"JFK",
+        "Flight Distance (miles)":2473
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"LET",
+        "Flight Distance (miles)":677
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"LHR",
+        "Flight Distance (miles)":5264
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"LIM",
+        "Flight Distance (miles)":1167
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"LPB",
+        "Flight Distance (miles)":1514
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"MAD",
+        "Flight Distance (miles)":4991
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"MAO",
+        "Flight Distance (miles)":1109
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"MCO",
+        "Flight Distance (miles)":1698
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"MDE",
+        "Flight Distance (miles)":134
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"MEX",
+        "Flight Distance (miles)":1962
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"MIA",
+        "Flight Distance (miles)":1506
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"MTR",
+        "Flight Distance (miles)":306
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"MVD",
+        "Flight Distance (miles)":2964
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"NVA",
+        "Flight Distance (miles)":144
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"ORD",
+        "Flight Distance (miles)":2703
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"PEI",
+        "Flight Distance (miles)":111
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"PPN",
+        "Flight Distance (miles)":230
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"PSO",
+        "Flight Distance (miles)":315
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":469
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"PUJ",
+        "Flight Distance (miles)":1030
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"RCH",
+        "Flight Distance (miles)":476
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"SAL",
+        "Flight Distance (miles)":1182
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"SCL",
+        "Flight Distance (miles)":2629
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"SDQ",
+        "Flight Distance (miles)":991
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"SJO",
+        "Flight Distance (miles)":780
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"SJU",
+        "Flight Distance (miles)":1093
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"SMR",
+        "Flight Distance (miles)":441
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"TQO",
+        "Flight Distance (miles)":1400
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"UIB",
+        "Flight Distance (miles)":185
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"UIO",
+        "Flight Distance (miles)":441
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"VUP",
+        "Flight Distance (miles)":399
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"VVC",
+        "Flight Distance (miles)":52
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"VVI",
+        "Flight Distance (miles)":1710
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"XPL",
+        "Flight Distance (miles)":1134
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"YUL",
+        "Flight Distance (miles)":2807
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"YYZ",
+        "Flight Distance (miles)":2704
+    },
+    {
+        "Departure IATA":"BOS",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":2599
+    },
+    {
+        "Departure IATA":"BOS",
+        "Arrival IATA":"SAL",
+        "Flight Distance (miles)":2266
+    },
+    {
+        "Departure IATA":"CCS",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":636
+    },
+    {
+        "Departure IATA":"CDG",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":5372
+    },
+    {
+        "Departure IATA":"CLO",
+        "Arrival IATA":"ADZ",
+        "Flight Distance (miles)":720
+    },
+    {
+        "Departure IATA":"CLO",
+        "Arrival IATA":"BAQ",
+        "Flight Distance (miles)":517
+    },
+    {
+        "Departure IATA":"CLO",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":174
+    },
+    {
+        "Departure IATA":"CLO",
+        "Arrival IATA":"CTG",
+        "Flight Distance (miles)":478
+    },
+    {
+        "Departure IATA":"CLO",
+        "Arrival IATA":"JFK",
+        "Flight Distance (miles)":2558
+    },
+    {
+        "Departure IATA":"CLO",
+        "Arrival IATA":"MAD",
+        "Flight Distance (miles)":5160
+    },
+    {
+        "Departure IATA":"CLO",
+        "Arrival IATA":"MDE",
+        "Flight Distance (miles)":192
+    },
+    {
+        "Departure IATA":"CLO",
+        "Arrival IATA":"MIA",
+        "Flight Distance (miles)":1552
+    },
+    {
+        "Departure IATA":"CLO",
+        "Arrival IATA":"PSO",
+        "Flight Distance (miles)":160
+    },
+    {
+        "Departure IATA":"CLO",
+        "Arrival IATA":"SMR",
+        "Flight Distance (miles)":541
+    },
+    {
+        "Departure IATA":"CTG",
+        "Arrival IATA":"BGA",
+        "Flight Distance (miles)":278
+    },
+    {
+        "Departure IATA":"CTG",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":406
+    },
+    {
+        "Departure IATA":"CTG",
+        "Arrival IATA":"CLO",
+        "Flight Distance (miles)":478
+    },
+    {
+        "Departure IATA":"CTG",
+        "Arrival IATA":"JFK",
+        "Flight Distance (miles)":2082
+    },
+    {
+        "Departure IATA":"CTG",
+        "Arrival IATA":"MDE",
+        "Flight Distance (miles)":294
+    },
+    {
+        "Departure IATA":"CTG",
+        "Arrival IATA":"MIA",
+        "Flight Distance (miles)":1101
+    },
+    {
+        "Departure IATA":"CTG",
+        "Arrival IATA":"PEI",
+        "Flight Distance (miles)":387
+    },
+    {
+        "Departure IATA":"CTG",
+        "Arrival IATA":"SJO",
+        "Flight Distance (miles)":593
+    },
+    {
+        "Departure IATA":"CUC",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":248
+    },
+    {
+        "Departure IATA":"CUC",
+        "Arrival IATA":"MDE",
+        "Flight Distance (miles)":234
+    },
+    {
+        "Departure IATA":"CUE",
+        "Arrival IATA":"UIO",
+        "Flight Distance (miles)":196
+    },
+    {
+        "Departure IATA":"CUN",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":1412
+    },
+    {
+        "Departure IATA":"CUN",
+        "Arrival IATA":"GUA",
+        "Flight Distance (miles)":505
+    },
+    {
+        "Departure IATA":"CUN",
+        "Arrival IATA":"MDE",
+        "Flight Distance (miles)":1279
+    },
+    {
+        "Departure IATA":"CUN",
+        "Arrival IATA":"SAL",
+        "Flight Distance (miles)":542
+    },
+    {
+        "Departure IATA":"CUR",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":625
+    },
+    {
+        "Departure IATA":"CUZ",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":1262
+    },
+    {
+        "Departure IATA":"CUZ",
+        "Arrival IATA":"LPB",
+        "Flight Distance (miles)":323
+    },
+    {
+        "Departure IATA":"DFW",
+        "Arrival IATA":"SAL",
+        "Flight Distance (miles)":1431
+    },
+    {
+        "Departure IATA":"EJA",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":161
+    },
+    {
+        "Departure IATA":"EYP",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":128
+    },
+    {
+        "Departure IATA":"EZE",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":2902
+    },
+    {
+        "Departure IATA":"EZE",
+        "Arrival IATA":"GYE",
+        "Flight Distance (miles)":2634
+    },
+    {
+        "Departure IATA":"EZE",
+        "Arrival IATA":"MDE",
+        "Flight Distance (miles)":3027
+    },
+    {
+        "Departure IATA":"EZE",
+        "Arrival IATA":"UIO",
+        "Flight Distance (miles)":2710
+    },
+    {
+        "Departure IATA":"FLL",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":1522
+    },
+    {
+        "Departure IATA":"FRS",
+        "Arrival IATA":"GUA",
+        "Flight Distance (miles)":166
+    },
+    {
+        "Departure IATA":"GEO",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":1100
+    },
+    {
+        "Departure IATA":"GIG",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":2816
+    },
+    {
+        "Departure IATA":"GPS",
+        "Arrival IATA":"GYE",
+        "Flight Distance (miles)":727
+    },
+    {
+        "Departure IATA":"GPS",
+        "Arrival IATA":"UIO",
+        "Flight Distance (miles)":824
+    },
+    {
+        "Departure IATA":"GRU",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":2688
+    },
+    {
+        "Departure IATA":"GRU",
+        "Arrival IATA":"MDE",
+        "Flight Distance (miles)":2822
+    },
+    {
+        "Departure IATA":"GUA",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":1306
+    },
+    {
+        "Departure IATA":"GUA",
+        "Arrival IATA":"CUN",
+        "Flight Distance (miles)":505
+    },
+    {
+        "Departure IATA":"GUA",
+        "Arrival IATA":"FRS",
+        "Flight Distance (miles)":166
+    },
+    {
+        "Departure IATA":"GUA",
+        "Arrival IATA":"IAD",
+        "Flight Distance (miles)":1857
+    },
+    {
+        "Departure IATA":"GUA",
+        "Arrival IATA":"JFK",
+        "Flight Distance (miles)":2059
+    },
+    {
+        "Departure IATA":"GUA",
+        "Arrival IATA":"LAX",
+        "Flight Distance (miles)":2194
+    },
+    {
+        "Departure IATA":"GUA",
+        "Arrival IATA":"ORD",
+        "Flight Distance (miles)":1893
+    },
+    {
+        "Departure IATA":"GUA",
+        "Arrival IATA":"SAL",
+        "Flight Distance (miles)":126
+    },
+    {
+        "Departure IATA":"GUA",
+        "Arrival IATA":"SJO",
+        "Flight Distance (miles)":531
+    },
+    {
+        "Departure IATA":"GYE",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":616
+    },
+    {
+        "Departure IATA":"GYE",
+        "Arrival IATA":"EZE",
+        "Flight Distance (miles)":2634
+    },
+    {
+        "Departure IATA":"GYE",
+        "Arrival IATA":"GPS",
+        "Flight Distance (miles)":727
+    },
+    {
+        "Departure IATA":"GYE",
+        "Arrival IATA":"JFK",
+        "Flight Distance (miles)":2970
+    },
+    {
+        "Departure IATA":"GYE",
+        "Arrival IATA":"SAL",
+        "Flight Distance (miles)":1243
+    },
+    {
+        "Departure IATA":"GYE",
+        "Arrival IATA":"SCY",
+        "Flight Distance (miles)":678
+    },
+    {
+        "Departure IATA":"GYE",
+        "Arrival IATA":"SJO",
+        "Flight Distance (miles)":887
+    },
+    {
+        "Departure IATA":"GYE",
+        "Arrival IATA":"UIO",
+        "Flight Distance (miles)":176
+    },
+    {
+        "Departure IATA":"IAD",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":2366
+    },
+    {
+        "Departure IATA":"IAD",
+        "Arrival IATA":"GUA",
+        "Flight Distance (miles)":1857
+    },
+    {
+        "Departure IATA":"IAD",
+        "Arrival IATA":"SAL",
+        "Flight Distance (miles)":1894
+    },
+    {
+        "Departure IATA":"IAD",
+        "Arrival IATA":"SJO",
+        "Flight Distance (miles)":2036
+    },
+    {
+        "Departure IATA":"IAH",
+        "Arrival IATA":"SAL",
+        "Flight Distance (miles)":1207
+    },
+    {
+        "Departure IATA":"IBE",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":71
+    },
+    {
+        "Departure IATA":"IPI",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":359
+    },
+    {
+        "Departure IATA":"JFK",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":2473
+    },
+    {
+        "Departure IATA":"JFK",
+        "Arrival IATA":"CLO",
+        "Flight Distance (miles)":2558
+    },
+    {
+        "Departure IATA":"JFK",
+        "Arrival IATA":"CTG",
+        "Flight Distance (miles)":2082
+    },
+    {
+        "Departure IATA":"JFK",
+        "Arrival IATA":"GUA",
+        "Flight Distance (miles)":2059
+    },
+    {
+        "Departure IATA":"JFK",
+        "Arrival IATA":"GYE",
+        "Flight Distance (miles)":2970
+    },
+    {
+        "Departure IATA":"JFK",
+        "Arrival IATA":"MDE",
+        "Flight Distance (miles)":2375
+    },
+    {
+        "Departure IATA":"JFK",
+        "Arrival IATA":"PEI",
+        "Flight Distance (miles)":2469
+    },
+    {
+        "Departure IATA":"JFK",
+        "Arrival IATA":"SAL",
+        "Flight Distance (miles)":2089
+    },
+    {
+        "Departure IATA":"JFK",
+        "Arrival IATA":"SAP",
+        "Flight Distance (miles)":1932
+    },
+    {
+        "Departure IATA":"JFK",
+        "Arrival IATA":"UIO",
+        "Flight Distance (miles)":2819
+    },
+    {
+        "Departure IATA":"LAS",
+        "Arrival IATA":"SAL",
+        "Flight Distance (miles)":2248
+    },
+    {
+        "Departure IATA":"LAX",
+        "Arrival IATA":"GUA",
+        "Flight Distance (miles)":2194
+    },
+    {
+        "Departure IATA":"LAX",
+        "Arrival IATA":"SAL",
+        "Flight Distance (miles)":2319
+    },
+    {
+        "Departure IATA":"LET",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":677
+    },
+    {
+        "Departure IATA":"LHR",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":5264
+    },
+    {
+        "Departure IATA":"LIM",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":1167
+    },
+    {
+        "Departure IATA":"LIM",
+        "Arrival IATA":"MDE",
+        "Flight Distance (miles)":1255
+    },
+    {
+        "Departure IATA":"LIM",
+        "Arrival IATA":"SAL",
+        "Flight Distance (miles)":1932
+    },
+    {
+        "Departure IATA":"LPB",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":1514
+    },
+    {
+        "Departure IATA":"LPB",
+        "Arrival IATA":"CUZ",
+        "Flight Distance (miles)":323
+    },
+    {
+        "Departure IATA":"MAD",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":4991
+    },
+    {
+        "Departure IATA":"MAD",
+        "Arrival IATA":"CLO",
+        "Flight Distance (miles)":5160
+    },
+    {
+        "Departure IATA":"MAD",
+        "Arrival IATA":"MDE",
+        "Flight Distance (miles)":4993
+    },
+    {
+        "Departure IATA":"MAO",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":1109
+    },
+    {
+        "Departure IATA":"MCO",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":1698
+    },
+    {
+        "Departure IATA":"MCO",
+        "Arrival IATA":"MDE",
+        "Flight Distance (miles)":1579
+    },
+    {
+        "Departure IATA":"MCO",
+        "Arrival IATA":"SAL",
+        "Flight Distance (miles)":1145
+    },
+    {
+        "Departure IATA":"MDE",
+        "Arrival IATA":"ADZ",
+        "Flight Distance (miles)":615
+    },
+    {
+        "Departure IATA":"MDE",
+        "Arrival IATA":"AUA",
+        "Flight Distance (miles)":571
+    },
+    {
+        "Departure IATA":"MDE",
+        "Arrival IATA":"AXM",
+        "Flight Distance (miles)":120
+    },
+    {
+        "Departure IATA":"MDE",
+        "Arrival IATA":"BAQ",
+        "Flight Distance (miles)":328
+    },
+    {
+        "Departure IATA":"MDE",
+        "Arrival IATA":"BGA",
+        "Flight Distance (miles)":167
+    },
+    {
+        "Departure IATA":"MDE",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":134
+    },
+    {
+        "Departure IATA":"MDE",
+        "Arrival IATA":"CLO",
+        "Flight Distance (miles)":192
+    },
+    {
+        "Departure IATA":"MDE",
+        "Arrival IATA":"CTG",
+        "Flight Distance (miles)":294
+    },
+    {
+        "Departure IATA":"MDE",
+        "Arrival IATA":"CUC",
+        "Flight Distance (miles)":234
+    },
+    {
+        "Departure IATA":"MDE",
+        "Arrival IATA":"CUN",
+        "Flight Distance (miles)":1279
+    },
+    {
+        "Departure IATA":"MDE",
+        "Arrival IATA":"EZE",
+        "Flight Distance (miles)":3027
+    },
+    {
+        "Departure IATA":"MDE",
+        "Arrival IATA":"GRU",
+        "Flight Distance (miles)":2822
+    },
+    {
+        "Departure IATA":"MDE",
+        "Arrival IATA":"JFK",
+        "Flight Distance (miles)":2375
+    },
+    {
+        "Departure IATA":"MDE",
+        "Arrival IATA":"LIM",
+        "Flight Distance (miles)":1255
+    },
+    {
+        "Departure IATA":"MDE",
+        "Arrival IATA":"MAD",
+        "Flight Distance (miles)":4993
+    },
+    {
+        "Departure IATA":"MDE",
+        "Arrival IATA":"MCO",
+        "Flight Distance (miles)":1579
+    },
+    {
+        "Departure IATA":"MDE",
+        "Arrival IATA":"MEX",
+        "Flight Distance (miles)":1834
+    },
+    {
+        "Departure IATA":"MDE",
+        "Arrival IATA":"MIA",
+        "Flight Distance (miles)":1388
+    },
+    {
+        "Departure IATA":"MDE",
+        "Arrival IATA":"MTR",
+        "Flight Distance (miles)":185
+    },
+    {
+        "Departure IATA":"MDE",
+        "Arrival IATA":"PEI",
+        "Flight Distance (miles)":95
+    },
+    {
+        "Departure IATA":"MDE",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":337
+    },
+    {
+        "Departure IATA":"MDE",
+        "Arrival IATA":"PUJ",
+        "Flight Distance (miles)":976
+    },
+    {
+        "Departure IATA":"MDE",
+        "Arrival IATA":"RCH",
+        "Flight Distance (miles)":406
+    },
+    {
+        "Departure IATA":"MDE",
+        "Arrival IATA":"SAL",
+        "Flight Distance (miles)":1055
+    },
+    {
+        "Departure IATA":"MDE",
+        "Arrival IATA":"SCL",
+        "Flight Distance (miles)":2737
+    },
+    {
+        "Departure IATA":"MDE",
+        "Arrival IATA":"SJO",
+        "Flight Distance (miles)":657
+    },
+    {
+        "Departure IATA":"MDE",
+        "Arrival IATA":"SJU",
+        "Flight Distance (miles)":1056
+    },
+    {
+        "Departure IATA":"MDE",
+        "Arrival IATA":"SMR",
+        "Flight Distance (miles)":350
+    },
+    {
+        "Departure IATA":"MDE",
+        "Arrival IATA":"UIO",
+        "Flight Distance (miles)":477
+    },
+    {
+        "Departure IATA":"MEC",
+        "Arrival IATA":"UIO",
+        "Flight Distance (miles)":170
+    },
+    {
+        "Departure IATA":"MEX",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":1962
+    },
+    {
+        "Departure IATA":"MEX",
+        "Arrival IATA":"MDE",
+        "Flight Distance (miles)":1834
+    },
+    {
+        "Departure IATA":"MEX",
+        "Arrival IATA":"SAL",
+        "Flight Distance (miles)":782
+    },
+    {
+        "Departure IATA":"MEX",
+        "Arrival IATA":"SJO",
+        "Flight Distance (miles)":1186
+    },
+    {
+        "Departure IATA":"MGA",
+        "Arrival IATA":"MIA",
+        "Flight Distance (miles)":1014
+    },
+    {
+        "Departure IATA":"MGA",
+        "Arrival IATA":"SAL",
+        "Flight Distance (miles)":214
+    },
+    {
+        "Departure IATA":"MIA",
+        "Arrival IATA":"BAQ",
+        "Flight Distance (miles)":1087
+    },
+    {
+        "Departure IATA":"MIA",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":1506
+    },
+    {
+        "Departure IATA":"MIA",
+        "Arrival IATA":"CLO",
+        "Flight Distance (miles)":1552
+    },
+    {
+        "Departure IATA":"MIA",
+        "Arrival IATA":"CTG",
+        "Flight Distance (miles)":1101
+    },
+    {
+        "Departure IATA":"MIA",
+        "Arrival IATA":"MDE",
+        "Flight Distance (miles)":1388
+    },
+    {
+        "Departure IATA":"MIA",
+        "Arrival IATA":"MGA",
+        "Flight Distance (miles)":1014
+    },
+    {
+        "Departure IATA":"MIA",
+        "Arrival IATA":"SAL",
+        "Flight Distance (miles)":1023
+    },
+    {
+        "Departure IATA":"MNZ",
+        "Arrival IATA":"MNZ",
+        "Flight Distance (miles)":0
+    },
+    {
+        "Departure IATA":"MTR",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":306
+    },
+    {
+        "Departure IATA":"MTR",
+        "Arrival IATA":"MDE",
+        "Flight Distance (miles)":185
+    },
+    {
+        "Departure IATA":"MVD",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":2964
+    },
+    {
+        "Departure IATA":"NVA",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":144
+    },
+    {
+        "Departure IATA":"ONT",
+        "Arrival IATA":"SAL",
+        "Flight Distance (miles)":2284
+    },
+    {
+        "Departure IATA":"ORD",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":2703
+    },
+    {
+        "Departure IATA":"ORD",
+        "Arrival IATA":"GUA",
+        "Flight Distance (miles)":1893
+    },
+    {
+        "Departure IATA":"PEI",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":111
+    },
+    {
+        "Departure IATA":"PEI",
+        "Arrival IATA":"CTG",
+        "Flight Distance (miles)":387
+    },
+    {
+        "Departure IATA":"PEI",
+        "Arrival IATA":"JFK",
+        "Flight Distance (miles)":2469
+    },
+    {
+        "Departure IATA":"PEI",
+        "Arrival IATA":"MDE",
+        "Flight Distance (miles)":95
+    },
+    {
+        "Departure IATA":"PPN",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":230
+    },
+    {
+        "Departure IATA":"PSO",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":315
+    },
+    {
+        "Departure IATA":"PSO",
+        "Arrival IATA":"CLO",
+        "Flight Distance (miles)":160
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":469
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"MDE",
+        "Flight Distance (miles)":337
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"SAL",
+        "Flight Distance (miles)":722
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"SJO",
+        "Flight Distance (miles)":335
+    },
+    {
+        "Departure IATA":"PUJ",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":1030
+    },
+    {
+        "Departure IATA":"PUJ",
+        "Arrival IATA":"MDE",
+        "Flight Distance (miles)":976
+    },
+    {
+        "Departure IATA":"PUJ",
+        "Arrival IATA":"UIO",
+        "Flight Distance (miles)":1453
+    },
+    {
+        "Departure IATA":"RCH",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":476
+    },
+    {
+        "Departure IATA":"RCH",
+        "Arrival IATA":"MDE",
+        "Flight Distance (miles)":406
+    },
+    {
+        "Departure IATA":"SAL",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":1182
+    },
+    {
+        "Departure IATA":"SAL",
+        "Arrival IATA":"BOS",
+        "Flight Distance (miles)":2266
+    },
+    {
+        "Departure IATA":"SAL",
+        "Arrival IATA":"CUN",
+        "Flight Distance (miles)":542
+    },
+    {
+        "Departure IATA":"SAL",
+        "Arrival IATA":"DFW",
+        "Flight Distance (miles)":1431
+    },
+    {
+        "Departure IATA":"SAL",
+        "Arrival IATA":"GUA",
+        "Flight Distance (miles)":126
+    },
+    {
+        "Departure IATA":"SAL",
+        "Arrival IATA":"GYE",
+        "Flight Distance (miles)":1243
+    },
+    {
+        "Departure IATA":"SAL",
+        "Arrival IATA":"IAD",
+        "Flight Distance (miles)":1894
+    },
+    {
+        "Departure IATA":"SAL",
+        "Arrival IATA":"IAH",
+        "Flight Distance (miles)":1207
+    },
+    {
+        "Departure IATA":"SAL",
+        "Arrival IATA":"JFK",
+        "Flight Distance (miles)":2089
+    },
+    {
+        "Departure IATA":"SAL",
+        "Arrival IATA":"LAS",
+        "Flight Distance (miles)":2248
+    },
+    {
+        "Departure IATA":"SAL",
+        "Arrival IATA":"LAX",
+        "Flight Distance (miles)":2319
+    },
+    {
+        "Departure IATA":"SAL",
+        "Arrival IATA":"LIM",
+        "Flight Distance (miles)":1932
+    },
+    {
+        "Departure IATA":"SAL",
+        "Arrival IATA":"MCO",
+        "Flight Distance (miles)":1145
+    },
+    {
+        "Departure IATA":"SAL",
+        "Arrival IATA":"MDE",
+        "Flight Distance (miles)":1055
+    },
+    {
+        "Departure IATA":"SAL",
+        "Arrival IATA":"MEX",
+        "Flight Distance (miles)":782
+    },
+    {
+        "Departure IATA":"SAL",
+        "Arrival IATA":"MGA",
+        "Flight Distance (miles)":214
+    },
+    {
+        "Departure IATA":"SAL",
+        "Arrival IATA":"MIA",
+        "Flight Distance (miles)":1023
+    },
+    {
+        "Departure IATA":"SAL",
+        "Arrival IATA":"ONT",
+        "Flight Distance (miles)":2284
+    },
+    {
+        "Departure IATA":"SAL",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":722
+    },
+    {
+        "Departure IATA":"SAL",
+        "Arrival IATA":"SAP",
+        "Flight Distance (miles)":158
+    },
+    {
+        "Departure IATA":"SAL",
+        "Arrival IATA":"SFO",
+        "Flight Distance (miles)":2640
+    },
+    {
+        "Departure IATA":"SAL",
+        "Arrival IATA":"SJO",
+        "Flight Distance (miles)":405
+    },
+    {
+        "Departure IATA":"SAL",
+        "Arrival IATA":"UIO",
+        "Flight Distance (miles)":1185
+    },
+    {
+        "Departure IATA":"SAL",
+        "Arrival IATA":"XPL",
+        "Flight Distance (miles)":116
+    },
+    {
+        "Departure IATA":"SAL",
+        "Arrival IATA":"YUL",
+        "Flight Distance (miles)":2382
+    },
+    {
+        "Departure IATA":"SAL",
+        "Arrival IATA":"YYZ",
+        "Flight Distance (miles)":2157
+    },
+    {
+        "Departure IATA":"SAP",
+        "Arrival IATA":"JFK",
+        "Flight Distance (miles)":1932
+    },
+    {
+        "Departure IATA":"SAP",
+        "Arrival IATA":"SAL",
+        "Flight Distance (miles)":158
+    },
+    {
+        "Departure IATA":"SAP",
+        "Arrival IATA":"SJO",
+        "Flight Distance (miles)":451
+    },
+    {
+        "Departure IATA":"SCL",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":2629
+    },
+    {
+        "Departure IATA":"SCL",
+        "Arrival IATA":"MDE",
+        "Flight Distance (miles)":2737
+    },
+    {
+        "Departure IATA":"SCY",
+        "Arrival IATA":"GYE",
+        "Flight Distance (miles)":678
+    },
+    {
+        "Departure IATA":"SDQ",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":991
+    },
+    {
+        "Departure IATA":"SFO",
+        "Arrival IATA":"SAL",
+        "Flight Distance (miles)":2640
+    },
+    {
+        "Departure IATA":"SJO",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":780
+    },
+    {
+        "Departure IATA":"SJO",
+        "Arrival IATA":"CTG",
+        "Flight Distance (miles)":593
+    },
+    {
+        "Departure IATA":"SJO",
+        "Arrival IATA":"GUA",
+        "Flight Distance (miles)":531
+    },
+    {
+        "Departure IATA":"SJO",
+        "Arrival IATA":"GYE",
+        "Flight Distance (miles)":887
+    },
+    {
+        "Departure IATA":"SJO",
+        "Arrival IATA":"IAD",
+        "Flight Distance (miles)":2036
+    },
+    {
+        "Departure IATA":"SJO",
+        "Arrival IATA":"MDE",
+        "Flight Distance (miles)":657
+    },
+    {
+        "Departure IATA":"SJO",
+        "Arrival IATA":"MEX",
+        "Flight Distance (miles)":1186
+    },
+    {
+        "Departure IATA":"SJO",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":335
+    },
+    {
+        "Departure IATA":"SJO",
+        "Arrival IATA":"SAL",
+        "Flight Distance (miles)":405
+    },
+    {
+        "Departure IATA":"SJO",
+        "Arrival IATA":"SAP",
+        "Flight Distance (miles)":451
+    },
+    {
+        "Departure IATA":"SJO",
+        "Arrival IATA":"UIO",
+        "Flight Distance (miles)":803
+    },
+    {
+        "Departure IATA":"SJU",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":1093
+    },
+    {
+        "Departure IATA":"SJU",
+        "Arrival IATA":"MDE",
+        "Flight Distance (miles)":1056
+    },
+    {
+        "Departure IATA":"SMR",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":441
+    },
+    {
+        "Departure IATA":"SMR",
+        "Arrival IATA":"CLO",
+        "Flight Distance (miles)":541
+    },
+    {
+        "Departure IATA":"SMR",
+        "Arrival IATA":"MDE",
+        "Flight Distance (miles)":350
+    },
+    {
+        "Departure IATA":"TQO",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":1400
+    },
+    {
+        "Departure IATA":"UIB",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":185
+    },
+    {
+        "Departure IATA":"UIO",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":441
+    },
+    {
+        "Departure IATA":"UIO",
+        "Arrival IATA":"CUE",
+        "Flight Distance (miles)":196
+    },
+    {
+        "Departure IATA":"UIO",
+        "Arrival IATA":"EZE",
+        "Flight Distance (miles)":2710
+    },
+    {
+        "Departure IATA":"UIO",
+        "Arrival IATA":"GPS",
+        "Flight Distance (miles)":824
+    },
+    {
+        "Departure IATA":"UIO",
+        "Arrival IATA":"GYE",
+        "Flight Distance (miles)":176
+    },
+    {
+        "Departure IATA":"UIO",
+        "Arrival IATA":"JFK",
+        "Flight Distance (miles)":2819
+    },
+    {
+        "Departure IATA":"UIO",
+        "Arrival IATA":"MDE",
+        "Flight Distance (miles)":477
+    },
+    {
+        "Departure IATA":"UIO",
+        "Arrival IATA":"MEC",
+        "Flight Distance (miles)":170
+    },
+    {
+        "Departure IATA":"UIO",
+        "Arrival IATA":"PUJ",
+        "Flight Distance (miles)":1453
+    },
+    {
+        "Departure IATA":"UIO",
+        "Arrival IATA":"SAL",
+        "Flight Distance (miles)":1185
+    },
+    {
+        "Departure IATA":"UIO",
+        "Arrival IATA":"SJO",
+        "Flight Distance (miles)":803
+    },
+    {
+        "Departure IATA":"VUP",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":399
+    },
+    {
+        "Departure IATA":"VVC",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":52
+    },
+    {
+        "Departure IATA":"VVI",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":1710
+    },
+    {
+        "Departure IATA":"XPL",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":1134
+    },
+    {
+        "Departure IATA":"XPL",
+        "Arrival IATA":"SAL",
+        "Flight Distance (miles)":116
+    },
+    {
+        "Departure IATA":"YUL",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":2807
+    },
+    {
+        "Departure IATA":"YUL",
+        "Arrival IATA":"SAL",
+        "Flight Distance (miles)":2382
+    },
+    {
+        "Departure IATA":"YYZ",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":2704
+    },
+    {
+        "Departure IATA":"YYZ",
+        "Arrival IATA":"SAL",
+        "Flight Distance (miles)":2157
+    }
+]

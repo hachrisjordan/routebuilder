@@ -1,0 +1,2432 @@
+[
+    {
+        "Departure IATA":"BAV",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":1255
+    },
+    {
+        "Departure IATA":"BCN",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":6240
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":1056
+    },
+    {
+        "Departure IATA":"BKK",
+        "Arrival IATA":"YCU",
+        "Flight Distance (miles)":1609
+    },
+    {
+        "Departure IATA":"BZX",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":766
+    },
+    {
+        "Departure IATA":"CAN",
+        "Arrival IATA":"CGO",
+        "Flight Distance (miles)":767
+    },
+    {
+        "Departure IATA":"CAN",
+        "Arrival IATA":"CZX",
+        "Flight Distance (miles)":709
+    },
+    {
+        "Departure IATA":"CAN",
+        "Arrival IATA":"HAK",
+        "Flight Distance (miles)":300
+    },
+    {
+        "Departure IATA":"CAN",
+        "Arrival IATA":"HAN",
+        "Flight Distance (miles)":502
+    },
+    {
+        "Departure IATA":"CAN",
+        "Arrival IATA":"HFE",
+        "Flight Distance (miles)":633
+    },
+    {
+        "Departure IATA":"CAN",
+        "Arrival IATA":"HGH",
+        "Flight Distance (miles)":645
+    },
+    {
+        "Departure IATA":"CAN",
+        "Arrival IATA":"HRB",
+        "Flight Distance (miles)":1696
+    },
+    {
+        "Departure IATA":"CAN",
+        "Arrival IATA":"HYN",
+        "Flight Distance (miles)":618
+    },
+    {
+        "Departure IATA":"CAN",
+        "Arrival IATA":"JDZ",
+        "Flight Distance (miles)":475
+    },
+    {
+        "Departure IATA":"CAN",
+        "Arrival IATA":"JJN",
+        "Flight Distance (miles)":348
+    },
+    {
+        "Departure IATA":"CAN",
+        "Arrival IATA":"LYI",
+        "Flight Distance (miles)":860
+    },
+    {
+        "Departure IATA":"CAN",
+        "Arrival IATA":"NKG",
+        "Flight Distance (miles)":668
+    },
+    {
+        "Departure IATA":"CAN",
+        "Arrival IATA":"NTG",
+        "Flight Distance (miles)":760
+    },
+    {
+        "Departure IATA":"CAN",
+        "Arrival IATA":"PEK",
+        "Flight Distance (miles)":1166
+    },
+    {
+        "Departure IATA":"CAN",
+        "Arrival IATA":"PVG",
+        "Flight Distance (miles)":747
+    },
+    {
+        "Departure IATA":"CAN",
+        "Arrival IATA":"TAO",
+        "Flight Distance (miles)":982
+    },
+    {
+        "Departure IATA":"CAN",
+        "Arrival IATA":"TFU",
+        "Flight Distance (miles)":725
+    },
+    {
+        "Departure IATA":"CAN",
+        "Arrival IATA":"TNA",
+        "Flight Distance (miles)":956
+    },
+    {
+        "Departure IATA":"CAN",
+        "Arrival IATA":"WNZ",
+        "Flight Distance (miles)":564
+    },
+    {
+        "Departure IATA":"CAN",
+        "Arrival IATA":"WUX",
+        "Flight Distance (miles)":709
+    },
+    {
+        "Departure IATA":"CAN",
+        "Arrival IATA":"XIY",
+        "Flight Distance (miles)":809
+    },
+    {
+        "Departure IATA":"CAN",
+        "Arrival IATA":"YNT",
+        "Flight Distance (miles)":1083
+    },
+    {
+        "Departure IATA":"CAN",
+        "Arrival IATA":"YTY",
+        "Flight Distance (miles)":743
+    },
+    {
+        "Departure IATA":"CGO",
+        "Arrival IATA":"CAN",
+        "Flight Distance (miles)":767
+    },
+    {
+        "Departure IATA":"CGO",
+        "Arrival IATA":"DLC",
+        "Flight Distance (miles)":525
+    },
+    {
+        "Departure IATA":"CGO",
+        "Arrival IATA":"FOC",
+        "Flight Distance (miles)":686
+    },
+    {
+        "Departure IATA":"CGO",
+        "Arrival IATA":"HAK",
+        "Flight Distance (miles)":1025
+    },
+    {
+        "Departure IATA":"CGO",
+        "Arrival IATA":"HSN",
+        "Flight Distance (miles)":590
+    },
+    {
+        "Departure IATA":"CGO",
+        "Arrival IATA":"HUZ",
+        "Flight Distance (miles)":791
+    },
+    {
+        "Departure IATA":"CGO",
+        "Arrival IATA":"INC",
+        "Flight Distance (miles)":491
+    },
+    {
+        "Departure IATA":"CGO",
+        "Arrival IATA":"JJN",
+        "Flight Distance (miles)":728
+    },
+    {
+        "Departure IATA":"CGO",
+        "Arrival IATA":"NNG",
+        "Flight Distance (miles)":889
+    },
+    {
+        "Departure IATA":"CGO",
+        "Arrival IATA":"SHE",
+        "Flight Distance (miles)":719
+    },
+    {
+        "Departure IATA":"CGO",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":818
+    },
+    {
+        "Departure IATA":"CGO",
+        "Arrival IATA":"WNZ",
+        "Flight Distance (miles)":616
+    },
+    {
+        "Departure IATA":"CGQ",
+        "Arrival IATA":"HFE",
+        "Flight Distance (miles)":954
+    },
+    {
+        "Departure IATA":"CGQ",
+        "Arrival IATA":"LYI",
+        "Flight Distance (miles)":729
+    },
+    {
+        "Departure IATA":"CGQ",
+        "Arrival IATA":"NKG",
+        "Flight Distance (miles)":923
+    },
+    {
+        "Departure IATA":"CGQ",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":1621
+    },
+    {
+        "Departure IATA":"CGQ",
+        "Arrival IATA":"YTY",
+        "Flight Distance (miles)":852
+    },
+    {
+        "Departure IATA":"CKG",
+        "Arrival IATA":"KHN",
+        "Flight Distance (miles)":562
+    },
+    {
+        "Departure IATA":"CKG",
+        "Arrival IATA":"NKG",
+        "Flight Distance (miles)":740
+    },
+    {
+        "Departure IATA":"CKG",
+        "Arrival IATA":"NNG",
+        "Flight Distance (miles)":499
+    },
+    {
+        "Departure IATA":"CKG",
+        "Arrival IATA":"NTG",
+        "Flight Distance (miles)":866
+    },
+    {
+        "Departure IATA":"CKG",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":660
+    },
+    {
+        "Departure IATA":"CKG",
+        "Arrival IATA":"WUX",
+        "Flight Distance (miles)":830
+    },
+    {
+        "Departure IATA":"CSX",
+        "Arrival IATA":"NKG",
+        "Flight Distance (miles)":417
+    },
+    {
+        "Departure IATA":"CSX",
+        "Arrival IATA":"YNT",
+        "Flight Distance (miles)":792
+    },
+    {
+        "Departure IATA":"CTS",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":2119
+    },
+    {
+        "Departure IATA":"CTU",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":818
+    },
+    {
+        "Departure IATA":"CZX",
+        "Arrival IATA":"CAN",
+        "Flight Distance (miles)":709
+    },
+    {
+        "Departure IATA":"CZX",
+        "Arrival IATA":"HAK",
+        "Flight Distance (miles)":1007
+    },
+    {
+        "Departure IATA":"CZX",
+        "Arrival IATA":"HRB",
+        "Flight Distance (miles)":1007
+    },
+    {
+        "Departure IATA":"CZX",
+        "Arrival IATA":"SHE",
+        "Flight Distance (miles)":701
+    },
+    {
+        "Departure IATA":"CZX",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":737
+    },
+    {
+        "Departure IATA":"CZX",
+        "Arrival IATA":"ZUH",
+        "Flight Distance (miles)":788
+    },
+    {
+        "Departure IATA":"DLC",
+        "Arrival IATA":"CGO",
+        "Flight Distance (miles)":525
+    },
+    {
+        "Departure IATA":"DLC",
+        "Arrival IATA":"NTG",
+        "Flight Distance (miles)":476
+    },
+    {
+        "Departure IATA":"DLC",
+        "Arrival IATA":"YTY",
+        "Flight Distance (miles)":453
+    },
+    {
+        "Departure IATA":"DOH",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":3902
+    },
+    {
+        "Departure IATA":"DZH",
+        "Arrival IATA":"SHE",
+        "Flight Distance (miles)":1152
+    },
+    {
+        "Departure IATA":"FOC",
+        "Arrival IATA":"CGO",
+        "Flight Distance (miles)":686
+    },
+    {
+        "Departure IATA":"FOC",
+        "Arrival IATA":"NKG",
+        "Flight Distance (miles)":403
+    },
+    {
+        "Departure IATA":"FOC",
+        "Arrival IATA":"NNG",
+        "Flight Distance (miles)":760
+    },
+    {
+        "Departure IATA":"HAK",
+        "Arrival IATA":"CAN",
+        "Flight Distance (miles)":300
+    },
+    {
+        "Departure IATA":"HAK",
+        "Arrival IATA":"CGO",
+        "Flight Distance (miles)":1025
+    },
+    {
+        "Departure IATA":"HAK",
+        "Arrival IATA":"CZX",
+        "Flight Distance (miles)":1007
+    },
+    {
+        "Departure IATA":"HAK",
+        "Arrival IATA":"KHN",
+        "Flight Distance (miles)":704
+    },
+    {
+        "Departure IATA":"HAK",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":285
+    },
+    {
+        "Departure IATA":"HAK",
+        "Arrival IATA":"TFU",
+        "Flight Distance (miles)":808
+    },
+    {
+        "Departure IATA":"HAK",
+        "Arrival IATA":"YCU",
+        "Flight Distance (miles)":1046
+    },
+    {
+        "Departure IATA":"HAN",
+        "Arrival IATA":"CAN",
+        "Flight Distance (miles)":502
+    },
+    {
+        "Departure IATA":"HAN",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":522
+    },
+    {
+        "Departure IATA":"HET",
+        "Arrival IATA":"WUH",
+        "Flight Distance (miles)":707
+    },
+    {
+        "Departure IATA":"HFE",
+        "Arrival IATA":"CAN",
+        "Flight Distance (miles)":633
+    },
+    {
+        "Departure IATA":"HFE",
+        "Arrival IATA":"CGQ",
+        "Flight Distance (miles)":954
+    },
+    {
+        "Departure IATA":"HFE",
+        "Arrival IATA":"JJN",
+        "Flight Distance (miles)":505
+    },
+    {
+        "Departure IATA":"HFE",
+        "Arrival IATA":"KWE",
+        "Flight Distance (miles)":719
+    },
+    {
+        "Departure IATA":"HFE",
+        "Arrival IATA":"MIG",
+        "Flight Distance (miles)":721
+    },
+    {
+        "Departure IATA":"HFE",
+        "Arrival IATA":"NNG",
+        "Flight Distance (miles)":842
+    },
+    {
+        "Departure IATA":"HFE",
+        "Arrival IATA":"SHE",
+        "Flight Distance (miles)":757
+    },
+    {
+        "Departure IATA":"HFE",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":672
+    },
+    {
+        "Departure IATA":"HFE",
+        "Arrival IATA":"TFU",
+        "Flight Distance (miles)":751
+    },
+    {
+        "Departure IATA":"HFE",
+        "Arrival IATA":"TYN",
+        "Flight Distance (miles)":467
+    },
+    {
+        "Departure IATA":"HFE",
+        "Arrival IATA":"YBP",
+        "Flight Distance (miles)":773
+    },
+    {
+        "Departure IATA":"HFE",
+        "Arrival IATA":"ZUH",
+        "Flight Distance (miles)":722
+    },
+    {
+        "Departure IATA":"HGH",
+        "Arrival IATA":"CAN",
+        "Flight Distance (miles)":645
+    },
+    {
+        "Departure IATA":"HGH",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":664
+    },
+    {
+        "Departure IATA":"HGH",
+        "Arrival IATA":"YCU",
+        "Flight Distance (miles)":642
+    },
+    {
+        "Departure IATA":"HKG",
+        "Arrival IATA":"JJN",
+        "Flight Distance (miles)":342
+    },
+    {
+        "Departure IATA":"HKG",
+        "Arrival IATA":"NTG",
+        "Flight Distance (miles)":800
+    },
+    {
+        "Departure IATA":"HKG",
+        "Arrival IATA":"TFU",
+        "Flight Distance (miles)":805
+    },
+    {
+        "Departure IATA":"HKG",
+        "Arrival IATA":"WUX",
+        "Flight Distance (miles)":749
+    },
+    {
+        "Departure IATA":"HKT",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":1434
+    },
+    {
+        "Departure IATA":"HRB",
+        "Arrival IATA":"CAN",
+        "Flight Distance (miles)":1696
+    },
+    {
+        "Departure IATA":"HRB",
+        "Arrival IATA":"CZX",
+        "Flight Distance (miles)":1007
+    },
+    {
+        "Departure IATA":"HRB",
+        "Arrival IATA":"KHN",
+        "Flight Distance (miles)":1286
+    },
+    {
+        "Departure IATA":"HRB",
+        "Arrival IATA":"LYI",
+        "Flight Distance (miles)":838
+    },
+    {
+        "Departure IATA":"HRB",
+        "Arrival IATA":"NKG",
+        "Flight Distance (miles)":1036
+    },
+    {
+        "Departure IATA":"HRB",
+        "Arrival IATA":"NTG",
+        "Flight Distance (miles)":976
+    },
+    {
+        "Departure IATA":"HRB",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":1733
+    },
+    {
+        "Departure IATA":"HRB",
+        "Arrival IATA":"YCU",
+        "Flight Distance (miles)":1078
+    },
+    {
+        "Departure IATA":"HRB",
+        "Arrival IATA":"YNT",
+        "Flight Distance (miles)":613
+    },
+    {
+        "Departure IATA":"HRB",
+        "Arrival IATA":"YTY",
+        "Flight Distance (miles)":966
+    },
+    {
+        "Departure IATA":"HSN",
+        "Arrival IATA":"CGO",
+        "Flight Distance (miles)":590
+    },
+    {
+        "Departure IATA":"HSN",
+        "Arrival IATA":"JJN",
+        "Flight Distance (miles)":423
+    },
+    {
+        "Departure IATA":"HUZ",
+        "Arrival IATA":"CGO",
+        "Flight Distance (miles)":791
+    },
+    {
+        "Departure IATA":"HUZ",
+        "Arrival IATA":"NKG",
+        "Flight Distance (miles)":653
+    },
+    {
+        "Departure IATA":"HUZ",
+        "Arrival IATA":"WUH",
+        "Flight Distance (miles)":533
+    },
+    {
+        "Departure IATA":"HUZ",
+        "Arrival IATA":"WUX",
+        "Flight Distance (miles)":683
+    },
+    {
+        "Departure IATA":"HUZ",
+        "Arrival IATA":"XIY",
+        "Flight Distance (miles)":861
+    },
+    {
+        "Departure IATA":"HYN",
+        "Arrival IATA":"CAN",
+        "Flight Distance (miles)":618
+    },
+    {
+        "Departure IATA":"HYN",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":626
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":1269
+    },
+    {
+        "Departure IATA":"ICN",
+        "Arrival IATA":"WUX",
+        "Flight Distance (miles)":536
+    },
+    {
+        "Departure IATA":"INC",
+        "Arrival IATA":"CGO",
+        "Flight Distance (miles)":491
+    },
+    {
+        "Departure IATA":"INC",
+        "Arrival IATA":"NKG",
+        "Flight Distance (miles)":839
+    },
+    {
+        "Departure IATA":"INC",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":1166
+    },
+    {
+        "Departure IATA":"JDZ",
+        "Arrival IATA":"CAN",
+        "Flight Distance (miles)":475
+    },
+    {
+        "Departure IATA":"JDZ",
+        "Arrival IATA":"SHA",
+        "Flight Distance (miles)":280
+    },
+    {
+        "Departure IATA":"JDZ",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":507
+    },
+    {
+        "Departure IATA":"JHG",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":836
+    },
+    {
+        "Departure IATA":"JHG",
+        "Arrival IATA":"TFU",
+        "Flight Distance (miles)":618
+    },
+    {
+        "Departure IATA":"JJN",
+        "Arrival IATA":"CAN",
+        "Flight Distance (miles)":348
+    },
+    {
+        "Departure IATA":"JJN",
+        "Arrival IATA":"CGO",
+        "Flight Distance (miles)":728
+    },
+    {
+        "Departure IATA":"JJN",
+        "Arrival IATA":"HFE",
+        "Flight Distance (miles)":505
+    },
+    {
+        "Departure IATA":"JJN",
+        "Arrival IATA":"HKG",
+        "Flight Distance (miles)":342
+    },
+    {
+        "Departure IATA":"JJN",
+        "Arrival IATA":"HSN",
+        "Flight Distance (miles)":423
+    },
+    {
+        "Departure IATA":"JJN",
+        "Arrival IATA":"KMG",
+        "Flight Distance (miles)":982
+    },
+    {
+        "Departure IATA":"JJN",
+        "Arrival IATA":"LYG",
+        "Flight Distance (miles)":663
+    },
+    {
+        "Departure IATA":"JJN",
+        "Arrival IATA":"NKG",
+        "Flight Distance (miles)":479
+    },
+    {
+        "Departure IATA":"JJN",
+        "Arrival IATA":"NNG",
+        "Flight Distance (miles)":677
+    },
+    {
+        "Departure IATA":"JJN",
+        "Arrival IATA":"PEK",
+        "Flight Distance (miles)":1060
+    },
+    {
+        "Departure IATA":"JJN",
+        "Arrival IATA":"SHE",
+        "Flight Distance (miles)":1194
+    },
+    {
+        "Departure IATA":"JJN",
+        "Arrival IATA":"TFU",
+        "Flight Distance (miles)":947
+    },
+    {
+        "Departure IATA":"JJN",
+        "Arrival IATA":"WUH",
+        "Flight Distance (miles)":492
+    },
+    {
+        "Departure IATA":"JJN",
+        "Arrival IATA":"WUX",
+        "Flight Distance (miles)":474
+    },
+    {
+        "Departure IATA":"JJN",
+        "Arrival IATA":"XIY",
+        "Flight Distance (miles)":889
+    },
+    {
+        "Departure IATA":"JJN",
+        "Arrival IATA":"YBP",
+        "Flight Distance (miles)":910
+    },
+    {
+        "Departure IATA":"JJN",
+        "Arrival IATA":"ZHA",
+        "Flight Distance (miles)":557
+    },
+    {
+        "Departure IATA":"JUH",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":607
+    },
+    {
+        "Departure IATA":"KHN",
+        "Arrival IATA":"CKG",
+        "Flight Distance (miles)":562
+    },
+    {
+        "Departure IATA":"KHN",
+        "Arrival IATA":"HAK",
+        "Flight Distance (miles)":704
+    },
+    {
+        "Departure IATA":"KHN",
+        "Arrival IATA":"HRB",
+        "Flight Distance (miles)":1286
+    },
+    {
+        "Departure IATA":"KHN",
+        "Arrival IATA":"KMG",
+        "Flight Distance (miles)":840
+    },
+    {
+        "Departure IATA":"KHN",
+        "Arrival IATA":"LYI",
+        "Flight Distance (miles)":451
+    },
+    {
+        "Departure IATA":"KHN",
+        "Arrival IATA":"NNG",
+        "Flight Distance (miles)":646
+    },
+    {
+        "Departure IATA":"KHN",
+        "Arrival IATA":"SHE",
+        "Flight Distance (miles)":979
+    },
+    {
+        "Departure IATA":"KHN",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":448
+    },
+    {
+        "Departure IATA":"KHN",
+        "Arrival IATA":"TFU",
+        "Flight Distance (miles)":696
+    },
+    {
+        "Departure IATA":"KHN",
+        "Arrival IATA":"TSN",
+        "Flight Distance (miles)":712
+    },
+    {
+        "Departure IATA":"KIX",
+        "Arrival IATA":"NKG",
+        "Flight Distance (miles)":967
+    },
+    {
+        "Departure IATA":"KIX",
+        "Arrival IATA":"NTG",
+        "Flight Distance (miles)":841
+    },
+    {
+        "Departure IATA":"KIX",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":1531
+    },
+    {
+        "Departure IATA":"KIX",
+        "Arrival IATA":"WUX",
+        "Flight Distance (miles)":883
+    },
+    {
+        "Departure IATA":"KMG",
+        "Arrival IATA":"JJN",
+        "Flight Distance (miles)":982
+    },
+    {
+        "Departure IATA":"KMG",
+        "Arrival IATA":"KHN",
+        "Flight Distance (miles)":840
+    },
+    {
+        "Departure IATA":"KMG",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":709
+    },
+    {
+        "Departure IATA":"KMG",
+        "Arrival IATA":"YCU",
+        "Flight Distance (miles)":843
+    },
+    {
+        "Departure IATA":"KUL",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":1590
+    },
+    {
+        "Departure IATA":"KWE",
+        "Arrival IATA":"HFE",
+        "Flight Distance (miles)":719
+    },
+    {
+        "Departure IATA":"KWE",
+        "Arrival IATA":"NTG",
+        "Flight Distance (miles)":936
+    },
+    {
+        "Departure IATA":"KWE",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":516
+    },
+    {
+        "Departure IATA":"KWE",
+        "Arrival IATA":"WUX",
+        "Flight Distance (miles)":892
+    },
+    {
+        "Departure IATA":"LHR",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":5972
+    },
+    {
+        "Departure IATA":"LHW",
+        "Arrival IATA":"NKG",
+        "Flight Distance (miles)":932
+    },
+    {
+        "Departure IATA":"LHW",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":1134
+    },
+    {
+        "Departure IATA":"LHW",
+        "Arrival IATA":"TFU",
+        "Flight Distance (miles)":430
+    },
+    {
+        "Departure IATA":"LJG",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":896
+    },
+    {
+        "Departure IATA":"LJG",
+        "Arrival IATA":"TFU",
+        "Flight Distance (miles)":357
+    },
+    {
+        "Departure IATA":"LYG",
+        "Arrival IATA":"JJN",
+        "Flight Distance (miles)":663
+    },
+    {
+        "Departure IATA":"LYI",
+        "Arrival IATA":"CAN",
+        "Flight Distance (miles)":860
+    },
+    {
+        "Departure IATA":"LYI",
+        "Arrival IATA":"CGQ",
+        "Flight Distance (miles)":729
+    },
+    {
+        "Departure IATA":"LYI",
+        "Arrival IATA":"HRB",
+        "Flight Distance (miles)":838
+    },
+    {
+        "Departure IATA":"LYI",
+        "Arrival IATA":"KHN",
+        "Flight Distance (miles)":451
+    },
+    {
+        "Departure IATA":"LYI",
+        "Arrival IATA":"NGB",
+        "Flight Distance (miles)":401
+    },
+    {
+        "Departure IATA":"LYI",
+        "Arrival IATA":"SHE",
+        "Flight Distance (miles)":531
+    },
+    {
+        "Departure IATA":"LYI",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":899
+    },
+    {
+        "Departure IATA":"LYI",
+        "Arrival IATA":"WNZ",
+        "Flight Distance (miles)":512
+    },
+    {
+        "Departure IATA":"LYI",
+        "Arrival IATA":"XIY",
+        "Flight Distance (miles)":551
+    },
+    {
+        "Departure IATA":"MFM",
+        "Arrival IATA":"NKG",
+        "Flight Distance (miles)":736
+    },
+    {
+        "Departure IATA":"MFM",
+        "Arrival IATA":"NTG",
+        "Flight Distance (miles)":820
+    },
+    {
+        "Departure IATA":"MFM",
+        "Arrival IATA":"WUX",
+        "Flight Distance (miles)":769
+    },
+    {
+        "Departure IATA":"MIG",
+        "Arrival IATA":"HFE",
+        "Flight Distance (miles)":721
+    },
+    {
+        "Departure IATA":"MIG",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":823
+    },
+    {
+        "Departure IATA":"MNL",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":732
+    },
+    {
+        "Departure IATA":"NGB",
+        "Arrival IATA":"LYI",
+        "Flight Distance (miles)":401
+    },
+    {
+        "Departure IATA":"NGB",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":686
+    },
+    {
+        "Departure IATA":"NGO",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":1624
+    },
+    {
+        "Departure IATA":"NKG",
+        "Arrival IATA":"CAN",
+        "Flight Distance (miles)":668
+    },
+    {
+        "Departure IATA":"NKG",
+        "Arrival IATA":"CGQ",
+        "Flight Distance (miles)":923
+    },
+    {
+        "Departure IATA":"NKG",
+        "Arrival IATA":"CKG",
+        "Flight Distance (miles)":740
+    },
+    {
+        "Departure IATA":"NKG",
+        "Arrival IATA":"CSX",
+        "Flight Distance (miles)":417
+    },
+    {
+        "Departure IATA":"NKG",
+        "Arrival IATA":"FOC",
+        "Flight Distance (miles)":403
+    },
+    {
+        "Departure IATA":"NKG",
+        "Arrival IATA":"HRB",
+        "Flight Distance (miles)":1036
+    },
+    {
+        "Departure IATA":"NKG",
+        "Arrival IATA":"HUZ",
+        "Flight Distance (miles)":653
+    },
+    {
+        "Departure IATA":"NKG",
+        "Arrival IATA":"INC",
+        "Flight Distance (miles)":839
+    },
+    {
+        "Departure IATA":"NKG",
+        "Arrival IATA":"JJN",
+        "Flight Distance (miles)":479
+    },
+    {
+        "Departure IATA":"NKG",
+        "Arrival IATA":"KIX",
+        "Flight Distance (miles)":967
+    },
+    {
+        "Departure IATA":"NKG",
+        "Arrival IATA":"LHW",
+        "Flight Distance (miles)":932
+    },
+    {
+        "Departure IATA":"NKG",
+        "Arrival IATA":"MFM",
+        "Flight Distance (miles)":736
+    },
+    {
+        "Departure IATA":"NKG",
+        "Arrival IATA":"NNG",
+        "Flight Distance (miles)":909
+    },
+    {
+        "Departure IATA":"NKG",
+        "Arrival IATA":"SHE",
+        "Flight Distance (miles)":729
+    },
+    {
+        "Departure IATA":"NKG",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":700
+    },
+    {
+        "Departure IATA":"NKG",
+        "Arrival IATA":"TFU",
+        "Flight Distance (miles)":860
+    },
+    {
+        "Departure IATA":"NKG",
+        "Arrival IATA":"XIY",
+        "Flight Distance (miles)":615
+    },
+    {
+        "Departure IATA":"NKG",
+        "Arrival IATA":"YCU",
+        "Flight Distance (miles)":508
+    },
+    {
+        "Departure IATA":"NKG",
+        "Arrival IATA":"ZUH",
+        "Flight Distance (miles)":751
+    },
+    {
+        "Departure IATA":"NNG",
+        "Arrival IATA":"CGO",
+        "Flight Distance (miles)":889
+    },
+    {
+        "Departure IATA":"NNG",
+        "Arrival IATA":"CKG",
+        "Flight Distance (miles)":499
+    },
+    {
+        "Departure IATA":"NNG",
+        "Arrival IATA":"FOC",
+        "Flight Distance (miles)":760
+    },
+    {
+        "Departure IATA":"NNG",
+        "Arrival IATA":"HFE",
+        "Flight Distance (miles)":842
+    },
+    {
+        "Departure IATA":"NNG",
+        "Arrival IATA":"JJN",
+        "Flight Distance (miles)":677
+    },
+    {
+        "Departure IATA":"NNG",
+        "Arrival IATA":"KHN",
+        "Flight Distance (miles)":646
+    },
+    {
+        "Departure IATA":"NNG",
+        "Arrival IATA":"NKG",
+        "Flight Distance (miles)":909
+    },
+    {
+        "Departure IATA":"NNG",
+        "Arrival IATA":"NTG",
+        "Flight Distance (miles)":1020
+    },
+    {
+        "Departure IATA":"NNG",
+        "Arrival IATA":"PEK",
+        "Flight Distance (miles)":1301
+    },
+    {
+        "Departure IATA":"NNG",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":360
+    },
+    {
+        "Departure IATA":"NNG",
+        "Arrival IATA":"TFU",
+        "Flight Distance (miles)":579
+    },
+    {
+        "Departure IATA":"NNG",
+        "Arrival IATA":"WUH",
+        "Flight Distance (miles)":675
+    },
+    {
+        "Departure IATA":"NNG",
+        "Arrival IATA":"WUX",
+        "Flight Distance (miles)":971
+    },
+    {
+        "Departure IATA":"NNG",
+        "Arrival IATA":"XIY",
+        "Flight Distance (miles)":816
+    },
+    {
+        "Departure IATA":"NNG",
+        "Arrival IATA":"YCU",
+        "Flight Distance (miles)":879
+    },
+    {
+        "Departure IATA":"NRT",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":1834
+    },
+    {
+        "Departure IATA":"NTG",
+        "Arrival IATA":"CAN",
+        "Flight Distance (miles)":760
+    },
+    {
+        "Departure IATA":"NTG",
+        "Arrival IATA":"CKG",
+        "Flight Distance (miles)":866
+    },
+    {
+        "Departure IATA":"NTG",
+        "Arrival IATA":"DLC",
+        "Flight Distance (miles)":476
+    },
+    {
+        "Departure IATA":"NTG",
+        "Arrival IATA":"HKG",
+        "Flight Distance (miles)":800
+    },
+    {
+        "Departure IATA":"NTG",
+        "Arrival IATA":"HRB",
+        "Flight Distance (miles)":976
+    },
+    {
+        "Departure IATA":"NTG",
+        "Arrival IATA":"KIX",
+        "Flight Distance (miles)":841
+    },
+    {
+        "Departure IATA":"NTG",
+        "Arrival IATA":"KWE",
+        "Flight Distance (miles)":936
+    },
+    {
+        "Departure IATA":"NTG",
+        "Arrival IATA":"MFM",
+        "Flight Distance (miles)":820
+    },
+    {
+        "Departure IATA":"NTG",
+        "Arrival IATA":"NNG",
+        "Flight Distance (miles)":1020
+    },
+    {
+        "Departure IATA":"NTG",
+        "Arrival IATA":"PEK",
+        "Flight Distance (miles)":604
+    },
+    {
+        "Departure IATA":"NTG",
+        "Arrival IATA":"SHE",
+        "Flight Distance (miles)":674
+    },
+    {
+        "Departure IATA":"NTG",
+        "Arrival IATA":"SYX",
+        "Flight Distance (miles)":1191
+    },
+    {
+        "Departure IATA":"NTG",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":785
+    },
+    {
+        "Departure IATA":"NTG",
+        "Arrival IATA":"TFU",
+        "Flight Distance (miles)":985
+    },
+    {
+        "Departure IATA":"NTG",
+        "Arrival IATA":"TYN",
+        "Flight Distance (miles)":614
+    },
+    {
+        "Departure IATA":"NTG",
+        "Arrival IATA":"XIY",
+        "Flight Distance (miles)":726
+    },
+    {
+        "Departure IATA":"NTG",
+        "Arrival IATA":"XMN",
+        "Flight Distance (miles)":547
+    },
+    {
+        "Departure IATA":"NTG",
+        "Arrival IATA":"YNT",
+        "Flight Distance (miles)":385
+    },
+    {
+        "Departure IATA":"NTG",
+        "Arrival IATA":"ZUH",
+        "Flight Distance (miles)":836
+    },
+    {
+        "Departure IATA":"PEK",
+        "Arrival IATA":"CAN",
+        "Flight Distance (miles)":1166
+    },
+    {
+        "Departure IATA":"PEK",
+        "Arrival IATA":"JJN",
+        "Flight Distance (miles)":1060
+    },
+    {
+        "Departure IATA":"PEK",
+        "Arrival IATA":"NNG",
+        "Flight Distance (miles)":1301
+    },
+    {
+        "Departure IATA":"PEK",
+        "Arrival IATA":"NTG",
+        "Flight Distance (miles)":604
+    },
+    {
+        "Departure IATA":"PEK",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":1213
+    },
+    {
+        "Departure IATA":"PEK",
+        "Arrival IATA":"TFU",
+        "Flight Distance (miles)":960
+    },
+    {
+        "Departure IATA":"PEK",
+        "Arrival IATA":"WUX",
+        "Flight Distance (miles)":630
+    },
+    {
+        "Departure IATA":"PEK",
+        "Arrival IATA":"XFN",
+        "Flight Distance (miles)":597
+    },
+    {
+        "Departure IATA":"PEK",
+        "Arrival IATA":"YIC",
+        "Flight Distance (miles)":856
+    },
+    {
+        "Departure IATA":"PEN",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":1496
+    },
+    {
+        "Departure IATA":"PNH",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":965
+    },
+    {
+        "Departure IATA":"PVG",
+        "Arrival IATA":"CAN",
+        "Flight Distance (miles)":747
+    },
+    {
+        "Departure IATA":"PVG",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":765
+    },
+    {
+        "Departure IATA":"SGN",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":940
+    },
+    {
+        "Departure IATA":"SHA",
+        "Arrival IATA":"JDZ",
+        "Flight Distance (miles)":280
+    },
+    {
+        "Departure IATA":"SHA",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":750
+    },
+    {
+        "Departure IATA":"SHE",
+        "Arrival IATA":"CGO",
+        "Flight Distance (miles)":719
+    },
+    {
+        "Departure IATA":"SHE",
+        "Arrival IATA":"CZX",
+        "Flight Distance (miles)":701
+    },
+    {
+        "Departure IATA":"SHE",
+        "Arrival IATA":"DZH",
+        "Flight Distance (miles)":1152
+    },
+    {
+        "Departure IATA":"SHE",
+        "Arrival IATA":"HFE",
+        "Flight Distance (miles)":757
+    },
+    {
+        "Departure IATA":"SHE",
+        "Arrival IATA":"JJN",
+        "Flight Distance (miles)":1194
+    },
+    {
+        "Departure IATA":"SHE",
+        "Arrival IATA":"KHN",
+        "Flight Distance (miles)":979
+    },
+    {
+        "Departure IATA":"SHE",
+        "Arrival IATA":"LYI",
+        "Flight Distance (miles)":531
+    },
+    {
+        "Departure IATA":"SHE",
+        "Arrival IATA":"NKG",
+        "Flight Distance (miles)":729
+    },
+    {
+        "Departure IATA":"SHE",
+        "Arrival IATA":"NTG",
+        "Flight Distance (miles)":674
+    },
+    {
+        "Departure IATA":"SHE",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":1425
+    },
+    {
+        "Departure IATA":"SHE",
+        "Arrival IATA":"TYN",
+        "Flight Distance (miles)":637
+    },
+    {
+        "Departure IATA":"SHE",
+        "Arrival IATA":"WNZ",
+        "Flight Distance (miles)":958
+    },
+    {
+        "Departure IATA":"SHE",
+        "Arrival IATA":"WUH",
+        "Flight Distance (miles)":909
+    },
+    {
+        "Departure IATA":"SHE",
+        "Arrival IATA":"WUX",
+        "Flight Distance (miles)":720
+    },
+    {
+        "Departure IATA":"SHE",
+        "Arrival IATA":"XFN",
+        "Flight Distance (miles)":900
+    },
+    {
+        "Departure IATA":"SHE",
+        "Arrival IATA":"YNT",
+        "Flight Distance (miles)":305
+    },
+    {
+        "Departure IATA":"SHE",
+        "Arrival IATA":"YTY",
+        "Flight Distance (miles)":659
+    },
+    {
+        "Departure IATA":"SIN",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":1605
+    },
+    {
+        "Departure IATA":"SJW",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":1078
+    },
+    {
+        "Departure IATA":"SYX",
+        "Arrival IATA":"NTG",
+        "Flight Distance (miles)":1191
+    },
+    {
+        "Departure IATA":"SYX",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":412
+    },
+    {
+        "Departure IATA":"SYX",
+        "Arrival IATA":"WNZ",
+        "Flight Distance (miles)":982
+    },
+    {
+        "Departure IATA":"SYX",
+        "Arrival IATA":"YCU",
+        "Flight Distance (miles)":1162
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"BAV",
+        "Flight Distance (miles)":1255
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"BCN",
+        "Flight Distance (miles)":6240
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":1056
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"BZX",
+        "Flight Distance (miles)":766
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"CGO",
+        "Flight Distance (miles)":818
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"CGQ",
+        "Flight Distance (miles)":1621
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"CKG",
+        "Flight Distance (miles)":660
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"CTS",
+        "Flight Distance (miles)":2119
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"CTU",
+        "Flight Distance (miles)":818
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"CZX",
+        "Flight Distance (miles)":737
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"DOH",
+        "Flight Distance (miles)":3902
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"HAK",
+        "Flight Distance (miles)":285
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"HAN",
+        "Flight Distance (miles)":522
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"HFE",
+        "Flight Distance (miles)":672
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"HGH",
+        "Flight Distance (miles)":664
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"HKT",
+        "Flight Distance (miles)":1434
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"HRB",
+        "Flight Distance (miles)":1733
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"HYN",
+        "Flight Distance (miles)":626
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":1269
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"INC",
+        "Flight Distance (miles)":1166
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"JDZ",
+        "Flight Distance (miles)":507
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"JHG",
+        "Flight Distance (miles)":836
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"JUH",
+        "Flight Distance (miles)":607
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"KHN",
+        "Flight Distance (miles)":448
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"KIX",
+        "Flight Distance (miles)":1531
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"KMG",
+        "Flight Distance (miles)":709
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"KUL",
+        "Flight Distance (miles)":1590
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"KWE",
+        "Flight Distance (miles)":516
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"LHR",
+        "Flight Distance (miles)":5972
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"LHW",
+        "Flight Distance (miles)":1134
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"LJG",
+        "Flight Distance (miles)":896
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"LYI",
+        "Flight Distance (miles)":899
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"MIG",
+        "Flight Distance (miles)":823
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"MNL",
+        "Flight Distance (miles)":732
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"NGB",
+        "Flight Distance (miles)":686
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"NGO",
+        "Flight Distance (miles)":1624
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"NKG",
+        "Flight Distance (miles)":700
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"NNG",
+        "Flight Distance (miles)":360
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"NRT",
+        "Flight Distance (miles)":1834
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"NTG",
+        "Flight Distance (miles)":785
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"PEK",
+        "Flight Distance (miles)":1213
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"PEN",
+        "Flight Distance (miles)":1496
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"PNH",
+        "Flight Distance (miles)":965
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"PVG",
+        "Flight Distance (miles)":765
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"SGN",
+        "Flight Distance (miles)":940
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"SHA",
+        "Flight Distance (miles)":750
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"SHE",
+        "Flight Distance (miles)":1425
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"SIN",
+        "Flight Distance (miles)":1605
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"SJW",
+        "Flight Distance (miles)":1078
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"SYX",
+        "Flight Distance (miles)":412
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"TAO",
+        "Flight Distance (miles)":1018
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"TFU",
+        "Flight Distance (miles)":784
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"TNA",
+        "Flight Distance (miles)":1000
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"TPE",
+        "Flight Distance (miles)":499
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"TSN",
+        "Flight Distance (miles)":1155
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"TYN",
+        "Flight Distance (miles)":1043
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"URC",
+        "Flight Distance (miles)":2097
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"WHA",
+        "Flight Distance (miles)":655
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"WNZ",
+        "Flight Distance (miles)":571
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"WUH",
+        "Flight Distance (miles)":561
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"WUX",
+        "Flight Distance (miles)":733
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"XFN",
+        "Flight Distance (miles)":661
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"XIY",
+        "Flight Distance (miles)":869
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"XNN",
+        "Flight Distance (miles)":1188
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"YBP",
+        "Flight Distance (miles)":716
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"YCU",
+        "Flight Distance (miles)":875
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"YIC",
+        "Flight Distance (miles)":357
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"YIH",
+        "Flight Distance (miles)":564
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"YNT",
+        "Flight Distance (miles)":1119
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"YTY",
+        "Flight Distance (miles)":773
+    },
+    {
+        "Departure IATA":"SZX",
+        "Arrival IATA":"ZAT",
+        "Flight Distance (miles)":708
+    },
+    {
+        "Departure IATA":"TAO",
+        "Arrival IATA":"CAN",
+        "Flight Distance (miles)":982
+    },
+    {
+        "Departure IATA":"TAO",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":1018
+    },
+    {
+        "Departure IATA":"TFU",
+        "Arrival IATA":"CAN",
+        "Flight Distance (miles)":725
+    },
+    {
+        "Departure IATA":"TFU",
+        "Arrival IATA":"HAK",
+        "Flight Distance (miles)":808
+    },
+    {
+        "Departure IATA":"TFU",
+        "Arrival IATA":"HFE",
+        "Flight Distance (miles)":751
+    },
+    {
+        "Departure IATA":"TFU",
+        "Arrival IATA":"HKG",
+        "Flight Distance (miles)":805
+    },
+    {
+        "Departure IATA":"TFU",
+        "Arrival IATA":"JHG",
+        "Flight Distance (miles)":618
+    },
+    {
+        "Departure IATA":"TFU",
+        "Arrival IATA":"JJN",
+        "Flight Distance (miles)":947
+    },
+    {
+        "Departure IATA":"TFU",
+        "Arrival IATA":"KHN",
+        "Flight Distance (miles)":696
+    },
+    {
+        "Departure IATA":"TFU",
+        "Arrival IATA":"LHW",
+        "Flight Distance (miles)":430
+    },
+    {
+        "Departure IATA":"TFU",
+        "Arrival IATA":"LJG",
+        "Flight Distance (miles)":357
+    },
+    {
+        "Departure IATA":"TFU",
+        "Arrival IATA":"NKG",
+        "Flight Distance (miles)":860
+    },
+    {
+        "Departure IATA":"TFU",
+        "Arrival IATA":"NNG",
+        "Flight Distance (miles)":579
+    },
+    {
+        "Departure IATA":"TFU",
+        "Arrival IATA":"NTG",
+        "Flight Distance (miles)":985
+    },
+    {
+        "Departure IATA":"TFU",
+        "Arrival IATA":"PEK",
+        "Flight Distance (miles)":960
+    },
+    {
+        "Departure IATA":"TFU",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":784
+    },
+    {
+        "Departure IATA":"TFU",
+        "Arrival IATA":"WUH",
+        "Flight Distance (miles)":583
+    },
+    {
+        "Departure IATA":"TFU",
+        "Arrival IATA":"WUX",
+        "Flight Distance (miles)":952
+    },
+    {
+        "Departure IATA":"TFU",
+        "Arrival IATA":"YNT",
+        "Flight Distance (miles)":1074
+    },
+    {
+        "Departure IATA":"TNA",
+        "Arrival IATA":"CAN",
+        "Flight Distance (miles)":956
+    },
+    {
+        "Departure IATA":"TNA",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":1000
+    },
+    {
+        "Departure IATA":"TPE",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":499
+    },
+    {
+        "Departure IATA":"TSN",
+        "Arrival IATA":"KHN",
+        "Flight Distance (miles)":712
+    },
+    {
+        "Departure IATA":"TSN",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":1155
+    },
+    {
+        "Departure IATA":"TYN",
+        "Arrival IATA":"HFE",
+        "Flight Distance (miles)":467
+    },
+    {
+        "Departure IATA":"TYN",
+        "Arrival IATA":"NTG",
+        "Flight Distance (miles)":614
+    },
+    {
+        "Departure IATA":"TYN",
+        "Arrival IATA":"SHE",
+        "Flight Distance (miles)":637
+    },
+    {
+        "Departure IATA":"TYN",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":1043
+    },
+    {
+        "Departure IATA":"TYN",
+        "Arrival IATA":"WUH",
+        "Flight Distance (miles)":488
+    },
+    {
+        "Departure IATA":"TYN",
+        "Arrival IATA":"YIH",
+        "Flight Distance (miles)":500
+    },
+    {
+        "Departure IATA":"URC",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":2097
+    },
+    {
+        "Departure IATA":"WHA",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":655
+    },
+    {
+        "Departure IATA":"WNZ",
+        "Arrival IATA":"CAN",
+        "Flight Distance (miles)":564
+    },
+    {
+        "Departure IATA":"WNZ",
+        "Arrival IATA":"CGO",
+        "Flight Distance (miles)":616
+    },
+    {
+        "Departure IATA":"WNZ",
+        "Arrival IATA":"LYI",
+        "Flight Distance (miles)":512
+    },
+    {
+        "Departure IATA":"WNZ",
+        "Arrival IATA":"SHE",
+        "Flight Distance (miles)":958
+    },
+    {
+        "Departure IATA":"WNZ",
+        "Arrival IATA":"SYX",
+        "Flight Distance (miles)":982
+    },
+    {
+        "Departure IATA":"WNZ",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":571
+    },
+    {
+        "Departure IATA":"WNZ",
+        "Arrival IATA":"YBP",
+        "Flight Distance (miles)":995
+    },
+    {
+        "Departure IATA":"WUH",
+        "Arrival IATA":"HET",
+        "Flight Distance (miles)":707
+    },
+    {
+        "Departure IATA":"WUH",
+        "Arrival IATA":"HUZ",
+        "Flight Distance (miles)":533
+    },
+    {
+        "Departure IATA":"WUH",
+        "Arrival IATA":"JJN",
+        "Flight Distance (miles)":492
+    },
+    {
+        "Departure IATA":"WUH",
+        "Arrival IATA":"NNG",
+        "Flight Distance (miles)":675
+    },
+    {
+        "Departure IATA":"WUH",
+        "Arrival IATA":"SHE",
+        "Flight Distance (miles)":909
+    },
+    {
+        "Departure IATA":"WUH",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":561
+    },
+    {
+        "Departure IATA":"WUH",
+        "Arrival IATA":"TFU",
+        "Flight Distance (miles)":583
+    },
+    {
+        "Departure IATA":"WUH",
+        "Arrival IATA":"TYN",
+        "Flight Distance (miles)":488
+    },
+    {
+        "Departure IATA":"WUH",
+        "Arrival IATA":"YCU",
+        "Flight Distance (miles)":351
+    },
+    {
+        "Departure IATA":"WUX",
+        "Arrival IATA":"CAN",
+        "Flight Distance (miles)":709
+    },
+    {
+        "Departure IATA":"WUX",
+        "Arrival IATA":"CKG",
+        "Flight Distance (miles)":830
+    },
+    {
+        "Departure IATA":"WUX",
+        "Arrival IATA":"HKG",
+        "Flight Distance (miles)":749
+    },
+    {
+        "Departure IATA":"WUX",
+        "Arrival IATA":"HUZ",
+        "Flight Distance (miles)":683
+    },
+    {
+        "Departure IATA":"WUX",
+        "Arrival IATA":"ICN",
+        "Flight Distance (miles)":536
+    },
+    {
+        "Departure IATA":"WUX",
+        "Arrival IATA":"JJN",
+        "Flight Distance (miles)":474
+    },
+    {
+        "Departure IATA":"WUX",
+        "Arrival IATA":"KIX",
+        "Flight Distance (miles)":883
+    },
+    {
+        "Departure IATA":"WUX",
+        "Arrival IATA":"KWE",
+        "Flight Distance (miles)":892
+    },
+    {
+        "Departure IATA":"WUX",
+        "Arrival IATA":"MFM",
+        "Flight Distance (miles)":769
+    },
+    {
+        "Departure IATA":"WUX",
+        "Arrival IATA":"NNG",
+        "Flight Distance (miles)":971
+    },
+    {
+        "Departure IATA":"WUX",
+        "Arrival IATA":"PEK",
+        "Flight Distance (miles)":630
+    },
+    {
+        "Departure IATA":"WUX",
+        "Arrival IATA":"SHE",
+        "Flight Distance (miles)":720
+    },
+    {
+        "Departure IATA":"WUX",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":733
+    },
+    {
+        "Departure IATA":"WUX",
+        "Arrival IATA":"TFU",
+        "Flight Distance (miles)":952
+    },
+    {
+        "Departure IATA":"WUX",
+        "Arrival IATA":"XIY",
+        "Flight Distance (miles)":707
+    },
+    {
+        "Departure IATA":"WUX",
+        "Arrival IATA":"YCU",
+        "Flight Distance (miles)":597
+    },
+    {
+        "Departure IATA":"WUX",
+        "Arrival IATA":"ZUH",
+        "Flight Distance (miles)":785
+    },
+    {
+        "Departure IATA":"XFN",
+        "Arrival IATA":"PEK",
+        "Flight Distance (miles)":597
+    },
+    {
+        "Departure IATA":"XFN",
+        "Arrival IATA":"SHE",
+        "Flight Distance (miles)":900
+    },
+    {
+        "Departure IATA":"XFN",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":661
+    },
+    {
+        "Departure IATA":"XFN",
+        "Arrival IATA":"ZUH",
+        "Flight Distance (miles)":702
+    },
+    {
+        "Departure IATA":"XIY",
+        "Arrival IATA":"CAN",
+        "Flight Distance (miles)":809
+    },
+    {
+        "Departure IATA":"XIY",
+        "Arrival IATA":"HUZ",
+        "Flight Distance (miles)":861
+    },
+    {
+        "Departure IATA":"XIY",
+        "Arrival IATA":"JJN",
+        "Flight Distance (miles)":889
+    },
+    {
+        "Departure IATA":"XIY",
+        "Arrival IATA":"LYI",
+        "Flight Distance (miles)":551
+    },
+    {
+        "Departure IATA":"XIY",
+        "Arrival IATA":"NKG",
+        "Flight Distance (miles)":615
+    },
+    {
+        "Departure IATA":"XIY",
+        "Arrival IATA":"NNG",
+        "Flight Distance (miles)":816
+    },
+    {
+        "Departure IATA":"XIY",
+        "Arrival IATA":"NTG",
+        "Flight Distance (miles)":726
+    },
+    {
+        "Departure IATA":"XIY",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":869
+    },
+    {
+        "Departure IATA":"XIY",
+        "Arrival IATA":"WUX",
+        "Flight Distance (miles)":707
+    },
+    {
+        "Departure IATA":"XIY",
+        "Arrival IATA":"YNT",
+        "Flight Distance (miles)":719
+    },
+    {
+        "Departure IATA":"XIY",
+        "Arrival IATA":"YTY",
+        "Flight Distance (miles)":646
+    },
+    {
+        "Departure IATA":"XMN",
+        "Arrival IATA":"NTG",
+        "Flight Distance (miles)":547
+    },
+    {
+        "Departure IATA":"XMN",
+        "Arrival IATA":"YTY",
+        "Flight Distance (miles)":561
+    },
+    {
+        "Departure IATA":"XNN",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":1188
+    },
+    {
+        "Departure IATA":"YBP",
+        "Arrival IATA":"HFE",
+        "Flight Distance (miles)":773
+    },
+    {
+        "Departure IATA":"YBP",
+        "Arrival IATA":"JJN",
+        "Flight Distance (miles)":910
+    },
+    {
+        "Departure IATA":"YBP",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":716
+    },
+    {
+        "Departure IATA":"YBP",
+        "Arrival IATA":"WNZ",
+        "Flight Distance (miles)":995
+    },
+    {
+        "Departure IATA":"YCU",
+        "Arrival IATA":"BKK",
+        "Flight Distance (miles)":1609
+    },
+    {
+        "Departure IATA":"YCU",
+        "Arrival IATA":"HAK",
+        "Flight Distance (miles)":1046
+    },
+    {
+        "Departure IATA":"YCU",
+        "Arrival IATA":"HGH",
+        "Flight Distance (miles)":642
+    },
+    {
+        "Departure IATA":"YCU",
+        "Arrival IATA":"HRB",
+        "Flight Distance (miles)":1078
+    },
+    {
+        "Departure IATA":"YCU",
+        "Arrival IATA":"KMG",
+        "Flight Distance (miles)":843
+    },
+    {
+        "Departure IATA":"YCU",
+        "Arrival IATA":"NKG",
+        "Flight Distance (miles)":508
+    },
+    {
+        "Departure IATA":"YCU",
+        "Arrival IATA":"NNG",
+        "Flight Distance (miles)":879
+    },
+    {
+        "Departure IATA":"YCU",
+        "Arrival IATA":"SYX",
+        "Flight Distance (miles)":1162
+    },
+    {
+        "Departure IATA":"YCU",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":875
+    },
+    {
+        "Departure IATA":"YCU",
+        "Arrival IATA":"WUH",
+        "Flight Distance (miles)":351
+    },
+    {
+        "Departure IATA":"YCU",
+        "Arrival IATA":"WUX",
+        "Flight Distance (miles)":597
+    },
+    {
+        "Departure IATA":"YCU",
+        "Arrival IATA":"ZUH",
+        "Flight Distance (miles)":914
+    },
+    {
+        "Departure IATA":"YIC",
+        "Arrival IATA":"PEK",
+        "Flight Distance (miles)":856
+    },
+    {
+        "Departure IATA":"YIC",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":357
+    },
+    {
+        "Departure IATA":"YIH",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":564
+    },
+    {
+        "Departure IATA":"YIH",
+        "Arrival IATA":"TYN",
+        "Flight Distance (miles)":500
+    },
+    {
+        "Departure IATA":"YNT",
+        "Arrival IATA":"CAN",
+        "Flight Distance (miles)":1083
+    },
+    {
+        "Departure IATA":"YNT",
+        "Arrival IATA":"CSX",
+        "Flight Distance (miles)":792
+    },
+    {
+        "Departure IATA":"YNT",
+        "Arrival IATA":"HRB",
+        "Flight Distance (miles)":613
+    },
+    {
+        "Departure IATA":"YNT",
+        "Arrival IATA":"NTG",
+        "Flight Distance (miles)":385
+    },
+    {
+        "Departure IATA":"YNT",
+        "Arrival IATA":"SHE",
+        "Flight Distance (miles)":305
+    },
+    {
+        "Departure IATA":"YNT",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":1119
+    },
+    {
+        "Departure IATA":"YNT",
+        "Arrival IATA":"TFU",
+        "Flight Distance (miles)":1074
+    },
+    {
+        "Departure IATA":"YNT",
+        "Arrival IATA":"XIY",
+        "Flight Distance (miles)":719
+    },
+    {
+        "Departure IATA":"YTY",
+        "Arrival IATA":"CAN",
+        "Flight Distance (miles)":743
+    },
+    {
+        "Departure IATA":"YTY",
+        "Arrival IATA":"CGQ",
+        "Flight Distance (miles)":852
+    },
+    {
+        "Departure IATA":"YTY",
+        "Arrival IATA":"DLC",
+        "Flight Distance (miles)":453
+    },
+    {
+        "Departure IATA":"YTY",
+        "Arrival IATA":"HRB",
+        "Flight Distance (miles)":966
+    },
+    {
+        "Departure IATA":"YTY",
+        "Arrival IATA":"SHE",
+        "Flight Distance (miles)":659
+    },
+    {
+        "Departure IATA":"YTY",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":773
+    },
+    {
+        "Departure IATA":"YTY",
+        "Arrival IATA":"XIY",
+        "Flight Distance (miles)":646
+    },
+    {
+        "Departure IATA":"YTY",
+        "Arrival IATA":"XMN",
+        "Flight Distance (miles)":561
+    },
+    {
+        "Departure IATA":"ZAT",
+        "Arrival IATA":"SZX",
+        "Flight Distance (miles)":708
+    },
+    {
+        "Departure IATA":"ZHA",
+        "Arrival IATA":"JJN",
+        "Flight Distance (miles)":557
+    },
+    {
+        "Departure IATA":"ZUH",
+        "Arrival IATA":"CZX",
+        "Flight Distance (miles)":788
+    },
+    {
+        "Departure IATA":"ZUH",
+        "Arrival IATA":"HFE",
+        "Flight Distance (miles)":722
+    },
+    {
+        "Departure IATA":"ZUH",
+        "Arrival IATA":"NKG",
+        "Flight Distance (miles)":751
+    },
+    {
+        "Departure IATA":"ZUH",
+        "Arrival IATA":"NTG",
+        "Flight Distance (miles)":836
+    },
+    {
+        "Departure IATA":"ZUH",
+        "Arrival IATA":"WUX",
+        "Flight Distance (miles)":785
+    },
+    {
+        "Departure IATA":"ZUH",
+        "Arrival IATA":"XFN",
+        "Flight Distance (miles)":702
+    },
+    {
+        "Departure IATA":"ZUH",
+        "Arrival IATA":"YCU",
+        "Flight Distance (miles)":914
+    }
+]

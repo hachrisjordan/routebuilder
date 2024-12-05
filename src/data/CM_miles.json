@@ -1,0 +1,817 @@
+[
+    {
+        "Departure IATA":"ADZ",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":289
+    },
+    {
+        "Departure IATA":"ASU",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":2781
+    },
+    {
+        "Departure IATA":"ATL",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":1721
+    },
+    {
+        "Departure IATA":"AUA",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":679
+    },
+    {
+        "Departure IATA":"AUS",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":1873
+    },
+    {
+        "Departure IATA":"AXM",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":403
+    },
+    {
+        "Departure IATA":"BAQ",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":338
+    },
+    {
+        "Departure IATA":"BGA",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":445
+    },
+    {
+        "Departure IATA":"BGI",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":1378
+    },
+    {
+        "Departure IATA":"BOG",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":469
+    },
+    {
+        "Departure IATA":"BOS",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":2348
+    },
+    {
+        "Departure IATA":"BSB",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":2754
+    },
+    {
+        "Departure IATA":"BWI",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":2079
+    },
+    {
+        "Departure IATA":"BZE",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":836
+    },
+    {
+        "Departure IATA":"CEC",
+        "Arrival IATA":"MCC",
+        "Flight Distance (miles)":262
+    },
+    {
+        "Departure IATA":"CIX",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":1090
+    },
+    {
+        "Departure IATA":"CLO",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":432
+    },
+    {
+        "Departure IATA":"CNF",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":3116
+    },
+    {
+        "Departure IATA":"COR",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":2954
+    },
+    {
+        "Departure IATA":"CTG",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":280
+    },
+    {
+        "Departure IATA":"CUC",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":476
+    },
+    {
+        "Departure IATA":"CUN",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":962
+    },
+    {
+        "Departure IATA":"CUR",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":740
+    },
+    {
+        "Departure IATA":"DAV",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":214
+    },
+    {
+        "Departure IATA":"DEN",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":2631
+    },
+    {
+        "Departure IATA":"EZE",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":3313
+    },
+    {
+        "Departure IATA":"FLL",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":1170
+    },
+    {
+        "Departure IATA":"FLN",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":3262
+    },
+    {
+        "Departure IATA":"GDL",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":1780
+    },
+    {
+        "Departure IATA":"GEO",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":1459
+    },
+    {
+        "Departure IATA":"GIG",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":3284
+    },
+    {
+        "Departure IATA":"GRU",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":3154
+    },
+    {
+        "Departure IATA":"GUA",
+        "Arrival IATA":"MGA",
+        "Flight Distance (miles)":338
+    },
+    {
+        "Departure IATA":"GUA",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":844
+    },
+    {
+        "Departure IATA":"GUA",
+        "Arrival IATA":"SJO",
+        "Flight Distance (miles)":531
+    },
+    {
+        "Departure IATA":"GYE",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":772
+    },
+    {
+        "Departure IATA":"HAV",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":978
+    },
+    {
+        "Departure IATA":"IAD",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":2060
+    },
+    {
+        "Departure IATA":"JFK",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":2200
+    },
+    {
+        "Departure IATA":"KIN",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":634
+    },
+    {
+        "Departure IATA":"LAS",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":2916
+    },
+    {
+        "Departure IATA":"LAX",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":3010
+    },
+    {
+        "Departure IATA":"LIM",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":1458
+    },
+    {
+        "Departure IATA":"MAO",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":1571
+    },
+    {
+        "Departure IATA":"MBJ",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":656
+    },
+    {
+        "Departure IATA":"MCO",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":1337
+    },
+    {
+        "Departure IATA":"MDE",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":337
+    },
+    {
+        "Departure IATA":"MDZ",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":2965
+    },
+    {
+        "Departure IATA":"MEC",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":694
+    },
+    {
+        "Departure IATA":"MEX",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":1498
+    },
+    {
+        "Departure IATA":"MGA",
+        "Arrival IATA":"GUA",
+        "Flight Distance (miles)":338
+    },
+    {
+        "Departure IATA":"MGA",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":507
+    },
+    {
+        "Departure IATA":"MGA",
+        "Arrival IATA":"SJO",
+        "Flight Distance (miles)":199
+    },
+    {
+        "Departure IATA":"MIA",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":1152
+    },
+    {
+        "Departure IATA":"MTY",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":1781
+    },
+    {
+        "Departure IATA":"MVD",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":3385
+    },
+    {
+        "Departure IATA":"NAS",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":1106
+    },
+    {
+        "Departure IATA":"NLU",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":1504
+    },
+    {
+        "Departure IATA":"ORD",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":2324
+    },
+    {
+        "Departure IATA":"PBM",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":1678
+    },
+    {
+        "Departure IATA":"PEI",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":385
+    },
+    {
+        "Departure IATA":"POS",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":1234
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"ADZ",
+        "Flight Distance (miles)":289
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"ASU",
+        "Flight Distance (miles)":2781
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"ATL",
+        "Flight Distance (miles)":1721
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"AUA",
+        "Flight Distance (miles)":679
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"AUS",
+        "Flight Distance (miles)":1873
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"AXM",
+        "Flight Distance (miles)":403
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"BAQ",
+        "Flight Distance (miles)":338
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"BGA",
+        "Flight Distance (miles)":445
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"BGI",
+        "Flight Distance (miles)":1378
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"BOG",
+        "Flight Distance (miles)":469
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"BOS",
+        "Flight Distance (miles)":2348
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"BSB",
+        "Flight Distance (miles)":2754
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"BWI",
+        "Flight Distance (miles)":2079
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"BZE",
+        "Flight Distance (miles)":836
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"CIX",
+        "Flight Distance (miles)":1090
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"CLO",
+        "Flight Distance (miles)":432
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"CNF",
+        "Flight Distance (miles)":3116
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"COR",
+        "Flight Distance (miles)":2954
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"CTG",
+        "Flight Distance (miles)":280
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"CUC",
+        "Flight Distance (miles)":476
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"CUN",
+        "Flight Distance (miles)":962
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"CUR",
+        "Flight Distance (miles)":740
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"DAV",
+        "Flight Distance (miles)":214
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"DEN",
+        "Flight Distance (miles)":2631
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"EZE",
+        "Flight Distance (miles)":3313
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"FLL",
+        "Flight Distance (miles)":1170
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"FLN",
+        "Flight Distance (miles)":3262
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"GDL",
+        "Flight Distance (miles)":1780
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"GEO",
+        "Flight Distance (miles)":1459
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"GIG",
+        "Flight Distance (miles)":3284
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"GRU",
+        "Flight Distance (miles)":3154
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"GUA",
+        "Flight Distance (miles)":844
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"GYE",
+        "Flight Distance (miles)":772
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"HAV",
+        "Flight Distance (miles)":978
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"IAD",
+        "Flight Distance (miles)":2060
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"JFK",
+        "Flight Distance (miles)":2200
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"KIN",
+        "Flight Distance (miles)":634
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"LAS",
+        "Flight Distance (miles)":2916
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"LAX",
+        "Flight Distance (miles)":3010
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"LIM",
+        "Flight Distance (miles)":1458
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"MAO",
+        "Flight Distance (miles)":1571
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"MBJ",
+        "Flight Distance (miles)":656
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"MCO",
+        "Flight Distance (miles)":1337
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"MDE",
+        "Flight Distance (miles)":337
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"MDZ",
+        "Flight Distance (miles)":2965
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"MEC",
+        "Flight Distance (miles)":694
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"MEX",
+        "Flight Distance (miles)":1498
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"MGA",
+        "Flight Distance (miles)":507
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"MIA",
+        "Flight Distance (miles)":1152
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"MTY",
+        "Flight Distance (miles)":1781
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"MVD",
+        "Flight Distance (miles)":3385
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"NAS",
+        "Flight Distance (miles)":1106
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"NLU",
+        "Flight Distance (miles)":1504
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"ORD",
+        "Flight Distance (miles)":2324
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"PBM",
+        "Flight Distance (miles)":1678
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"PEI",
+        "Flight Distance (miles)":385
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"POS",
+        "Flight Distance (miles)":1234
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"PUJ",
+        "Flight Distance (miles)":986
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"RDU",
+        "Flight Distance (miles)":1845
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"ROS",
+        "Flight Distance (miles)":3136
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"SAL",
+        "Flight Distance (miles)":722
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"SAP",
+        "Flight Distance (miles)":725
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"SCL",
+        "Flight Distance (miles)":2974
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"SDQ",
+        "Flight Distance (miles)":916
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"SFO",
+        "Flight Distance (miles)":3320
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"SJO",
+        "Flight Distance (miles)":335
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"SJU",
+        "Flight Distance (miles)":1105
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"SMR",
+        "Flight Distance (miles)":378
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"SNU",
+        "Flight Distance (miles)":924
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"STI",
+        "Flight Distance (miles)":922
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"SXM",
+        "Flight Distance (miles)":1255
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"TPA",
+        "Flight Distance (miles)":1316
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"TQO",
+        "Flight Distance (miles)":943
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"UIO",
+        "Flight Distance (miles)":635
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"VVI",
+        "Flight Distance (miles)":2146
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"XPL",
+        "Flight Distance (miles)":667
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"YUL",
+        "Flight Distance (miles)":2529
+    },
+    {
+        "Departure IATA":"PTY",
+        "Arrival IATA":"YYZ",
+        "Flight Distance (miles)":2383
+    },
+    {
+        "Departure IATA":"PUJ",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":986
+    },
+    {
+        "Departure IATA":"RDU",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":1845
+    },
+    {
+        "Departure IATA":"ROS",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":3136
+    },
+    {
+        "Departure IATA":"SAL",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":722
+    },
+    {
+        "Departure IATA":"SAP",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":725
+    },
+    {
+        "Departure IATA":"SCL",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":2974
+    },
+    {
+        "Departure IATA":"SDQ",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":916
+    },
+    {
+        "Departure IATA":"SFO",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":3320
+    },
+    {
+        "Departure IATA":"SJO",
+        "Arrival IATA":"GUA",
+        "Flight Distance (miles)":531
+    },
+    {
+        "Departure IATA":"SJO",
+        "Arrival IATA":"MGA",
+        "Flight Distance (miles)":199
+    },
+    {
+        "Departure IATA":"SJO",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":335
+    },
+    {
+        "Departure IATA":"SJU",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":1105
+    },
+    {
+        "Departure IATA":"SMR",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":378
+    },
+    {
+        "Departure IATA":"SNU",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":924
+    },
+    {
+        "Departure IATA":"STI",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":922
+    },
+    {
+        "Departure IATA":"SXM",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":1255
+    },
+    {
+        "Departure IATA":"TPA",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":1316
+    },
+    {
+        "Departure IATA":"TQO",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":943
+    },
+    {
+        "Departure IATA":"UIO",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":635
+    },
+    {
+        "Departure IATA":"VVI",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":2146
+    },
+    {
+        "Departure IATA":"XPL",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":667
+    },
+    {
+        "Departure IATA":"YUL",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":2529
+    },
+    {
+        "Departure IATA":"YYZ",
+        "Arrival IATA":"PTY",
+        "Flight Distance (miles)":2383
+    }
+]
