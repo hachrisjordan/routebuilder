@@ -1,65 +1,66 @@
 import React, { useState, useEffect, useMemo } from 'react';
-import { AirportSearch } from './AirportSearch';
 import { FlightResults } from './FlightResults';
-import UA_miles from '../data/UA_miles.json';
-import SQ_miles from '../data/SQ_miles.json';
-import LH_miles from '../data/LH_miles.json';
-import LX_miles from '../data/LX_miles.json';
-import TG_miles from '../data/TG_miles.json';
-import BR_miles from '../data/BR_miles.json';
-import NH_miles from '../data/NH_miles.json';
-import OS_miles from '../data/OS_miles.json';
-import OZ_miles from '../data/OZ_miles.json';
-import NZ_miles from '../data/NZ_miles.json';   
-import SA_miles from '../data/SA_miles.json';
-import AI_miles from '../data/AI_miles.json';
-import LO_miles from '../data/LO_miles.json';
-import SN_miles from '../data/SN_miles.json'; 
-import A3_miles from '../data/A3_miles.json';
-import TP_miles from '../data/TP_miles.json';
-import MS_miles from '../data/MS_miles.json';
-import WY_miles from '../data/WY_miles.json';
-import GF_miles from '../data/GF_miles.json';
-import AC_miles from '../data/AC_miles.json';
+import UA_miles from '../data/UA_miles.json'; // United Airlines (UA) 
+import SQ_miles from '../data/SQ_miles.json'; // Singapore Airlines (SQ)
+import LH_miles from '../data/LH_miles.json'; // Lufthansa (LH)
+import LX_miles from '../data/LX_miles.json'; // Swiss International Air Lines (LX) 
+import TG_miles from '../data/TG_miles.json'; // Thai Airways (TG)
+import BR_miles from '../data/BR_miles.json'; // EVA Air (BR)
+import NH_miles from '../data/NH_miles.json'; // All Nippon Airways (NH)
+import OS_miles from '../data/OS_miles.json'; // Austrian Airlines (OS)
+import OZ_miles from '../data/OZ_miles.json'; // Asiana Airlines (OZ)
+import NZ_miles from '../data/NZ_miles.json'; // Air New Zealand (NZ)
+import SA_miles from '../data/SA_miles.json'; // South African Airways (SA)
+import AI_miles from '../data/AI_miles.json'; // Air India (AI)
+import LO_miles from '../data/LO_miles.json'; // LOT Polish Airlines (LO)
+import SN_miles from '../data/SN_miles.json'; // Brussels Airlines (SN)
+import A3_miles from '../data/A3_miles.json'; // Aegean Airlines (A3)
+import TP_miles from '../data/TP_miles.json'; // TAP Air Portugal (TP)  
+import MS_miles from '../data/MS_miles.json'; // EgyptAir (MS)
+import WY_miles from '../data/WY_miles.json'; // Oman Air (WY)
+import GF_miles from '../data/GF_miles.json'; // Gulf Air (GF)
+import AC_miles from '../data/AC_miles.json'; // Air Canada (AC)  
 import { airports } from '../data/airports';
 import { getUniqueCountries } from '../utils/countryUtils';
 import Select from 'react-select';
 import AsyncSelect from 'react-select/async';
+import { useNavigate, useSearchParams } from 'react-router-dom';
 
 const COTERMINALS = {
   // North America
-  'CHI': ['MDW', 'ORD'],
-  'DAL': ['DFW', 'DAL'],
-  'HOU': ['IAH', 'HOU'],
-  'NYC': ['JFK', 'LGA', 'EWR'],
-  'SFL': ['FLL', 'MIA', 'PBI'],
-  'YTO': ['YTZ', 'YHM', 'YYZ'],
-  'WAS': ['IAD', 'DCA'],
+  'CHI': ['MDW', 'ORD'], // Chicago (Midway, O'Hare)
+  'DAL': ['DFW', 'DAL'], // Dallas (Fort Worth, Love Field)
+  'HOU': ['IAH', 'HOU'], // Houston (Intercontinental, Hobby)
+  'NYC': ['JFK', 'LGA', 'EWR'], // New York (John F. Kennedy, LaGuardia, Newark)
+  'SFL': ['FLL', 'MIA', 'PBI'], // Fort Lauderdale (Fort Lauderdale-Hollywood, Miami, Palm Beach)
+  'YTO': ['YTZ', 'YHM', 'YYZ'], // Toronto (Billy Bishop, Hamilton, Toronto Pearson)
+  'WAS': ['IAD', 'DCA'], // Washington DC (Washington Dulles, Ronald Reagan)
   
   // South America
-  'BUE': ['AEP', 'EZE'],
-  'RIO': ['GIG', 'SDU'],
-  'SAO': ['CGH', 'GRU', 'VCP'],
+  'BUE': ['AEP', 'EZE'], // Buenos Aires (Ezeiza, Ministro Pistarini)
+  'RIO': ['GIG', 'SDU'], // Rio de Janeiro (Galeão, Santos Dumont)
+  'SAO': ['CGH', 'GRU', 'VCP'], // Sao Paulo (Congonhas, Guarulhos, Viracopos)
   
   // Europe
-  'IST': ['IST', 'SAW'],
-  'LON': ['LCY', 'LGW', 'LHR', 'LTN', 'STN'],
-  'MIL': ['BGY', 'LIN', 'MXP'],
-  'MOW': ['DME', 'SVO', 'VNO', 'ZIA'],
-  'PAR': ['CDG', 'ORY'],
-  'STO': ['ARN', 'BMA'],
+  'IST': ['IST', 'SAW'], // Istanbul (Sabiha Gökçen, Ataturk)
+  'LON': ['LCY', 'LGW', 'LHR', 'LTN', 'STN'], // London (London City, Gatwick, Heathrow, Luton, Stansted) 
+  'MIL': ['BGY', 'LIN', 'MXP'], // Milan (Bergamo, Linate, Malpensa)
+  'MOW': ['DME', 'SVO', 'VNO', 'ZIA'], // Moscow (Domodedovo, Sheremetyevo, Vnukovo, Zhukovsky)
+  'PAR': ['CDG', 'ORY'], // Paris (Charles de Gaulle, Orly)
+  'STO': ['ARN', 'BMA'], // Stockholm (Arlanda, Bromma)
   
   // Asia
-  'BJS': ['PEK', 'PKX'],
-  'JKT': ['CGK', 'HLP'],
-  'OSA': ['ITM', 'KIX', 'UKB'],
-  'SPK': ['CTS', 'OKD'],
-  'SEL': ['GMP', 'ICN'],
-  'SHA': ['SHA', 'PVG'],
-  'TPE': ['TSA', 'TPE'],
-  'TYO': ['HND', 'NRT']
+  'BJS': ['PEK', 'PKX'], // Beijing (Capital, Daxing)
+  'JKT': ['CGK', 'HLP'], // Jakarta (Soekarno Hatta, Halim Perdanakusuma)
+  'OSA': ['ITM', 'KIX', 'UKB'], // Osaka (Itami, Kansai, Kobe)
+  'SPK': ['CTS', 'OKD'], // St. Petersburg (Pulkovo, Oktyabrskaya)
+  'SEL': ['GMP', 'ICN'], // Seoul (Gimpo, Incheon)
+  'SHA': ['SHA', 'PVG'], // Shanghai (Pudong, Hongqiao)
+  'TPE': ['TSA', 'TPE'], // Taipei (Songshan, Taoyuan)
+  'TYO': ['HND', 'NRT'] // Tokyo (Haneda, Narita)
 };
 
+// Helper function to get the co-terminal group for an airport
 function getCoTerminalGroup(airport) {
   for (const [group, airports] of Object.entries(COTERMINALS)) {
     if (airports.includes(airport)) {
@@ -69,6 +70,7 @@ function getCoTerminalGroup(airport) {
   return null;
 }
 
+// Helper function to check if a route uses co-terminals correctly
 function isValidCoTerminalRoute(newSegment, existingPath) {
   const allAirports = [
     ...existingPath.map(seg => seg.Departure_IATA),
@@ -191,54 +193,165 @@ const calculateRouteDistance = (route) => {
 // Airports exempt from standard layover restrictions
 const HUB_EXCEPTIONS = new Set([
   // Star Alliance Hubs
-  'ATH', // Aegean
-  'PEK', 'CTU', 'PVG', // Air China
-  'DEL', 'BOM', // Air India
-  'AKL', 'WLG', 'CHC', // Air New Zealand
-  'HND', 'NRT', 'KIX', // ANA
-  'ICN', 'GMP', // Asiana
-  'VIE', // Austrian
-  'BOG', 'MDE', 'UIO', 'GUA', 'SAL', // Avianca
-  'BRU', // Brussels
-  'PTY', // Copa
-  'ZAG', // Croatia
-  'CAI', // EgyptAir
-  'ADD', // Ethiopian
-  'TPE', // EVA
-  'WAW', // LOT
-  'FRA', 'MUC', // Lufthansa
-  'SZX', // Shenzhen
-  'SIN', // Singapore
-  'JNB', // South African
-  'ZRH', 'GVA', // SWISS
-  'LIS', 'OPO', // TAP
-  'BKK', // Thai
-  'IST', // Turkish
-  'ORD', 'DEN', 'IAH', 'LAX', 'EWR', 'SFO', 'IAD', // United
+  'ATH', // Aegean (Athens)
+  'YYZ', 'YVR', 'YUL', 'YYC', // Air Canada (Toronto, Vancouver, Montreal, Calgary)
+  'PEK', 'CTU', 'PVG', // Air China (Beijing, Chengdu, Shanghai)
+  'DEL', 'BOM', // Air India (Delhi, Mumbai)
+  'AKL', 'WLG', 'CHC', // Air New Zealand (Auckland, Christchurch)
+  'HND', 'NRT', 'KIX', // ANA (Tokyo, Osaka, Nagoya)
+  'ICN', 'GMP', // Asiana (Incheon, Seoul)
+  'VIE', // Austrian (Vienna)
+  'BOG', 'MDE', 'UIO', 'GUA', 'SAL', // Avianca (Bogota, Medellin, Quito, Guatemala City, San Salvador)
+  'BRU', // Brussels (Brussels)
+  'PTY', // Copa (Panama City)
+  'ZAG', // Croatia (Zagreb)
+  'CAI', // EgyptAir (Cairo)
+  'ADD', // Ethiopian (Addis Ababa)
+  'TPE', // EVA (Taipei)
+  'WAW', // LOT (Warsaw)
+  'FRA', 'MUC', // Lufthansa (Frankfurt, Munich)
+  'SZX', // Shenzhen Airlines (Shenzhen)
+  'SIN', // Singapore Airlines (Singapore)
+  'JNB', // South African (Johannesburg)
+  'ZRH', 'GVA', // SWISS (Zurich, Geneva)
+  'LIS', 'OPO', // TAP (Lisbon, Porto)
+  'BKK', // Thai (Bangkok)
+  'IST', // Turkish (Istanbul)
+  'ORD', 'DEN', 'IAH', 'LAX', 'EWR', 'SFO', 'IAD', // United (Chicago, Denver, Houston, Los Angeles, Newark, San Francisco, Washington DC)
   // Non-Alliance Hubs
-  'YVO', 'YUL', // Air Creebec
-  'MUC', 'FRA', // Air Dolomiti
-  'MRU', // Air Mauritius
-  'BEG', // Air Serbia
-  'VCP', 'CNF', 'REC', // Azul
-  'YWG', 'YTH', // Calm Air
-  'YZF', 'YFB', // Canadian North
-  'HKG', // Cathay Pacific
-  'FRA', // Discover
-  'ZRH', // Edelweiss
-  'AUH', // Etihad
-  'DUS', 'CGN', 'HAM', 'STR', // Eurowings
-  'GRU', 'GIG', 'BSB', // GOL
-  'BAH', // Gulf Air
-  'PVG', 'SHA', // Juneyao
-  'ATH', // Olympic
-  'MCT', // Oman Air
-  'YYT', 'YHZ', // PAL Airlines
-  'AYT', 'ADB', // SunExpress
-  'BNE', 'MEL', 'SYD' // Virgin Australia
+  'YVO', 'YUL', // Air Creebec (Montreal)
+  'MUC', 'FRA', // Air Dolomiti (Munich, Frankfurt)
+  'MRU', // Air Mauritius (Mauritius)
+  'BEG', // Air Serbia (Belgrade)
+  'VCP', 'CNF', 'REC', // Azul (Sao Paulo, Campinas, Rio de Janeiro)
+  'YWG', 'YTH', // Calm Air (Winnipeg, Thompson)  
+  'YZF', 'YFB', // Canadian North (Yellowknife, Inuvik)
+  'HKG', // Cathay Pacific (Hong Kong)
+  'FRA', // Discover (Frankfurt)
+  'ZRH', // Edelweiss (Zurich)
+  'AUH', // Etihad (Abu Dhabi)
+  'DUS', 'CGN', 'HAM', 'STR', // Eurowings (Dusseldorf, Cologne, Hamburg, Stuttgart)
+  'GRU', 'GIG', 'BSB', // GOL (Sao Paulo, Rio de Janeiro, Brasilia)
+  'BAH', // Gulf Air (Bahrain)
+  'PVG', 'SHA', // Juneyao (Shanghai, Shanghai Pudong)
+  'ATH', // Olympic (Athens)
+  'MCT', // Oman Air (Muscat)
+  'YYT', 'YHZ', // PAL Airlines (St. John's, Halifax)
+  'AYT', 'ADB', // SunExpress (Antalya, Adana)
+  'BNE', 'MEL', 'SYD' // Virgin Australia (Brisbane, Melbourne, Sydney)
 ]);
 
+// Add this helper function near the top with other helper functions
+const isValidZoneProgression = (path) => {
+  if (path.length <= 1) return true;
+  
+  // Get origin, destination, and layover zones
+  const originZone = airports.find(a => a.IATA === path[0].Departure_IATA)?.Zone;
+  const destZone = airports.find(a => a.IATA === path[path.length - 1].Arrival_IATA)?.Zone;
+  const layoverZones = new Set(path.slice(0, -1).map(segment => 
+    airports.find(a => a.IATA === segment.Arrival_IATA)?.Zone
+  ));
+
+  // Rule 1: If origin and destination are in same zone, no third zone allowed
+  if (originZone === destZone) {
+    for (const zone of layoverZones) {
+      if (zone !== originZone) return false;
+    }
+    return true;
+  }
+
+  // Rule 2: North America <-> Atlantic: no Pacific layovers
+  if ((originZone === 'North America' && destZone === 'Atlantic') ||
+      (originZone === 'Atlantic' && destZone === 'North America')) {
+    if (layoverZones.has('Pacific')) return false;
+  }
+
+  // Rule 3: North America <-> South America: no Pacific or Atlantic layovers
+  if ((originZone === 'North America' && destZone === 'South America') ||
+      (originZone === 'South America' && destZone === 'North America')) {
+    if (layoverZones.has('Pacific') || layoverZones.has('Atlantic')) return false;
+  }
+
+  return true;
+};
+
+// Add this function near the top with other helper functions
+const countLayoversPerCountry = (path) => {
+  const counts = {};
+  
+  for (const segment of path) {
+    const arrivalAirport = airports.find(a => a.IATA === segment.Arrival_IATA);
+    if (!arrivalAirport) continue;
+    
+    const country = arrivalAirport.Country;
+    if (!counts[country]) {
+      counts[country] = {
+        total: 0,
+        hubCount: 0,
+        nonHubCount: 0
+      };
+    }
+    
+    if (HUB_EXCEPTIONS.has(segment.Arrival_IATA)) {
+      counts[country].hubCount++;
+    } else {
+      counts[country].nonHubCount++;
+    }
+    counts[country].total = counts[country].hubCount > 0 ? 1 : counts[country].nonHubCount;
+  }
+  
+  return counts;
+};
+
 export function SearchPage() {
+  const navigate = useNavigate();
+  const [searchParams, setSearchParams] = useSearchParams();
+
+  // Initialize state from URL params
+  const [maxSegments, setMaxSegments] = useState(() => {
+    const segments = searchParams.get('maxSegments');
+    return segments ? parseInt(segments, 10) : 4;
+  });
+
+  const [avoidAirlines, setAvoidAirlines] = useState(() => {
+    const airlines = searchParams.get('avoidAirlines');
+    return airlines ? airlines.split(',') : [];
+  });
+
+  // Update URL when params change
+  useEffect(() => {
+    const newParams = new URLSearchParams(searchParams);
+    
+    // Update maxSegments
+    if (maxSegments !== 4) {
+      newParams.set('maxSegments', maxSegments.toString());
+    } else {
+      newParams.delete('maxSegments');
+    }
+    
+    // Update avoidAirlines
+    if (avoidAirlines.length > 0) {
+      newParams.set('avoidAirlines', avoidAirlines.join(','));
+    } else {
+      newParams.delete('avoidAirlines');
+    }
+    
+    // Update URL without reloading
+    navigate(`?${newParams.toString()}`, { replace: true });
+  }, [maxSegments, avoidAirlines]);
+
+  // Update handlers
+  const handleMaxSegmentsChange = (value) => {
+    const newValue = parseInt(value, 10);
+    if (!isNaN(newValue) && newValue >= 0 && newValue <= 6) {
+      setMaxSegments(newValue);
+    }
+  };
+
+  const handleAvoidAirlinesChange = (selected) => {
+    setAvoidAirlines(selected ? selected.map(option => option.value) : []);
+  };
+
   // State for selected airports and search results
   const [departureAirport, setDepartureAirport] = useState('');
   const [arrivalAirport, setArrivalAirport] = useState('');
@@ -246,7 +359,6 @@ export function SearchPage() {
   const [showResults, setShowResults] = useState(false);
   const [avoidCountries, setAvoidCountries] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
-  const [avoidAirlines, setAvoidAirlines] = useState([]);
 
   // Get the country options when component mounts
   const countryOptions = useMemo(() => {
@@ -353,14 +465,15 @@ export function SearchPage() {
     // Base case: if we've found a path to the destination
     if (path.length > 0 && path[path.length - 1].Arrival_IATA === destination) {
       const totalDistance = path.reduce((sum, segment) => sum + segment.Distance, 0);
-      if (totalDistance <= directDistance * 2) {
+      const multiplier = 2 + (path.length - 1) * 0.2; // 2.0x for 1 stop, 2.2x for 2 stops, etc.
+      if (totalDistance <= directDistance * multiplier) {
         return [path];
       }
       return [];
     }
 
-    // Don't allow paths longer than 6 segments (5 stops)
-    if (path.length >= 4) {
+    // Don't allow paths longer than maxSegments
+    if (path.length >= maxSegments) {
       return [];
     }
 
@@ -418,11 +531,27 @@ export function SearchPage() {
       const destZone = airports.find(a => a.IATA === destination)?.Zone;
       const connectZone = thisArrivalAirport?.Zone;
 
+      // Allow progressive zone changes
+      const validZoneProgression = (path) => {
+        for (let i = 1; i < path.length - 1; i++) {
+          const prevZone = airports.find(a => a.IATA === path[i-1]["Departure IATA"]).Zone;
+          const currentZone = airports.find(a => a.IATA === path[i]["Departure IATA"]).Zone;
+          const nextZone = airports.find(a => a.IATA === path[i+1]["Departure IATA"]).Zone;
+          
+          // Allow staying in same zone or moving forward
+          if (currentZone !== prevZone && currentZone !== nextZone) {
+            // Only allow backtracking through hubs
+            if (!HUB_EXCEPTIONS.has(path[i]["Departure IATA"])) {
+              return false;
+            }
+          }
+        }
+        return true;
+      };
+
       // Rule: When flying between two zones, cannot connect via a third zone
       // Example: North America to Atlantic cannot connect via Pacific
-      if (originZone !== destZone && // Different zones
-          connectZone !== originZone && // Not in origin zone
-          connectZone !== destZone) { // Not in destination zone
+      if (!isValidZoneProgression(path, route)) {
         return false;
       }
 
@@ -498,12 +627,43 @@ export function SearchPage() {
       // Check if adding this stop would exceed country limit
       if (nextCountry !== originAirport.Country && nextCountry !== destAirport.Country) {
         const currentCount = countryLayovers[nextCountry] || { nonHubCount: 0, hasHub: false };
-        let totalStops = currentCount.nonHubCount;
-        if (currentCount.hasHub || HUB_EXCEPTIONS.has(route["Arrival IATA"])) {
-          totalStops += 1; // All hubs in country count as 1 total
+        
+        // For non-hub airports, count individually
+        if (!HUB_EXCEPTIONS.has(route["Arrival IATA"])) {
+          // If there's already a hub or non-hub stop in this country, reject
+          if (currentCount.hasHub || currentCount.nonHubCount > 0) {
+            return false;
+          }
+          // Count this non-hub stop
+          currentCount.nonHubCount = 1;
         }
-        if (totalStops >= 2) {
-          return false;
+        // For hub airports
+        else {
+          // If there's already a non-hub stop in this country, reject
+          if (currentCount.nonHubCount > 0) {
+            return false;
+          }
+          // Mark that we have a hub stop
+          currentCount.hasHub = true;
+        }
+      }
+
+      // Add country layover check
+      if (arrivalAirport.Country !== originAirport.Country && 
+          arrivalAirport.Country !== destAirport.Country) {
+        const layoverCounts = countLayoversPerCountry(path);
+        const countryCount = layoverCounts[arrivalAirport.Country]?.total || 0;
+        
+        // If we already have a stop in this country, only allow if both are hubs
+        if (countryCount > 0) {
+          // If this is not a hub airport, reject
+          if (!HUB_EXCEPTIONS.has(route["Arrival IATA"])) {
+            return false;
+          }
+          // If we already have a non-hub stop in this country, reject
+          if (layoverCounts[arrivalAirport.Country]?.nonHubCount > 0) {
+            return false;
+          }
         }
       }
 
@@ -848,6 +1008,37 @@ export function SearchPage() {
     }
   }, [avoidCountries, departureAirport, arrivalAirport]);
 
+  // Update URL when form changes
+  useEffect(() => {
+    const params = new URLSearchParams();
+    if (departureAirport) params.set('from', departureAirport);
+    if (arrivalAirport) params.set('to', arrivalAirport);
+    if (avoidCountries.length > 0) params.set('avoid', avoidCountries.join(','));
+    if (maxSegments !== 4) params.set('max', maxSegments.toString()); // Only add if not default
+    
+    const newUrl = `${window.location.pathname}${params.toString() ? '?' + params.toString() : ''}`;
+    window.history.replaceState({}, '', newUrl);
+  }, [departureAirport, arrivalAirport, avoidCountries, maxSegments]);
+
+  // Read URL params on initial load
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const originParam = params.get('from');
+    const destParam = params.get('to');
+    const avoidParam = params.get('avoid');
+    const maxParam = params.get('max');
+
+    if (originParam) setDepartureAirport(originParam);
+    if (destParam) setArrivalAirport(destParam);
+    if (avoidParam) setAvoidCountries(avoidParam.split(','));
+    if (maxParam) {
+      const maxValue = parseInt(maxParam, 10);
+      if (!isNaN(maxValue) && maxValue >= 0 && maxValue <= 6) {
+        setMaxSegments(maxValue);
+      }
+    }
+  }, []);
+
   return (
     <div className="search-container">
       <div className="search-boxes">
@@ -867,7 +1058,7 @@ export function SearchPage() {
               loadOptions={loadAirportOptions}
               onChange={(selected) => setDepartureAirport(selected ? selected.value : '')}
               isDisabled={isLoading}
-              placeholder="Type to search airports..."
+              placeholder="Select airports..."
             />
           </div>
           <div className="search-parameter arrival-parameter">
@@ -885,7 +1076,7 @@ export function SearchPage() {
               loadOptions={loadAirportOptions}
               onChange={(selected) => setArrivalAirport(selected ? selected.value : '')}
               isDisabled={isLoading}
-              placeholder="Type to search airports..."
+              placeholder="Select airports..."
             />
           </div>
         </div>
@@ -905,7 +1096,7 @@ export function SearchPage() {
               setAvoidCountries(selected ? selected.map(option => option.value) : []);
             }}
             isDisabled={isLoading}
-            placeholder="Type to search countries..."
+            placeholder="Select countries..."
           />
         </div>
         <div className="search-parameter">
@@ -920,11 +1111,19 @@ export function SearchPage() {
               label: airlines.find(a => a.value === airline)?.label || airline
             }))}
             loadOptions={loadAirlineOptions}
-            onChange={(selected) => {
-              setAvoidAirlines(selected ? selected.map(option => option.value) : []);
-            }}
+            onChange={handleAvoidAirlinesChange}
             isDisabled={isLoading}
-            placeholder="Select airlines to avoid..."
+            placeholder="Select airlines..."
+          />
+        </div>
+        <div className="search-parameter max-segments-parameter">
+          <label>Maximum Segments</label>
+          <input
+            type="number"
+            min="1"
+            max="6"
+            value={maxSegments}
+            onChange={(e) => handleMaxSegmentsChange(e.target.value)}
           />
         </div>
         <button 
