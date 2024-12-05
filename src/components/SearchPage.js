@@ -20,6 +20,14 @@ import MS_miles from '../data/MS_miles.json'; // EgyptAir (MS)
 import WY_miles from '../data/WY_miles.json'; // Oman Air (WY)
 import GF_miles from '../data/GF_miles.json'; // Gulf Air (GF)
 import AC_miles from '../data/AC_miles.json'; // Air Canada (AC)  
+import ZH_miles from '../data/ZH_miles.json'; // Shenzhen Airlines (ZH)
+import YN_miles from '../data/YN_miles.json'; // Air Creebec (YN)
+import OU_miles from '../data/OU_miles.json'; // Croatia Airlines (OU)
+import ET_miles from '../data/ET_miles.json'; // Ethiopian Airlines (ET)
+import CM_miles from '../data/CM_miles.json'; // Copa Airlines (CM)
+import AV_miles from '../data/AV_miles.json'; // Avianca (AV)
+import EN_miles from '../data/EN_miles.json'; // Air Dolomiti (EN)
+import TK_miles from '../data/TK_miles.json'; // Turkish Airlines (TK)
 import { airports } from '../data/airports';
 import { getUniqueCountries } from '../utils/countryUtils';
 import Select from 'react-select';
@@ -147,7 +155,15 @@ const airlines = [
   { value: 'LX', label: 'Swiss International Air Lines (LX)' },
   { value: 'TP', label: 'TAP Air Portugal (TP)' },
   { value: 'TG', label: 'Thai Airways (TG)' },
-  { value: 'UA', label: 'United Airlines (UA)' }
+  { value: 'UA', label: 'United Airlines (UA)' },
+  { value: 'ZH', label: 'Shenzhen Airlines (ZH)' },
+  { value: 'YN', label: 'Air Creebec (YN)' },
+  { value: 'OU', label: 'Croatia Airlines (OU)' },
+  { value: 'ET', label: 'Ethiopian Airlines (ET)' },
+  { value: 'CM', label: 'Copa Airlines (CM)' },
+  { value: 'AV', label: 'Avianca (AV)' },
+  { value: 'EN', label: 'Air Dolomiti (EN)' },
+  { value: 'TK', label: 'Turkish Airlines (TK)' }
 ].sort((a, b) => a.label.localeCompare(b.label));
 
 // Helper function to calculate distance between two points using Haversine formula
