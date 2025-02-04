@@ -1,0 +1,3059 @@
+[
+    {
+        "origin": "EZE",
+        "destination": "GRU",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\ET",
+            "data\\LX",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "GRU",
+        "destination": "EZE",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\ET",
+            "data\\LX",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "KGL",
+        "destination": "EBB",
+        "airlines_shared": [
+            "data\\ET",
+            "data\\MS",
+            "data\\SN",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "NRT",
+        "destination": "ICN",
+        "airlines_shared": [
+            "data\\ET",
+            "data\\LH",
+            "data\\NH",
+            "data\\OZ"
+        ]
+    },
+    {
+        "origin": "BKK",
+        "destination": "TPE",
+        "airlines_shared": [
+            "data\\BR",
+            "data\\OS",
+            "data\\TG"
+        ]
+    },
+    {
+        "origin": "BOG",
+        "destination": "PTY",
+        "airlines_shared": [
+            "data\\AV",
+            "data\\CM",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "HKG",
+        "destination": "BKK",
+        "airlines_shared": [
+            "data\\ET",
+            "data\\MS",
+            "data\\TG"
+        ]
+    },
+    {
+        "origin": "ICN",
+        "destination": "NRT",
+        "airlines_shared": [
+            "data\\ET",
+            "data\\NH",
+            "data\\OZ"
+        ]
+    },
+    {
+        "origin": "LAX",
+        "destination": "NRT",
+        "airlines_shared": [
+            "data\\NH",
+            "data\\SQ",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "NRT",
+        "destination": "LAX",
+        "airlines_shared": [
+            "data\\NH",
+            "data\\SQ",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "TPE",
+        "destination": "BKK",
+        "airlines_shared": [
+            "data\\BR",
+            "data\\OS",
+            "data\\TG"
+        ]
+    },
+    {
+        "origin": "VIE",
+        "destination": "WAW",
+        "airlines_shared": [
+            "data\\ET",
+            "data\\LO",
+            "data\\OS"
+        ]
+    },
+    {
+        "origin": "WAW",
+        "destination": "VIE",
+        "airlines_shared": [
+            "data\\ET",
+            "data\\LO",
+            "data\\OS"
+        ]
+    },
+    {
+        "origin": "ABJ",
+        "destination": "COO",
+        "airlines_shared": [
+            "data\\SN",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "ADD",
+        "destination": "CAI",
+        "airlines_shared": [
+            "data\\ET",
+            "data\\MS"
+        ]
+    },
+    {
+        "origin": "ADD",
+        "destination": "IST",
+        "airlines_shared": [
+            "data\\ET",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "AKL",
+        "destination": "SFO",
+        "airlines_shared": [
+            "data\\NZ",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "AKL",
+        "destination": "SIN",
+        "airlines_shared": [
+            "data\\NZ",
+            "data\\SQ"
+        ]
+    },
+    {
+        "origin": "AKL",
+        "destination": "YVR",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\NZ"
+        ]
+    },
+    {
+        "origin": "AMS",
+        "destination": "MUC",
+        "airlines_shared": [
+            "data\\EN",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "ATH",
+        "destination": "BRU",
+        "airlines_shared": [
+            "data\\A3",
+            "data\\SN"
+        ]
+    },
+    {
+        "origin": "ATH",
+        "destination": "CAI",
+        "airlines_shared": [
+            "data\\A3",
+            "data\\MS"
+        ]
+    },
+    {
+        "origin": "ATH",
+        "destination": "FRA",
+        "airlines_shared": [
+            "data\\A3",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "ATH",
+        "destination": "GVA",
+        "airlines_shared": [
+            "data\\A3",
+            "data\\LX"
+        ]
+    },
+    {
+        "origin": "ATH",
+        "destination": "IST",
+        "airlines_shared": [
+            "data\\A3",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "ATH",
+        "destination": "MUC",
+        "airlines_shared": [
+            "data\\A3",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "ATH",
+        "destination": "VIE",
+        "airlines_shared": [
+            "data\\A3",
+            "data\\OS"
+        ]
+    },
+    {
+        "origin": "ATH",
+        "destination": "WAW",
+        "airlines_shared": [
+            "data\\A3",
+            "data\\LO"
+        ]
+    },
+    {
+        "origin": "ATH",
+        "destination": "ZRH",
+        "airlines_shared": [
+            "data\\A3",
+            "data\\LX"
+        ]
+    },
+    {
+        "origin": "AUS",
+        "destination": "LAX",
+        "airlines_shared": [
+            "data\\LX",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "BAH",
+        "destination": "CAI",
+        "airlines_shared": [
+            "data\\GF",
+            "data\\MS"
+        ]
+    },
+    {
+        "origin": "BAH",
+        "destination": "IST",
+        "airlines_shared": [
+            "data\\GF",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "BAH",
+        "destination": "MCT",
+        "airlines_shared": [
+            "data\\GF",
+            "data\\WY"
+        ]
+    },
+    {
+        "origin": "BKK",
+        "destination": "BOM",
+        "airlines_shared": [
+            "data\\AI",
+            "data\\TG"
+        ]
+    },
+    {
+        "origin": "BKK",
+        "destination": "CGK",
+        "airlines_shared": [
+            "data\\ET",
+            "data\\TG"
+        ]
+    },
+    {
+        "origin": "BKK",
+        "destination": "DEL",
+        "airlines_shared": [
+            "data\\AI",
+            "data\\TG"
+        ]
+    },
+    {
+        "origin": "BKK",
+        "destination": "HKG",
+        "airlines_shared": [
+            "data\\ET",
+            "data\\TG"
+        ]
+    },
+    {
+        "origin": "BKK",
+        "destination": "HND",
+        "airlines_shared": [
+            "data\\NH",
+            "data\\TG"
+        ]
+    },
+    {
+        "origin": "BKK",
+        "destination": "ICN",
+        "airlines_shared": [
+            "data\\OZ",
+            "data\\TG"
+        ]
+    },
+    {
+        "origin": "BKK",
+        "destination": "IST",
+        "airlines_shared": [
+            "data\\TG",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "BKK",
+        "destination": "LHR",
+        "airlines_shared": [
+            "data\\BR",
+            "data\\TG"
+        ]
+    },
+    {
+        "origin": "BKK",
+        "destination": "MUC",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\TG"
+        ]
+    },
+    {
+        "origin": "BKK",
+        "destination": "NRT",
+        "airlines_shared": [
+            "data\\NH",
+            "data\\TG"
+        ]
+    },
+    {
+        "origin": "BKK",
+        "destination": "SIN",
+        "airlines_shared": [
+            "data\\SQ",
+            "data\\TG"
+        ]
+    },
+    {
+        "origin": "BKK",
+        "destination": "VIE",
+        "airlines_shared": [
+            "data\\BR",
+            "data\\OS"
+        ]
+    },
+    {
+        "origin": "BKK",
+        "destination": "ZRH",
+        "airlines_shared": [
+            "data\\LX",
+            "data\\TG"
+        ]
+    },
+    {
+        "origin": "BLQ",
+        "destination": "FRA",
+        "airlines_shared": [
+            "data\\EN",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "BLR",
+        "destination": "SIN",
+        "airlines_shared": [
+            "data\\AI",
+            "data\\SQ"
+        ]
+    },
+    {
+        "origin": "BOG",
+        "destination": "YUL",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\AV"
+        ]
+    },
+    {
+        "origin": "BOG",
+        "destination": "YYZ",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\AV"
+        ]
+    },
+    {
+        "origin": "BOM",
+        "destination": "BKK",
+        "airlines_shared": [
+            "data\\AI",
+            "data\\TG"
+        ]
+    },
+    {
+        "origin": "BOM",
+        "destination": "FRA",
+        "airlines_shared": [
+            "data\\AI",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "BOM",
+        "destination": "MAA",
+        "airlines_shared": [
+            "data\\AI",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "BOM",
+        "destination": "MCT",
+        "airlines_shared": [
+            "data\\AI",
+            "data\\WY"
+        ]
+    },
+    {
+        "origin": "BOM",
+        "destination": "SIN",
+        "airlines_shared": [
+            "data\\AI",
+            "data\\SQ"
+        ]
+    },
+    {
+        "origin": "BRU",
+        "destination": "ATH",
+        "airlines_shared": [
+            "data\\A3",
+            "data\\SN"
+        ]
+    },
+    {
+        "origin": "BRU",
+        "destination": "FRA",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\SN"
+        ]
+    },
+    {
+        "origin": "BRU",
+        "destination": "GVA",
+        "airlines_shared": [
+            "data\\LX",
+            "data\\SN"
+        ]
+    },
+    {
+        "origin": "BRU",
+        "destination": "LIS",
+        "airlines_shared": [
+            "data\\SN",
+            "data\\TP"
+        ]
+    },
+    {
+        "origin": "BRU",
+        "destination": "MUC",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\SN"
+        ]
+    },
+    {
+        "origin": "BRU",
+        "destination": "VIE",
+        "airlines_shared": [
+            "data\\OS",
+            "data\\SN"
+        ]
+    },
+    {
+        "origin": "BRU",
+        "destination": "WAW",
+        "airlines_shared": [
+            "data\\LO",
+            "data\\SN"
+        ]
+    },
+    {
+        "origin": "BRU",
+        "destination": "ZRH",
+        "airlines_shared": [
+            "data\\LX",
+            "data\\SN"
+        ]
+    },
+    {
+        "origin": "CAI",
+        "destination": "ADD",
+        "airlines_shared": [
+            "data\\ET",
+            "data\\MS"
+        ]
+    },
+    {
+        "origin": "CAI",
+        "destination": "ATH",
+        "airlines_shared": [
+            "data\\A3",
+            "data\\MS"
+        ]
+    },
+    {
+        "origin": "CAI",
+        "destination": "BAH",
+        "airlines_shared": [
+            "data\\GF",
+            "data\\MS"
+        ]
+    },
+    {
+        "origin": "CAI",
+        "destination": "FRA",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\MS"
+        ]
+    },
+    {
+        "origin": "CAI",
+        "destination": "IST",
+        "airlines_shared": [
+            "data\\MS",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "CAI",
+        "destination": "MCT",
+        "airlines_shared": [
+            "data\\MS",
+            "data\\WY"
+        ]
+    },
+    {
+        "origin": "CAI",
+        "destination": "MUC",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\MS"
+        ]
+    },
+    {
+        "origin": "CAI",
+        "destination": "VIE",
+        "airlines_shared": [
+            "data\\MS",
+            "data\\OS"
+        ]
+    },
+    {
+        "origin": "CAI",
+        "destination": "ZRH",
+        "airlines_shared": [
+            "data\\LX",
+            "data\\MS"
+        ]
+    },
+    {
+        "origin": "CGK",
+        "destination": "BKK",
+        "airlines_shared": [
+            "data\\ET",
+            "data\\TG"
+        ]
+    },
+    {
+        "origin": "CPH",
+        "destination": "VIE",
+        "airlines_shared": [
+            "data\\ET",
+            "data\\OS"
+        ]
+    },
+    {
+        "origin": "CPT",
+        "destination": "JNB",
+        "airlines_shared": [
+            "data\\SA",
+            "data\\SQ"
+        ]
+    },
+    {
+        "origin": "DEL",
+        "destination": "BKK",
+        "airlines_shared": [
+            "data\\AI",
+            "data\\TG"
+        ]
+    },
+    {
+        "origin": "DEL",
+        "destination": "EWR",
+        "airlines_shared": [
+            "data\\AI",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "DEL",
+        "destination": "FRA",
+        "airlines_shared": [
+            "data\\AI",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "DEL",
+        "destination": "LHR",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\AI"
+        ]
+    },
+    {
+        "origin": "DEL",
+        "destination": "SIN",
+        "airlines_shared": [
+            "data\\AI",
+            "data\\SQ"
+        ]
+    },
+    {
+        "origin": "DEL",
+        "destination": "YYZ",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\AI"
+        ]
+    },
+    {
+        "origin": "DEL",
+        "destination": "ZRH",
+        "airlines_shared": [
+            "data\\AI",
+            "data\\LX"
+        ]
+    },
+    {
+        "origin": "DEN",
+        "destination": "FRA",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "DEN",
+        "destination": "JAC",
+        "airlines_shared": [
+            "data\\LX",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "DEN",
+        "destination": "MUC",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "DEN",
+        "destination": "YVR",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "DEN",
+        "destination": "YYZ",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "DLA",
+        "destination": "NSI",
+        "airlines_shared": [
+            "data\\SN",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "DUR",
+        "destination": "JNB",
+        "airlines_shared": [
+            "data\\SA",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "EWR",
+        "destination": "DEL",
+        "airlines_shared": [
+            "data\\AI",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "EWR",
+        "destination": "FRA",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "EWR",
+        "destination": "LIS",
+        "airlines_shared": [
+            "data\\TP",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "EWR",
+        "destination": "MUC",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "EWR",
+        "destination": "YHZ",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "EWR",
+        "destination": "YUL",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "EWR",
+        "destination": "YYZ",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "EWR",
+        "destination": "ZRH",
+        "airlines_shared": [
+            "data\\LX",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "FCO",
+        "destination": "EWR",
+        "airlines_shared": [
+            "data\\ET",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "FCO",
+        "destination": "IAD",
+        "airlines_shared": [
+            "data\\ET",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "FCO",
+        "destination": "ORD",
+        "airlines_shared": [
+            "data\\ET",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "FCO",
+        "destination": "YYZ",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\ET"
+        ]
+    },
+    {
+        "origin": "FNA",
+        "destination": "OUA",
+        "airlines_shared": [
+            "data\\ET",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "FRA",
+        "destination": "ATH",
+        "airlines_shared": [
+            "data\\A3",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "FRA",
+        "destination": "BLQ",
+        "airlines_shared": [
+            "data\\EN",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "FRA",
+        "destination": "BOM",
+        "airlines_shared": [
+            "data\\AI",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "FRA",
+        "destination": "BRU",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\SN"
+        ]
+    },
+    {
+        "origin": "FRA",
+        "destination": "CAI",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\MS"
+        ]
+    },
+    {
+        "origin": "FRA",
+        "destination": "DEL",
+        "airlines_shared": [
+            "data\\AI",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "FRA",
+        "destination": "DEN",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "FRA",
+        "destination": "EWR",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "FRA",
+        "destination": "GVA",
+        "airlines_shared": [
+            "data\\EN",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "FRA",
+        "destination": "HND",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\NH"
+        ]
+    },
+    {
+        "origin": "FRA",
+        "destination": "IAD",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "FRA",
+        "destination": "IAH",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "FRA",
+        "destination": "ICN",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\OZ"
+        ]
+    },
+    {
+        "origin": "FRA",
+        "destination": "IST",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "FRA",
+        "destination": "JFK",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\SQ"
+        ]
+    },
+    {
+        "origin": "FRA",
+        "destination": "LIN",
+        "airlines_shared": [
+            "data\\EN",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "FRA",
+        "destination": "LIS",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\TP"
+        ]
+    },
+    {
+        "origin": "FRA",
+        "destination": "LUX",
+        "airlines_shared": [
+            "data\\EN",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "FRA",
+        "destination": "LYS",
+        "airlines_shared": [
+            "data\\EN",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "FRA",
+        "destination": "MXP",
+        "airlines_shared": [
+            "data\\EN",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "FRA",
+        "destination": "ORD",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "FRA",
+        "destination": "SFO",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "FRA",
+        "destination": "SIN",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\SQ"
+        ]
+    },
+    {
+        "origin": "FRA",
+        "destination": "SXB",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\LO"
+        ]
+    },
+    {
+        "origin": "FRA",
+        "destination": "VIE",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\OS"
+        ]
+    },
+    {
+        "origin": "FRA",
+        "destination": "WAW",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\LO"
+        ]
+    },
+    {
+        "origin": "FRA",
+        "destination": "WRO",
+        "airlines_shared": [
+            "data\\EN",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "FRA",
+        "destination": "YYZ",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "FRA",
+        "destination": "ZAG",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\OU"
+        ]
+    },
+    {
+        "origin": "FRA",
+        "destination": "ZRH",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\LX"
+        ]
+    },
+    {
+        "origin": "GMP",
+        "destination": "HND",
+        "airlines_shared": [
+            "data\\NH",
+            "data\\OZ"
+        ]
+    },
+    {
+        "origin": "GRZ",
+        "destination": "MUC",
+        "airlines_shared": [
+            "data\\EN",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "GUA",
+        "destination": "IAD",
+        "airlines_shared": [
+            "data\\AV",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "GUA",
+        "destination": "LAX",
+        "airlines_shared": [
+            "data\\AV",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "GUA",
+        "destination": "ORD",
+        "airlines_shared": [
+            "data\\AV",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "GUA",
+        "destination": "SJO",
+        "airlines_shared": [
+            "data\\AV",
+            "data\\CM"
+        ]
+    },
+    {
+        "origin": "GVA",
+        "destination": "ATH",
+        "airlines_shared": [
+            "data\\A3",
+            "data\\LX"
+        ]
+    },
+    {
+        "origin": "GVA",
+        "destination": "BRU",
+        "airlines_shared": [
+            "data\\LX",
+            "data\\SN"
+        ]
+    },
+    {
+        "origin": "GVA",
+        "destination": "FRA",
+        "airlines_shared": [
+            "data\\EN",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "GVA",
+        "destination": "LIS",
+        "airlines_shared": [
+            "data\\LX",
+            "data\\TP"
+        ]
+    },
+    {
+        "origin": "GVA",
+        "destination": "MUC",
+        "airlines_shared": [
+            "data\\EN",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "GVA",
+        "destination": "OPO",
+        "airlines_shared": [
+            "data\\LX",
+            "data\\TP"
+        ]
+    },
+    {
+        "origin": "HND",
+        "destination": "BKK",
+        "airlines_shared": [
+            "data\\NH",
+            "data\\TG"
+        ]
+    },
+    {
+        "origin": "HND",
+        "destination": "FRA",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\NH"
+        ]
+    },
+    {
+        "origin": "HND",
+        "destination": "GMP",
+        "airlines_shared": [
+            "data\\NH",
+            "data\\OZ"
+        ]
+    },
+    {
+        "origin": "HND",
+        "destination": "IAD",
+        "airlines_shared": [
+            "data\\NH",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "HND",
+        "destination": "LAX",
+        "airlines_shared": [
+            "data\\NH",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "HND",
+        "destination": "MUC",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\NH"
+        ]
+    },
+    {
+        "origin": "HND",
+        "destination": "ORD",
+        "airlines_shared": [
+            "data\\NH",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "HND",
+        "destination": "SFO",
+        "airlines_shared": [
+            "data\\NH",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "HND",
+        "destination": "SIN",
+        "airlines_shared": [
+            "data\\NH",
+            "data\\SQ"
+        ]
+    },
+    {
+        "origin": "HND",
+        "destination": "TSA",
+        "airlines_shared": [
+            "data\\BR",
+            "data\\NH"
+        ]
+    },
+    {
+        "origin": "IAD",
+        "destination": "FRA",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "IAD",
+        "destination": "GUA",
+        "airlines_shared": [
+            "data\\AV",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "IAD",
+        "destination": "HND",
+        "airlines_shared": [
+            "data\\NH",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "IAD",
+        "destination": "LIS",
+        "airlines_shared": [
+            "data\\TP",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "IAD",
+        "destination": "MUC",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "IAD",
+        "destination": "SAL",
+        "airlines_shared": [
+            "data\\AV",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "IAD",
+        "destination": "SJO",
+        "airlines_shared": [
+            "data\\AV",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "IAD",
+        "destination": "YUL",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "IAD",
+        "destination": "YYZ",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "IAD",
+        "destination": "ZRH",
+        "airlines_shared": [
+            "data\\LX",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "IAH",
+        "destination": "FRA",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "IAH",
+        "destination": "SAL",
+        "airlines_shared": [
+            "data\\AV",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "IAH",
+        "destination": "YYZ",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "ICN",
+        "destination": "BKK",
+        "airlines_shared": [
+            "data\\OZ",
+            "data\\TG"
+        ]
+    },
+    {
+        "origin": "ICN",
+        "destination": "FRA",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\OZ"
+        ]
+    },
+    {
+        "origin": "ICN",
+        "destination": "IST",
+        "airlines_shared": [
+            "data\\OZ",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "ICN",
+        "destination": "SFO",
+        "airlines_shared": [
+            "data\\OZ",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "ICN",
+        "destination": "SIN",
+        "airlines_shared": [
+            "data\\OZ",
+            "data\\SQ"
+        ]
+    },
+    {
+        "origin": "ICN",
+        "destination": "SZX",
+        "airlines_shared": [
+            "data\\OZ",
+            "data\\ZH"
+        ]
+    },
+    {
+        "origin": "ICN",
+        "destination": "TPE",
+        "airlines_shared": [
+            "data\\BR",
+            "data\\OZ"
+        ]
+    },
+    {
+        "origin": "IST",
+        "destination": "ADD",
+        "airlines_shared": [
+            "data\\ET",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "IST",
+        "destination": "ATH",
+        "airlines_shared": [
+            "data\\A3",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "IST",
+        "destination": "BAH",
+        "airlines_shared": [
+            "data\\GF",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "IST",
+        "destination": "BKK",
+        "airlines_shared": [
+            "data\\TG",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "IST",
+        "destination": "CAI",
+        "airlines_shared": [
+            "data\\MS",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "IST",
+        "destination": "FRA",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "IST",
+        "destination": "ICN",
+        "airlines_shared": [
+            "data\\OZ",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "IST",
+        "destination": "KRK",
+        "airlines_shared": [
+            "data\\LO",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "IST",
+        "destination": "MCT",
+        "airlines_shared": [
+            "data\\TK",
+            "data\\WY"
+        ]
+    },
+    {
+        "origin": "IST",
+        "destination": "MUC",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "IST",
+        "destination": "SIN",
+        "airlines_shared": [
+            "data\\SQ",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "IST",
+        "destination": "WAW",
+        "airlines_shared": [
+            "data\\LO",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "JFK",
+        "destination": "FRA",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\SQ"
+        ]
+    },
+    {
+        "origin": "JNB",
+        "destination": "CPT",
+        "airlines_shared": [
+            "data\\SA",
+            "data\\SQ"
+        ]
+    },
+    {
+        "origin": "JNB",
+        "destination": "DUR",
+        "airlines_shared": [
+            "data\\SA",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "KRK",
+        "destination": "IST",
+        "airlines_shared": [
+            "data\\LO",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "KUL",
+        "destination": "SIN",
+        "airlines_shared": [
+            "data\\ET",
+            "data\\SQ"
+        ]
+    },
+    {
+        "origin": "LAX",
+        "destination": "GUA",
+        "airlines_shared": [
+            "data\\AV",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "LAX",
+        "destination": "HND",
+        "airlines_shared": [
+            "data\\NH",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "LAX",
+        "destination": "PVR",
+        "airlines_shared": [
+            "data\\LX",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "LAX",
+        "destination": "SAL",
+        "airlines_shared": [
+            "data\\AV",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "LAX",
+        "destination": "YVR",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "LCA",
+        "destination": "ATH",
+        "airlines_shared": [
+            "data\\A3",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "LHR",
+        "destination": "BKK",
+        "airlines_shared": [
+            "data\\BR",
+            "data\\TG"
+        ]
+    },
+    {
+        "origin": "LHR",
+        "destination": "DEL",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\AI"
+        ]
+    },
+    {
+        "origin": "LIN",
+        "destination": "FRA",
+        "airlines_shared": [
+            "data\\EN",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "LIS",
+        "destination": "BRU",
+        "airlines_shared": [
+            "data\\SN",
+            "data\\TP"
+        ]
+    },
+    {
+        "origin": "LIS",
+        "destination": "EWR",
+        "airlines_shared": [
+            "data\\TP",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "LIS",
+        "destination": "FRA",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\TP"
+        ]
+    },
+    {
+        "origin": "LIS",
+        "destination": "GVA",
+        "airlines_shared": [
+            "data\\LX",
+            "data\\TP"
+        ]
+    },
+    {
+        "origin": "LIS",
+        "destination": "IAD",
+        "airlines_shared": [
+            "data\\TP",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "LIS",
+        "destination": "MUC",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\TP"
+        ]
+    },
+    {
+        "origin": "LIS",
+        "destination": "YUL",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\TP"
+        ]
+    },
+    {
+        "origin": "LIS",
+        "destination": "YYZ",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\TP"
+        ]
+    },
+    {
+        "origin": "LIS",
+        "destination": "ZRH",
+        "airlines_shared": [
+            "data\\LX",
+            "data\\TP"
+        ]
+    },
+    {
+        "origin": "LUX",
+        "destination": "FRA",
+        "airlines_shared": [
+            "data\\EN",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "LYS",
+        "destination": "FRA",
+        "airlines_shared": [
+            "data\\EN",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "LYS",
+        "destination": "MUC",
+        "airlines_shared": [
+            "data\\EN",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "MAA",
+        "destination": "HYD",
+        "airlines_shared": [
+            "data\\AI",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "MAA",
+        "destination": "SIN",
+        "airlines_shared": [
+            "data\\AI",
+            "data\\SQ"
+        ]
+    },
+    {
+        "origin": "MAD",
+        "destination": "IST",
+        "airlines_shared": [
+            "data\\MS",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "MCT",
+        "destination": "BAH",
+        "airlines_shared": [
+            "data\\GF",
+            "data\\WY"
+        ]
+    },
+    {
+        "origin": "MCT",
+        "destination": "BOM",
+        "airlines_shared": [
+            "data\\AI",
+            "data\\WY"
+        ]
+    },
+    {
+        "origin": "MCT",
+        "destination": "CAI",
+        "airlines_shared": [
+            "data\\MS",
+            "data\\WY"
+        ]
+    },
+    {
+        "origin": "MCT",
+        "destination": "IST",
+        "airlines_shared": [
+            "data\\TK",
+            "data\\WY"
+        ]
+    },
+    {
+        "origin": "MDE",
+        "destination": "PTY",
+        "airlines_shared": [
+            "data\\AV",
+            "data\\CM"
+        ]
+    },
+    {
+        "origin": "MEL",
+        "destination": "SIN",
+        "airlines_shared": [
+            "data\\SQ",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "MIA",
+        "destination": "BOG",
+        "airlines_shared": [
+            "data\\AV",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "MRY",
+        "destination": "SFO",
+        "airlines_shared": [
+            "data\\LX",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "MUC",
+        "destination": "AMS",
+        "airlines_shared": [
+            "data\\EN",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "MUC",
+        "destination": "ATH",
+        "airlines_shared": [
+            "data\\A3",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "MUC",
+        "destination": "BKK",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\TG"
+        ]
+    },
+    {
+        "origin": "MUC",
+        "destination": "BRU",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\SN"
+        ]
+    },
+    {
+        "origin": "MUC",
+        "destination": "CAI",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\MS"
+        ]
+    },
+    {
+        "origin": "MUC",
+        "destination": "DEN",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "MUC",
+        "destination": "EWR",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "MUC",
+        "destination": "GRZ",
+        "airlines_shared": [
+            "data\\EN",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "MUC",
+        "destination": "GVA",
+        "airlines_shared": [
+            "data\\EN",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "MUC",
+        "destination": "HND",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\NH"
+        ]
+    },
+    {
+        "origin": "MUC",
+        "destination": "IAD",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "MUC",
+        "destination": "IST",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "MUC",
+        "destination": "LIS",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\TP"
+        ]
+    },
+    {
+        "origin": "MUC",
+        "destination": "LYS",
+        "airlines_shared": [
+            "data\\EN",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "MUC",
+        "destination": "MXP",
+        "airlines_shared": [
+            "data\\EN",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "MUC",
+        "destination": "NCE",
+        "airlines_shared": [
+            "data\\EN",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "MUC",
+        "destination": "ORD",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "MUC",
+        "destination": "SFO",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "MUC",
+        "destination": "SIN",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\SQ"
+        ]
+    },
+    {
+        "origin": "MUC",
+        "destination": "VIE",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\OS"
+        ]
+    },
+    {
+        "origin": "MUC",
+        "destination": "WAW",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\LO"
+        ]
+    },
+    {
+        "origin": "MUC",
+        "destination": "ZAG",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\OU"
+        ]
+    },
+    {
+        "origin": "MUC",
+        "destination": "ZRH",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\LX"
+        ]
+    },
+    {
+        "origin": "MXP",
+        "destination": "FRA",
+        "airlines_shared": [
+            "data\\EN",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "MXP",
+        "destination": "MUC",
+        "airlines_shared": [
+            "data\\EN",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "MXP",
+        "destination": "ZRH",
+        "airlines_shared": [
+            "data\\ET",
+            "data\\LX"
+        ]
+    },
+    {
+        "origin": "NCE",
+        "destination": "MUC",
+        "airlines_shared": [
+            "data\\EN",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "NDJ",
+        "destination": "NBO",
+        "airlines_shared": [
+            "data\\ET",
+            "data\\MS"
+        ]
+    },
+    {
+        "origin": "NRT",
+        "destination": "BKK",
+        "airlines_shared": [
+            "data\\NH",
+            "data\\TG"
+        ]
+    },
+    {
+        "origin": "NRT",
+        "destination": "SFO",
+        "airlines_shared": [
+            "data\\NH",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "NRT",
+        "destination": "SIN",
+        "airlines_shared": [
+            "data\\NH",
+            "data\\SQ"
+        ]
+    },
+    {
+        "origin": "NRT",
+        "destination": "TPE",
+        "airlines_shared": [
+            "data\\BR",
+            "data\\NH"
+        ]
+    },
+    {
+        "origin": "OPO",
+        "destination": "GVA",
+        "airlines_shared": [
+            "data\\LX",
+            "data\\TP"
+        ]
+    },
+    {
+        "origin": "OPO",
+        "destination": "ZRH",
+        "airlines_shared": [
+            "data\\LX",
+            "data\\TP"
+        ]
+    },
+    {
+        "origin": "ORD",
+        "destination": "FRA",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "ORD",
+        "destination": "GUA",
+        "airlines_shared": [
+            "data\\AV",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "ORD",
+        "destination": "HND",
+        "airlines_shared": [
+            "data\\NH",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "ORD",
+        "destination": "MUC",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "ORD",
+        "destination": "YUL",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "ORD",
+        "destination": "YVR",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "ORD",
+        "destination": "YYZ",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "ORD",
+        "destination": "ZRH",
+        "airlines_shared": [
+            "data\\LX",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "OUA",
+        "destination": "FNA",
+        "airlines_shared": [
+            "data\\ET",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "PTY",
+        "destination": "BOG",
+        "airlines_shared": [
+            "data\\AV",
+            "data\\CM"
+        ]
+    },
+    {
+        "origin": "PTY",
+        "destination": "MDE",
+        "airlines_shared": [
+            "data\\AV",
+            "data\\CM"
+        ]
+    },
+    {
+        "origin": "PTY",
+        "destination": "SAL",
+        "airlines_shared": [
+            "data\\AV",
+            "data\\CM"
+        ]
+    },
+    {
+        "origin": "PTY",
+        "destination": "SJO",
+        "airlines_shared": [
+            "data\\AV",
+            "data\\CM"
+        ]
+    },
+    {
+        "origin": "RDU",
+        "destination": "IAD",
+        "airlines_shared": [
+            "data\\LX",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "SAL",
+        "destination": "IAD",
+        "airlines_shared": [
+            "data\\AV",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "SAL",
+        "destination": "IAH",
+        "airlines_shared": [
+            "data\\AV",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "SAL",
+        "destination": "LAX",
+        "airlines_shared": [
+            "data\\AV",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "SAL",
+        "destination": "PTY",
+        "airlines_shared": [
+            "data\\AV",
+            "data\\CM"
+        ]
+    },
+    {
+        "origin": "SFO",
+        "destination": "AKL",
+        "airlines_shared": [
+            "data\\NZ",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "SFO",
+        "destination": "BUR",
+        "airlines_shared": [
+            "data\\LX",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "SFO",
+        "destination": "FRA",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "SFO",
+        "destination": "GRB",
+        "airlines_shared": [
+            "data\\LX",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "SFO",
+        "destination": "HND",
+        "airlines_shared": [
+            "data\\NH",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "SFO",
+        "destination": "ICN",
+        "airlines_shared": [
+            "data\\OZ",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "SFO",
+        "destination": "MUC",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "SFO",
+        "destination": "NRT",
+        "airlines_shared": [
+            "data\\NH",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "SFO",
+        "destination": "SIN",
+        "airlines_shared": [
+            "data\\SQ",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "SFO",
+        "destination": "TPE",
+        "airlines_shared": [
+            "data\\BR",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "SFO",
+        "destination": "YVR",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "SFO",
+        "destination": "YYZ",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "SIN",
+        "destination": "AKL",
+        "airlines_shared": [
+            "data\\NZ",
+            "data\\SQ"
+        ]
+    },
+    {
+        "origin": "SIN",
+        "destination": "BKK",
+        "airlines_shared": [
+            "data\\SQ",
+            "data\\TG"
+        ]
+    },
+    {
+        "origin": "SIN",
+        "destination": "BLR",
+        "airlines_shared": [
+            "data\\AI",
+            "data\\SQ"
+        ]
+    },
+    {
+        "origin": "SIN",
+        "destination": "BOM",
+        "airlines_shared": [
+            "data\\AI",
+            "data\\SQ"
+        ]
+    },
+    {
+        "origin": "SIN",
+        "destination": "DEL",
+        "airlines_shared": [
+            "data\\AI",
+            "data\\SQ"
+        ]
+    },
+    {
+        "origin": "SIN",
+        "destination": "FRA",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\SQ"
+        ]
+    },
+    {
+        "origin": "SIN",
+        "destination": "HND",
+        "airlines_shared": [
+            "data\\NH",
+            "data\\SQ"
+        ]
+    },
+    {
+        "origin": "SIN",
+        "destination": "ICN",
+        "airlines_shared": [
+            "data\\OZ",
+            "data\\SQ"
+        ]
+    },
+    {
+        "origin": "SIN",
+        "destination": "IST",
+        "airlines_shared": [
+            "data\\SQ",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "SIN",
+        "destination": "KUL",
+        "airlines_shared": [
+            "data\\ET",
+            "data\\SQ"
+        ]
+    },
+    {
+        "origin": "SIN",
+        "destination": "MAA",
+        "airlines_shared": [
+            "data\\AI",
+            "data\\SQ"
+        ]
+    },
+    {
+        "origin": "SIN",
+        "destination": "MEL",
+        "airlines_shared": [
+            "data\\SQ",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "SIN",
+        "destination": "MUC",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\SQ"
+        ]
+    },
+    {
+        "origin": "SIN",
+        "destination": "NRT",
+        "airlines_shared": [
+            "data\\NH",
+            "data\\SQ"
+        ]
+    },
+    {
+        "origin": "SIN",
+        "destination": "SFO",
+        "airlines_shared": [
+            "data\\SQ",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "SIN",
+        "destination": "SZX",
+        "airlines_shared": [
+            "data\\SQ",
+            "data\\ZH"
+        ]
+    },
+    {
+        "origin": "SIN",
+        "destination": "TPE",
+        "airlines_shared": [
+            "data\\BR",
+            "data\\SQ"
+        ]
+    },
+    {
+        "origin": "SIN",
+        "destination": "ZRH",
+        "airlines_shared": [
+            "data\\LX",
+            "data\\SQ"
+        ]
+    },
+    {
+        "origin": "SJO",
+        "destination": "GUA",
+        "airlines_shared": [
+            "data\\AV",
+            "data\\CM"
+        ]
+    },
+    {
+        "origin": "SJO",
+        "destination": "IAD",
+        "airlines_shared": [
+            "data\\AV",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "SJO",
+        "destination": "PTY",
+        "airlines_shared": [
+            "data\\AV",
+            "data\\CM"
+        ]
+    },
+    {
+        "origin": "SKG",
+        "destination": "ZRH",
+        "airlines_shared": [
+            "data\\A3",
+            "data\\LX"
+        ]
+    },
+    {
+        "origin": "STR",
+        "destination": "FRA",
+        "airlines_shared": [
+            "data\\EN",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "SXB",
+        "destination": "FRA",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\LO"
+        ]
+    },
+    {
+        "origin": "SZX",
+        "destination": "ICN",
+        "airlines_shared": [
+            "data\\OZ",
+            "data\\ZH"
+        ]
+    },
+    {
+        "origin": "SZX",
+        "destination": "SIN",
+        "airlines_shared": [
+            "data\\SQ",
+            "data\\ZH"
+        ]
+    },
+    {
+        "origin": "SZX",
+        "destination": "TPE",
+        "airlines_shared": [
+            "data\\BR",
+            "data\\ZH"
+        ]
+    },
+    {
+        "origin": "TPE",
+        "destination": "ICN",
+        "airlines_shared": [
+            "data\\BR",
+            "data\\OZ"
+        ]
+    },
+    {
+        "origin": "TPE",
+        "destination": "NRT",
+        "airlines_shared": [
+            "data\\BR",
+            "data\\NH"
+        ]
+    },
+    {
+        "origin": "TPE",
+        "destination": "SFO",
+        "airlines_shared": [
+            "data\\BR",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "TPE",
+        "destination": "SIN",
+        "airlines_shared": [
+            "data\\BR",
+            "data\\SQ"
+        ]
+    },
+    {
+        "origin": "TPE",
+        "destination": "SZX",
+        "airlines_shared": [
+            "data\\BR",
+            "data\\ZH"
+        ]
+    },
+    {
+        "origin": "TSA",
+        "destination": "HND",
+        "airlines_shared": [
+            "data\\BR",
+            "data\\NH"
+        ]
+    },
+    {
+        "origin": "VIE",
+        "destination": "ATH",
+        "airlines_shared": [
+            "data\\A3",
+            "data\\OS"
+        ]
+    },
+    {
+        "origin": "VIE",
+        "destination": "BKK",
+        "airlines_shared": [
+            "data\\BR",
+            "data\\OS"
+        ]
+    },
+    {
+        "origin": "VIE",
+        "destination": "BRU",
+        "airlines_shared": [
+            "data\\OS",
+            "data\\SN"
+        ]
+    },
+    {
+        "origin": "VIE",
+        "destination": "CAI",
+        "airlines_shared": [
+            "data\\MS",
+            "data\\OS"
+        ]
+    },
+    {
+        "origin": "VIE",
+        "destination": "CPH",
+        "airlines_shared": [
+            "data\\ET",
+            "data\\OS"
+        ]
+    },
+    {
+        "origin": "VIE",
+        "destination": "FRA",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\OS"
+        ]
+    },
+    {
+        "origin": "VIE",
+        "destination": "MUC",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\OS"
+        ]
+    },
+    {
+        "origin": "VIE",
+        "destination": "ZAG",
+        "airlines_shared": [
+            "data\\OS",
+            "data\\OU"
+        ]
+    },
+    {
+        "origin": "VIE",
+        "destination": "ZRH",
+        "airlines_shared": [
+            "data\\LX",
+            "data\\OS"
+        ]
+    },
+    {
+        "origin": "WAW",
+        "destination": "ATH",
+        "airlines_shared": [
+            "data\\A3",
+            "data\\LO"
+        ]
+    },
+    {
+        "origin": "WAW",
+        "destination": "BRU",
+        "airlines_shared": [
+            "data\\LO",
+            "data\\SN"
+        ]
+    },
+    {
+        "origin": "WAW",
+        "destination": "FRA",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\LO"
+        ]
+    },
+    {
+        "origin": "WAW",
+        "destination": "IST",
+        "airlines_shared": [
+            "data\\LO",
+            "data\\TK"
+        ]
+    },
+    {
+        "origin": "WAW",
+        "destination": "MUC",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\LO"
+        ]
+    },
+    {
+        "origin": "WAW",
+        "destination": "ZRH",
+        "airlines_shared": [
+            "data\\LO",
+            "data\\LX"
+        ]
+    },
+    {
+        "origin": "WRO",
+        "destination": "FRA",
+        "airlines_shared": [
+            "data\\EN",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "YBG",
+        "destination": "YUL",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\YN"
+        ]
+    },
+    {
+        "origin": "YHZ",
+        "destination": "EWR",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "YUL",
+        "destination": "BOG",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\AV"
+        ]
+    },
+    {
+        "origin": "YUL",
+        "destination": "EWR",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "YUL",
+        "destination": "IAD",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "YUL",
+        "destination": "LIS",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\TP"
+        ]
+    },
+    {
+        "origin": "YUL",
+        "destination": "ORD",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "YUL",
+        "destination": "YBG",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\YN"
+        ]
+    },
+    {
+        "origin": "YVR",
+        "destination": "AKL",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\NZ"
+        ]
+    },
+    {
+        "origin": "YVR",
+        "destination": "DEN",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "YVR",
+        "destination": "LAX",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "YVR",
+        "destination": "ORD",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "YVR",
+        "destination": "SFO",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "YYZ",
+        "destination": "BOG",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\AV"
+        ]
+    },
+    {
+        "origin": "YYZ",
+        "destination": "DEL",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\AI"
+        ]
+    },
+    {
+        "origin": "YYZ",
+        "destination": "DEN",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "YYZ",
+        "destination": "EWR",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "YYZ",
+        "destination": "FRA",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\LH"
+        ]
+    },
+    {
+        "origin": "YYZ",
+        "destination": "IAD",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "YYZ",
+        "destination": "IAH",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "YYZ",
+        "destination": "LIS",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\TP"
+        ]
+    },
+    {
+        "origin": "YYZ",
+        "destination": "ORD",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "YYZ",
+        "destination": "SFO",
+        "airlines_shared": [
+            "data\\AC",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "ZAG",
+        "destination": "FRA",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\OU"
+        ]
+    },
+    {
+        "origin": "ZAG",
+        "destination": "MUC",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\OU"
+        ]
+    },
+    {
+        "origin": "ZAG",
+        "destination": "VIE",
+        "airlines_shared": [
+            "data\\OS",
+            "data\\OU"
+        ]
+    },
+    {
+        "origin": "ZRH",
+        "destination": "ATH",
+        "airlines_shared": [
+            "data\\A3",
+            "data\\LX"
+        ]
+    },
+    {
+        "origin": "ZRH",
+        "destination": "BKK",
+        "airlines_shared": [
+            "data\\LX",
+            "data\\TG"
+        ]
+    },
+    {
+        "origin": "ZRH",
+        "destination": "BRU",
+        "airlines_shared": [
+            "data\\LX",
+            "data\\SN"
+        ]
+    },
+    {
+        "origin": "ZRH",
+        "destination": "CAI",
+        "airlines_shared": [
+            "data\\LX",
+            "data\\MS"
+        ]
+    },
+    {
+        "origin": "ZRH",
+        "destination": "DEL",
+        "airlines_shared": [
+            "data\\AI",
+            "data\\LX"
+        ]
+    },
+    {
+        "origin": "ZRH",
+        "destination": "DUS",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\LX"
+        ]
+    },
+    {
+        "origin": "ZRH",
+        "destination": "EWR",
+        "airlines_shared": [
+            "data\\LX",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "ZRH",
+        "destination": "FRA",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\LX"
+        ]
+    },
+    {
+        "origin": "ZRH",
+        "destination": "IAD",
+        "airlines_shared": [
+            "data\\LX",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "ZRH",
+        "destination": "LIS",
+        "airlines_shared": [
+            "data\\LX",
+            "data\\TP"
+        ]
+    },
+    {
+        "origin": "ZRH",
+        "destination": "MUC",
+        "airlines_shared": [
+            "data\\LH",
+            "data\\LX"
+        ]
+    },
+    {
+        "origin": "ZRH",
+        "destination": "MXP",
+        "airlines_shared": [
+            "data\\ET",
+            "data\\LX"
+        ]
+    },
+    {
+        "origin": "ZRH",
+        "destination": "OPO",
+        "airlines_shared": [
+            "data\\LX",
+            "data\\TP"
+        ]
+    },
+    {
+        "origin": "ZRH",
+        "destination": "ORD",
+        "airlines_shared": [
+            "data\\LX",
+            "data\\UA"
+        ]
+    },
+    {
+        "origin": "ZRH",
+        "destination": "SIN",
+        "airlines_shared": [
+            "data\\LX",
+            "data\\SQ"
+        ]
+    },
+    {
+        "origin": "ZRH",
+        "destination": "SKG",
+        "airlines_shared": [
+            "data\\A3",
+            "data\\LX"
+        ]
+    },
+    {
+        "origin": "ZRH",
+        "destination": "VIE",
+        "airlines_shared": [
+            "data\\LX",
+            "data\\OS"
+        ]
+    },
+    {
+        "origin": "ZRH",
+        "destination": "WAW",
+        "airlines_shared": [
+            "data\\LO",
+            "data\\LX"
+        ]
+    }
+]
